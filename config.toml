@@ -37,7 +37,7 @@ DefaultContentLanguage = "en"
 
     home = "FR Home"
     logo = "images/logo.png"
-    menufixed = false
+    menufixed = true
 
     footerDescription = "FRANCAIS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
     footerServiceTitle = "FRANCAIS Services"
@@ -104,7 +104,7 @@ DefaultContentLanguage = "en"
 
     home = "EN Home"
     logo = "images/logo.png"
-    menufixed = false
+    menufixed = true
 
     footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
     footerServiceTitle = "ENGLISH Service"
