@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://k-33.at/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
@@ -22,83 +22,17 @@ DefaultContentLanguage = "en"
 
     # Gestion des langues : FR / EN / NL / DE
     [[Params.listeLangues]]
-    code = "fr"
-    [[Params.listeLangues]]
     code = "en"
+    [[Params.listeLangues]]
+    code = "de"
+
 
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
-    ############ 1 - Site en FRANCAIS
-    [Languages.fr]
-    weight = 1
-    languageCode = "fr-fr"
-    title = "FRANCAIS Example site multi-language"
-    dateFormat = "2 January 2006"
-
-    home = "FR Home"
-    logo = "images/logo.png"
-    menufixed = true
-
-    footerDescription = "FRANCAIS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-    footerServiceTitle = "FRANCAIS Services"
-    footerQuicklinkTitle = "FRANCAIS Quick links"
-    footerAboutTitle = "FRANCAIS About"
-    footerSubscribeTitle = "FRANCAIS Subscribe"
-
-    # Hero Area Section
-    [Languages.fr.params.hero]
-        enable  = true
-        heading = "FRANCAIS We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
-
-    # About 2 Section
-    [Languages.fr.params.aboutSm]
-        enable  = true
-        title   = "FRANCAIS We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
-    # Blog Section On Homepage
-    [Languages.fr.params.blog]
-        enable  = true
-        topTitle= "OUR UNTOLD STORY"
-        title   = "FRANCAIS Blog."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-
-    # Contact Section
-    [Languages.fr.params.contact]
-        enable  = true
-        topTitle= "DROP US A NOTE"
-        title   = "FRANCAIS Contact Us."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-        address = "14/05, Stockhome <br> Victori Palace , United States"
-        phone   = "(03) 9283 2617"
-        fax     = "+61 3827 3590"
-        facebook= "https://www.facebook.com/"
-        twitter = "https://twitter.com/"
-        linkedin= "https://www.linkedin.com/"
-        dribbble= "https://dribbble.com/"
-        instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
-        mapMarker   = "images/marker.png"
-
-    # Call to Action Section on About Page
-    [Languages.fr.params.cta]
-        enable  = true
-        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "FRANCAIS Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-        btnText = "Nous contacter"
-
-    ############# 2 - Site en ENGLISH
+    ############# 1 - Site en ENGLISH
     [Languages.en]
-    weight = 2
-    languageCode = "en-us"
+    weight = 1
+    languageCode = "en-uk"
     title = "ENGLISH Example site multi-language"
     dateFormat = "January 2, 2006"
 
@@ -161,6 +95,74 @@ DefaultContentLanguage = "en"
         title   = "ENGLISH Let's Create Something Together"
         subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
         btnText = "Contact Us"
+
+    ############ 3 - Site in German
+    [Languages.de]
+    weight = 2
+    languageCode = "de-at"
+    title = "GERMAN Example site multi-language"
+    dateFormat = "2 January 2006"
+
+    home = "DE Home"
+    logo = "images/logo.png"
+    menufixed = true
+
+    footerDescription = "GERMAN Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerServiceTitle = "GERMAN Services"
+    footerQuicklinkTitle = "GERMAN Quick links"
+    footerAboutTitle = "GERMAN About"
+    footerSubscribeTitle = "GERMAN Subscribe"
+
+    # Hero Area Section
+    [Languages.de.params.hero]
+        enable  = true
+        heading = "GERMAN We love to make brands grow"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        button  = true
+        btnText = "Know More"
+        btnURL  = "https://themefisher.com/"
+        videoThumb = "images/slider/video-player-thumb.jpg"
+        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+
+    # About 2 Section
+    [Languages.de.params.aboutSm]
+        enable  = true
+        title   = "GERMAN We have explored the digital landscape with passion for a long time"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+    # Blog Section On Homepage
+    [Languages.de.params.blog]
+        enable  = true
+        topTitle= "OUR UNTOLD STORY"
+        title   = "GERMAN Blog."
+        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+    # Contact Section
+    [Languages.de.params.contact]
+        enable  = true
+        topTitle= "DROP US A NOTE"
+        title   = "GERMAN Contact Us."
+        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        address = "14/05, Stockhome <br> Victori Palace , United States"
+        phone   = "(03) 9283 2617"
+        fax     = "+61 3827 3590"
+        facebook= "https://www.facebook.com/"
+        twitter = "https://twitter.com/"
+        linkedin= "https://www.linkedin.com/"
+        dribbble= "https://dribbble.com/"
+        instagram= "https://www.instagram.com/"
+        mapLatitude = "51.507351"
+        mapLongitude= "-0.127758"
+        mapMarker   = "images/marker.png"
+
+    # Call to Action Section on About Page
+    [Languages.de.params.cta]
+        enable  = true
+        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+        title   = "GERMAN Let's Create Something Together"
+        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+        btnText = "Nous contacter"
+
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
