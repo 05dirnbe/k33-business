@@ -1,0 +1,28 @@
+enable    : true
+topTitle  : A LIST OF SERVICES
+title     : GERMAN Our Service.
+subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item      :
+  - icon  : tf-ion-ios-copy-outline
+    title : GERMAN Branding
+    list  :
+      - name : Brand Strategy
+      - name : Advertising / Campaigns
+      - name : Product Design
+      - name : Video / Photography
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : GERMAN Branding
+    list  :
+      - name : Web Design
+      - name : E- Commerce Site Design
+      - name : App Development
+      - name : Mobile UI Design
+
+  - icon  : tf-ion-ios-book-outline
+    title : GERMAN IOS App Development
+    list  :
+      - name : Game Development
+      - name : Game Design
+      - name : Social Media Marketing
+      - name : Mobile UI Design

@@ -1,0 +1,24 @@
+[about]
+other = "DE About"
+[service]
+other = "DE Service"
+[portfolio]
+other = "DE Portfolio"
+[blog]
+other = "DE Blog"
+[contact]
+other = "DE Contact"
+
+[graphicdesign]
+other = "DE Graphic Design"
+[webdesign]
+other = "DE Web Design"
+[webdevelopment]
+other = "DE Web Development"
+
+[partners]
+other = "DE Partners"
+[faqs]
+other = "DE FAQ's"
+[badges]
+other = "DE Badges"
