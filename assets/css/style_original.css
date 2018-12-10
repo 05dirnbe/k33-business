@@ -1,18 +1,18 @@
-@import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600,700");
 body {
   line-height: 1.4;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Raleway", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
 p {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #9a9a9a;
   font-size: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 600;
 }
 
@@ -396,7 +396,7 @@ a:focus, a:hover {
 .header-bradcrumb a, .header-bradcrumb .active {
   color: #cfcfcf;
   font-weight: 200;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 .header-bradcrumb a:hover {
@@ -1723,7 +1723,7 @@ a:focus, a:hover {
   letter-spacing: 1px;
   text-transform: capitalize;
   transition: color .3s;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Raleway", sans-serif;
   display: block;
 }
 
