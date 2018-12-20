@@ -1,0 +1,43 @@
+enable: true
+topTitle: Questions
+title: GERMAN Frequently Asked Questions
+subtitle: Here you will find all the answers to questions that our customers usually ask us.
+
+
+content :
+
+  - categ:
+    - title: General
+      item:
+        - question: Why can not we book a place?
+          answer: Our pitches are not delimited and have no numbers. For this reason, it is impossible to reserve individual seats.
+
+        - question: Do you have tents to rent?
+          answer: On reservation, we rent tents 2 or 3/4 people (see pricing section).
+
+        - question: I heard about your tents "Cocoon & Cozy". What is it ?
+          answer: These are all-inclusive luxury tents, double bed & wood stove
+
+        - question: I would like to come without a car, is it possible?
+          answer: Yes. We have a lot of guests coming with no car and staying several weeks on the campsite.
+
+  - categ:
+    - title: The campsite
+      item:
+        - question: Is there Internet access at the campsite?
+          answer: Yes. Most parts of the campground are covered by a Wifi (Wlan) network.
+
+        - question: Are there electrical connections?
+          answer: Yes, some parts of the campsite pitches have electric connections.
+
+        - question: Is there a swimming pool?
+          answer: Unfortunately, no.
+
+  - categ:
+    - title: Feeding
+      item:
+        - question: Do you have a grocery store?
+          answer: Yes we have a small grocery store with very good local and artisanal products.
+
+        - question: Do you sell bread?
+          answer: Yes, we sell bread, but it must be ordered the day before at our reception.

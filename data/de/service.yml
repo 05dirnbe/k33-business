@@ -5,6 +5,8 @@ subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reic
 item      :
   - icon  : tf-ion-ios-copy-outline
     title : GERMAN Branding
+    btnText     : Learn more
+    btnURL      : service/#checkup
     list  :
       - name : Brand Strategy
       - name : Advertising / Campaigns
@@ -13,6 +15,8 @@ item      :
 
   - icon  : tf-ion-ios-alarm-outline
     title : GERMAN Branding
+    btnText     : Learn more
+    btnURL      : service/#keynote
     list  :
       - name : Web Design
       - name : E- Commerce Site Design
@@ -21,6 +25,18 @@ item      :
 
   - icon  : tf-ion-ios-book-outline
     title : GERMAN IOS App Development
+    btnText     : Learn more
+    btnURL      : service/#consultation
+    list  :
+      - name : Game Development
+      - name : Game Design
+      - name : Social Media Marketing
+      - name : Mobile UI Design
+
+  - icon  : tf-ion-ios-book-outline
+    title : GERMAN IOS App Development
+    btnText     : Learn more
+    btnURL      : service/#workshop
     list  :
       - name : Game Development
       - name : Game Design

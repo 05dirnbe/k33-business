@@ -14,23 +14,17 @@ pygmentsCodeFences = true
 # Multilangues setup
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir = true
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # Site Params
 [params]
     logo = "images/logo.png"
 
-    # Gestion des langues : FR / EN / NL / DE
-    [[Params.listeLangues]]
-    code = "en"
-    [[Params.listeLangues]]
-    code = "de"
-
-
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
     ############# 1 - Site en ENGLISH
     [Languages.en]
+    languageName = "English"
     weight = 1
     languageCode = "en-uk"
     title = "ENGLISH Example site multi-language"
@@ -38,7 +32,7 @@ DefaultContentLanguage = "en"
 
     home = "EN Home"
     logo = "images/logo.png"
-    menufixed = true
+    menufixed = false
 
     footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
     footerServiceTitle = "ENGLISH Service"
@@ -51,21 +45,15 @@ DefaultContentLanguage = "en"
         enable  = true
         heading = "ENGLISH We love to make brands grow"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
+        button  = false
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
         videoThumb = "images/slider/video-player-thumb.jpg"
         videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
-    # About 2 Section
-    [Languages.en.params.aboutSm]
-        enable  = true
-        title   = "ENGLISH We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
     # Blog Section On Homepage
     [Languages.en.params.blog]
-        enable  = true
+        enable  = false
         topTitle= "OUR UNTOLD STORY"
         title   = "ENGLISH Blog."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -98,6 +86,7 @@ DefaultContentLanguage = "en"
 
     ############ 3 - Site in German
     [Languages.de]
+    languageName = "Deutsch"
     weight = 2
     languageCode = "de-at"
     title = "GERMAN Example site multi-language"
@@ -105,7 +94,7 @@ DefaultContentLanguage = "en"
 
     home = "DE Home"
     logo = "images/logo.png"
-    menufixed = true
+    menufixed = false
 
     footerDescription = "GERMAN Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
     footerServiceTitle = "GERMAN Services"
@@ -118,21 +107,15 @@ DefaultContentLanguage = "en"
         enable  = true
         heading = "GERMAN We love to make brands grow"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
+        button  = false
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
         videoThumb = "images/slider/video-player-thumb.jpg"
         videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
-    # About 2 Section
-    [Languages.de.params.aboutSm]
-        enable  = true
-        title   = "GERMAN We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
     # Blog Section On Homepage
     [Languages.de.params.blog]
-        enable  = true
+        enable  = false
         topTitle= "OUR UNTOLD STORY"
         title   = "GERMAN Blog."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -161,7 +144,7 @@ DefaultContentLanguage = "en"
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "GERMAN Let's Create Something Together"
         subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-        btnText = "Nous contacter"
+        btnText = "Let's talk"
 
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
@@ -169,6 +152,10 @@ DefaultContentLanguage = "en"
 # Site Menus
 [menu]
     # Navbar Menus
+    [[menu.nav]]
+        name    = "home"
+        url     = ""
+        weight  = 1
     [[menu.nav]]
         name    = "about"
         url     = "about"
@@ -178,36 +165,45 @@ DefaultContentLanguage = "en"
         url     = "service"
         weight  = 3
     [[menu.nav]]
-        name    = "portfolio"
-        url     = "portfolio"
+        name    = "applications"
+        url     = "applications"
         weight  = 4
     [[menu.nav]]
         name    = "blog"
         url     = "blog"
         weight  = 5
     [[menu.nav]]
+        name    = "academy"
+        url     = "https://k-33-academy.thinkific.com/collections"
+        weight  = 6
+    [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 6
+        weight  = 7
 
     # Footer Service Menu
     [[menu.service]]
-        name    = "graphicdesign"
-        url     = "service"
+        name    = "checkup"
+        url     = "service/#checkup"
         weight  = 1
     [[menu.service]]
-        name    = "webdesign"
-        url     = "service"
+        name    = "keynote"
+        url     = "service/#keynote"
         weight  = 2
     [[menu.service]]
-        name    = "webdevelopment"
-        url     = "service"
+        name    = "consultation"
+        url     = "service/#consultation"
         weight  = 3
+    [[menu.service]]
+        name    = "workshop"
+        url     = "service/#workshop"
+        weight  = 4
+
 
     # Footer Quick links Menu
     [[menu.quicklink]]
-        name    = "partners"
-        url     = "about"
+        name    = "contact2"
+        url     = "contact"
         weight  = 1
     [[menu.quicklink]]
         name    = "about"
@@ -215,9 +211,5 @@ DefaultContentLanguage = "en"
         weight  = 2
     [[menu.quicklink]]
         name    = "faqs"
-        url     = "about"
+        url     = "faqs"
         weight  = 3
-    [[menu.quicklink]]
-        name    = "badges"
-        url     = "about"
-        weight  = 4

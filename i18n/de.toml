@@ -1,24 +1,28 @@
+[home]
+other = "DE Home"
 [about]
-other = "DE About"
+other = "DE Über uns"
 [service]
 other = "DE Service"
-[portfolio]
-other = "DE Portfolio"
+[applications]
+other = "DE Anwendungen"
 [blog]
 other = "DE Blog"
+[academy]
+other = "DE Kurse"
 [contact]
-other = "DE Contact"
+other = "DE Kontakt"
 
-[graphicdesign]
-other = "DE Graphic Design"
-[webdesign]
-other = "DE Web Design"
-[webdevelopment]
-other = "DE Web Development"
+[checkup]
+other = "DE Checkup"
+[keynote]
+other = "DE Keynote"
+[consultation]
+other = "DE Consultation"
+[workshop]
+other = "DE Workshop"
 
-[partners]
-other = "DE Partners"
+[contact2]
+other = "DE Kontakt"
 [faqs]
 other = "DE FAQ's"
-[badges]
-other = "DE Badges"

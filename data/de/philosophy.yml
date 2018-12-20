@@ -1,6 +1,6 @@
 enable    : true
 topTitle   : GERMAN LITTLE MORE BRIEF
-title     : GERMAN About Us.
+title     : GERMAN Mission.
 subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 tabItem   :
   - id        : philosophy

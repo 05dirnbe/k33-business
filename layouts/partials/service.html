@@ -2,7 +2,7 @@
 {{ with $data.service }}
     {{ if .enable }}
     {{ "<!-- Service Section Start -->" | safeHTML }}
-    <section class="service-list section bg-gray">
+    <section class="service-list section" id = "service">
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -15,8 +15,9 @@
             </div>
             <div class="row">
                 {{ range .item }}
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="block">
+                        {{ "<!-- service description -->" | safeHTML }}
                         {{ with .icon }}<i class="{{.}}"></i>{{ end }}
                         {{ with .title }}<h3>{{.}}</h3>{{ end }}
                         <ul>
@@ -25,6 +26,12 @@
                             {{ end }}
                         </ul>
                     </div>
+                    <br>
+                    <div>
+                      <a class="btn btn-main" href="{{.btnURL}}">{{.btnText}}</a>
+                    </div>
+
+
                 </div>
                 {{ end }}
             </div>

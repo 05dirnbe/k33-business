@@ -1,24 +1,28 @@
+[home]
+other = "EN Home"
 [about]
 other = "EN About"
 [service]
 other = "EN Service"
-[portfolio]
-other = "EN Portfolio"
+[applications]
+other = "EN Applications"
 [blog]
 other = "EN Blog"
+[academy]
+other = "DE Courses"
 [contact]
 other = "EN Contact"
 
-[graphicdesign]
-other = "EN Graphic Design"
-[webdesign]
-other = "EN Web Design"
-[webdevelopment]
-other = "EN Web Development"
+[checkup]
+other = "EN Checkup"
+[keynote]
+other = "EN Keynote"
+[consultation]
+other = "EN Consultation"
+[workshop]
+other = "EN Workshop"
 
-[partners]
-other = "EN Partners"
+[contact2]
+other = "EN Contact"
 [faqs]
 other = "EN FAQ's"
-[badges]
-other = "EN Badges"

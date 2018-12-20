@@ -1,0 +1,170 @@
+enable  : true
+
+item  :
+  - enable      : true
+    name : checkup
+    background: true
+    topTitle    : ENGLISH This is one of our service packages
+    Title    : ENGLISH ZERO
+    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+    title     : ENGLISH We care about our work
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+    image       : images/about/about-1.jpg
+    servicelist :
+      - item: 1GB Disk Space
+      - item: 10 Email Account
+      - item: Script Installer
+      - item: 1 GB Storage
+      - item: 10 GB Bandwidth
+      - item: 24/7 Tech Support
+    item      :
+      - icon  : tf-ion-ios-copy-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Brand Strategy
+          - name : Advertising / Campaigns
+          - name : Product Design
+          - name : Video / Photography
+
+      - icon  : tf-ion-ios-alarm-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Web Design
+          - name : E- Commerce Site Design
+          - name : App Development
+          - name : Mobile UI Design
+
+      - icon  : tf-ion-ios-book-outline
+        title : ENGLISH IOS App Development
+        list  :
+          - name : Game Development
+          - name : Game Design
+          - name : Social Media Marketing
+          - name : Mobile UI Design
+
+  - enable      : true
+    name : keynote
+    background: false
+    topTitle    : ENGLISH This is one of our service packages
+    Title    : ENGLISH ZERO
+    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+    title     : ENGLISH We care about our work
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+    image       : images/about/about-1.jpg
+    servicelist :
+      - item: 1GB Disk Space
+      - item: 10 Email Account
+      - item: Script Installer
+      - item: 1 GB Storage
+      - item: 10 GB Bandwidth
+      - item: 24/7 Tech Support
+    item      :
+      - icon  : tf-ion-ios-copy-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Brand Strategy
+          - name : Advertising / Campaigns
+          - name : Product Design
+          - name : Video / Photography
+
+      - icon  : tf-ion-ios-alarm-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Web Design
+          - name : E- Commerce Site Design
+          - name : App Development
+          - name : Mobile UI Design
+
+      - icon  : tf-ion-ios-book-outline
+        title : ENGLISH IOS App Development
+        list  :
+          - name : Game Development
+          - name : Game Design
+          - name : Social Media Marketing
+          - name : Mobile UI Design
+
+  - enable      : true
+    name : consultation
+    background: true
+    topTitle    : ENGLISH This is one of our service packages
+    Title    : ENGLISH ZERO
+    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+    title     : ENGLISH We care about our work
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+    image       : images/about/about-1.jpg
+    servicelist :
+      - item: 1GB Disk Space
+      - item: 10 Email Account
+      - item: Script Installer
+      - item: 1 GB Storage
+      - item: 10 GB Bandwidth
+      - item: 24/7 Tech Support
+    item      :
+      - icon  : tf-ion-ios-copy-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Brand Strategy
+          - name : Advertising / Campaigns
+          - name : Product Design
+          - name : Video / Photography
+
+      - icon  : tf-ion-ios-alarm-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Web Design
+          - name : E- Commerce Site Design
+          - name : App Development
+          - name : Mobile UI Design
+
+      - icon  : tf-ion-ios-book-outline
+        title : ENGLISH IOS App Development
+        list  :
+          - name : Game Development
+          - name : Game Design
+          - name : Social Media Marketing
+          - name : Mobile UI Design
+
+  - enable      : true
+    name : workshop
+    background: false
+    topTitle    : ENGLISH This is one of our service packages
+    Title    : ENGLISH ZERO
+    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+    title     : ENGLISH We care about our work
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+    image       : images/about/about-1.jpg
+    servicelist :
+      - item: 1GB Disk Space
+      - item: 10 Email Account
+      - item: Script Installer
+      - item: 1 GB Storage
+      - item: 10 GB Bandwidth
+      - item: 24/7 Tech Support
+    item      :
+      - icon  : tf-ion-ios-copy-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Brand Strategy
+          - name : Advertising / Campaigns
+          - name : Product Design
+          - name : Video / Photography
+
+      - icon  : tf-ion-ios-alarm-outline
+        title : ENGLISH Branding
+        list  :
+          - name : Web Design
+          - name : E- Commerce Site Design
+          - name : App Development
+          - name : Mobile UI Design
+
+      - icon  : tf-ion-ios-book-outline
+        title : ENGLISH IOS App Development
+        list  :
+          - name : Game Development
+          - name : Game Design
+          - name : Social Media Marketing
+          - name : Mobile UI Design
