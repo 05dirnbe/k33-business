@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 ol, ul {
   margin: 0;
   padding: 0;
-  list-style: none;
+  
 }
 
 figure {
@@ -740,7 +740,7 @@ a:focus, a:hover {
 }
 
 /*=================================================================
-  About us 2 section
+  About us 2
 ==================================================================*/
 .about-2 {
   background: #F7F7F7;

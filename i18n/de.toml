@@ -26,3 +26,7 @@ other = "DE Workshop"
 other = "DE Kontakt"
 [faqs]
 other = "DE FAQ's"
+[privacy]
+other = "DE Datenschutz"
+[legal]
+other = "DE Impressum"

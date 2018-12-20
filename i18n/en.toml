@@ -26,3 +26,7 @@ other = "EN Workshop"
 other = "EN Contact"
 [faqs]
 other = "EN FAQ's"
+[privacy]
+other = "EN Privacy"
+[legal]
+other = "EN Legal note"
