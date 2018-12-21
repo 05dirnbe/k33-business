@@ -1,0 +1,91 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+    {{ if $data.legal.enable }}
+    {{ "<!-- Start Privacy Section -->" | safeHTML }}
+    <section class="section" id="privacy">
+        <div class="container-fluid">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with $data.legal.topTitle }}
+                            <h4>{{ . }}</h4>
+                        {{ end }}
+                        {{ with $data.legal.title }}
+                            <h2>{{ . }}</h2>
+                            <span class="border"></span>
+                        {{ end }}
+                        {{ with $data.legal.subtitle }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-10">
+                    <div class="section-xs">
+
+                      {{ .Site.Params.contact.firma }}<br>
+                      {{ .Site.Params.contact.name }}<br>
+                      {{ .Site.Params.contact.street }}<br>
+                      {{ .Site.Params.contact.town }}<br>
+                      {{ .Site.Params.contact.country }}<br>
+                      <br>
+
+                      <p>
+                      <strong>Unternehmensgegenstand:</strong> {{ .Site.Params.contact.purpose }}<br>
+                      <strong>UID-Nummer:</strong> {{ .Site.Params.contact.uid }}<br>
+                      <strong>Firmenbuchnummer:</strong> {{ .Site.Params.contact.companynumber }}<br>
+                      <strong>Firmenbuchgericht:</strong> {{ .Site.Params.contact.companycourt }}<br>
+                      <strong>Firmensitz: </strong> {{ .Site.Params.contact.town }}
+                      </p>
+                      <p>
+                      <strong>Telefon:</strong> {{ .Site.Params.contact.phone }}<br>
+                      <strong>Email:</strong> {{ .Site.Params.contact.mail }}<br>
+                      </p>
+
+                      <p>
+                        <strong>Mitgliedschaften:</strong> {{ .Site.Params.contact.memberships }}<br>
+                        <strong>Berufsrecht:</strong> {{ .Site.Params.contact.regulation }} <br>
+                        <strong>Aufsichtsbehörde/Gewerbebehörde:</strong> {{ .Site.Params.contact.regulator }}
+                      </p>
+
+                      <p>
+                        <strong>Blattlinie:</strong> {{ .Site.Params.contact.content }}
+                      </p>
+                    </div>
+                    <div class="section-xs">
+
+                      <h2>EU-Streitschlichtung</h2>
+
+                      <p>Angaben zur Online-Streitbeilegung: Verbraucher haben die Möglichkeit, Beschwerden an die OnlineStreitbeilegungsplattform der EU zu richten:&nbsp;<a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&amp;lng=DE" rel="nofollow">https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&amp;lng=DE</a>. Sie können allfällige Beschwerde auch an die oben angegebene E-Mail-Adresse richten.</p>
+
+                      <h2>Haftung für Inhalte dieser Webseite</h2>
+
+                      <p>Wir entwickeln die Inhalte dieser Webseite ständig weiter und bemühen uns korrekte und aktuelle Informationen bereitzustellen. Leider können wir keine Haftung für die Korrektheit aller Inhalte auf dieser Webseite übernehmen, speziell für jene die seitens Dritter bereitgestellt wird. Sollten Ihnen problematische oder rechtswidrige Inhalte auffallen, bitte wir Sie uns umgehend zu kontaktieren, Sie finden die Kontaktdaten im Impressum.</p>
+
+                      <h2>Haftung für Links auf dieser Webseite</h2>
+                      <p>Unsere Webseite enthält Links zu anderen Webseiten für deren Inhalt wir nicht verantwortlich sind. Wenn Ihnen rechtswidrige Links auf unserer Webseite auffallen, bitte wir Sie uns zu kontaktieren, Sie finden die Kontaktdaten im Impressum.</p>
+
+                      <h2>Urheberrechtshinweis</h2>
+                      <p>Alle Inhalte dieser Webseite (Bilder, Fotos, Texte, Videos) unterliegen dem Urheberrecht. Falls notwendig, werden wir die unerlaubte Nutzung von Teilen der Inhalte unserer Seite rechtlich verfolgen.</p>
+
+                      <h2>Bildernachweis</h2>
+                      <p>Die Bilder, Videos, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.</p>
+                      <p>Die Bilderrechte liegen bei den folgenden Fotografen und Unternehmen:</p>
+
+                      <ul >
+                      <li >Fotograf Nicolai Sterning</li>
+                      <li ><a href="https://www.adsimple.at/kostenlose-bilder/">AdSimple Bilder</a></li>
+                      </ul>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- end row -->
+    </section>
+    {{ "<!-- End section -->" | safeHTML }}
+
+{{ end }}

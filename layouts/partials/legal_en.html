@@ -1,0 +1,92 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+    {{ if $data.legal.enable }}
+    {{ "<!-- Start Privacy Section -->" | safeHTML }}
+    <section class="section" id="privacy">
+        <div class="container-fluid">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with $data.legal.topTitle }}
+                            <h4>{{ . }}</h4>
+                        {{ end }}
+                        {{ with $data.legal.title }}
+                            <h2>{{ . }}</h2>
+                            <span class="border"></span>
+                        {{ end }}
+                        {{ with $data.legal.subtitle }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-10">
+                    <div class="section-xs">
+
+                      {{ .Site.Params.contact.firma }}<br>
+                      {{ .Site.Params.contact.name }}<br>
+                      {{ .Site.Params.contact.street }}<br>
+                      {{ .Site.Params.contact.town }}<br>
+                      {{ .Site.Params.contact.country }}<br>
+                      <br>
+
+                      <p>
+                      <strong>Occupation:</strong> {{ .Site.Params.contact.purpose }}<br>
+                      <strong>VAT number:</strong> {{ .Site.Params.contact.uid }}<br>
+                      <strong>Company register:</strong> {{ .Site.Params.contact.companynumber }}<br>
+                      <strong>Commercial court of registration:</strong> {{ .Site.Params.contact.companycourt }}<br>
+                      <strong>Headquarters: </strong> {{ .Site.Params.contact.town }}
+                      </p>
+                      <p>
+                      <strong>Phone:</strong> {{ .Site.Params.contact.phone }}<br>
+                      <strong>Email:</strong> {{ .Site.Params.contact.mail }}<br>
+                      </p>
+
+                      <p>
+                        <strong>Memberships:</strong> {{ .Site.Params.contact.memberships }}<br>
+                        <strong>Laws governing the profession:</strong> {{ .Site.Params.contact.regulation }} <br>
+                        <strong>Regulating authority:</strong> {{ .Site.Params.contact.regulator }}
+                      </p>
+
+                      <p>
+                        <strong>Intention:</strong> {{ .Site.Params.contact.content }}
+                      </p>
+                    </div>
+                    <div class="section-xs">
+
+                      <h2>EU-Resolution of disputes</h2>
+
+                      <p>Resolution of online disputes: Customers are entitled to file a complaint with the Online Dispute Resolution platform of the EU <a href="https://ec.europa.eu/consumers/odr/main/?event=main.home2.show">https://ec.europa.eu/consumers/odr/main/?event=main.home2.show</a>. You may also direct complaints to the Email adress given above.</p>
+
+                      <h2>Accountability for content</h2>
+
+                      <p>The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents' accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. </p>
+
+                      <h2>Accountability for links</h2>
+                      <p>Responsibility for the content of external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective link immediately.</p>
+
+                      <h2>Copyright</h2>
+                      <p>Our web pages and their contents are subject to Austrian copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are only allowed for private use. The materials from these pages are copyrighted and any unauthorized use may violate copyright laws. </p>
+
+                      <h2>Photo credits</h2>
+                      <p>Our web pages and their contents are subject to Austrian copyright law.</p>
+                      <p>Copyright resides with the following companies or individuals:</p>
+
+                      <ul >
+                      <li >Photographer Nicolai Sterning</li>
+                      <li ><a href="https://www.adsimple.at/kostenlose-bilder/">AdSimple Bilder</a></li>
+                      </ul>
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- end row -->
+    </section>
+    {{ "<!-- End section -->" | safeHTML }}
+
+{{ end }}
