@@ -40,6 +40,12 @@ DefaultContentLanguage = "de"
     footerAboutTitle = "ENGLISH About"
     footerSubscribeTitle = "ENGLISH Subscribe"
 
+    [Languages.en.cookies]
+    dismiss = "I Agree."
+    message = "We use cookies to offer you a better experience and to gain insight into site traffic. By continuing to use this website, you consent to the use of cookies as explained in our "
+    href = "privacy"
+    link = "privacy policy."
+
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
@@ -115,6 +121,12 @@ DefaultContentLanguage = "de"
     footerQuicklinkTitle = "GERMAN Quick links"
     footerAboutTitle = "GERMAN About"
     footerSubscribeTitle = "GERMAN Subscribe"
+
+    [Languages.de.cookies]
+    dismiss = "Ich stimme zu."
+    message = "Wir verwenden Cookies um die Bereitstellung unsere Seite zu verbessern und um den Nutzerstrom zu beobachten. Durch die Verwendung dieser Website stimmen Sie der Verwendung von Cookies zu, siehe "
+    href = "privacy"
+    link = "Datenschutzerklärung."
 
     # Hero Area Section
     [Languages.de.params.hero]

@@ -1,6 +1,30 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#1f2532",
+      "text": "#ffffff"
+    },
+    "button": {
+      "background": "#f0326b"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "{{ .Site.Params.cookies.message }}",
+    "dismiss": "{{ .Site.Params.cookies.dismiss }}",
+    "link": "{{ .Site.Params.cookies.link}}",
+    "href": "{{ .Site.Params.cookies.href | absLangURL}}"
+  }
+})});
+</script>
+
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
