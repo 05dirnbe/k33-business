@@ -59,7 +59,11 @@
                 <div class="address-block contact-meta-block">
                     <i class="tf-ion-android-pin"></i>
                     <h4>Our Location</h4>
-                    {{ with .Site.Params.contact.address }}<p>{{ . | safeHTML }}</p>{{ end }}
+                    <p>
+                      {{ with .Site.Params.contact.street }}{{ . | safeHTML }}{{ end }}<br>
+                      {{ with .Site.Params.contact.town }}{{ . | safeHTML }}{{ end }}<br>
+                      {{ with .Site.Params.contact.country }}{{ . | safeHTML }}{{ end }}
+                    </p>
                 </div>
             </div>
             <div class="col-12 col-md-4">
