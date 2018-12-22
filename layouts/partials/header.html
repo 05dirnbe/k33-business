@@ -52,6 +52,9 @@ window.cookieconsent.initialise({
 <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick-theme.css" | absURL }}">
 {{ "<!-- Main Stylesheet -->" | safeHTML }}
 
+{{ "<!-- GDPR safe Social buttons -->" | safeHTML }}
+ <link rel="stylesheet" href="{{ "plugins/shariff/shariff.min.css" | absURL }}">
+
 <!-- gestion de la personalisation de la css du theme -->
 {{ $style_original := resources.Get "css/style_original.css" }}
 {{ $style_site     := resources.Get "css/my_style.css" }}
