@@ -20,7 +20,7 @@
                         {{ "<!-- service description -->" | safeHTML }}
                         {{ with .icon }}<i class="{{.}}"></i>{{ end }}
                         {{ with .title }}<h3>{{.}}</h3>{{ end }}
-                        <ul>
+                        <ul class="list-unstyled">
                             {{ range .list }}
                             <li>{{.name}}</li>
                             {{ end }}
