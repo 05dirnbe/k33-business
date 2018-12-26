@@ -1,32 +1,32 @@
 [home]
-other = "EN Home"
+other = "Home"
 [about]
-other = "EN About"
+other = "About"
 [service]
-other = "EN Service"
+other = "Service"
 [applications]
-other = "EN Applications"
+other = "Applications"
 [blog]
-other = "EN Blog"
+other = "Blog"
 [academy]
-other = "DE Courses"
+other = "Courses"
 [contact]
-other = "EN Contact"
+other = "Contact"
 
 [checkup]
-other = "EN Checkup"
+other = "Strategy session"
 [keynote]
-other = "EN Keynote"
+other = "Keynotes"
 [consultation]
-other = "EN Consultation"
+other = "Consultations"
 [workshop]
-other = "EN Workshop"
+other = "Workshops"
 
 [contact2]
-other = "EN Contact"
+other = "Contact"
 [faqs]
-other = "EN FAQ's"
+other = "FAQs"
 [privacy]
-other = "EN Privacy"
+other = "Privacy"
 [legal]
-other = "EN Legal note"
+other = "Legal note"

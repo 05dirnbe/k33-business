@@ -1,25 +1,56 @@
 enable    : true
-topTitle   : GERMAN LITTLE MORE BRIEF
-title     : GERMAN Mission.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle   : Unsere Mission
+title     : k-33 ist Ihr guide to graphs
+subtitle  : >
+  Wir verstehen uns als Experten, die ihren Kunden mit **Wissen und Gewissen** nach Kräften unterstützen. Unsere Werte sind durch **wissenschaftliche Arbeitsweise und Arbeitsethik** geprägt. Unsere Ansprüche ans unsere Arbeit machen den Unterschied, nicht nur für unsere Kunden, sondern auch für uns!
 tabItem   :
-  - id        : philosophy
-    title     : GERMAN Our Philosophy
-    heading   : GERMAN We Create Designs and technology
+  - id        : philosophy_item
+    title     : Unser Ansatz
+    heading   : Theorie und Praxis
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      k-33 zeichnet sich durch langjährige Erfahrung in der Kombination von theoretischen und praktischen Aspekte der Nutzung von Graphen aus.
+      Dies umfasst Konzepte, Algorithmen und Modelle die sowohl in der Forschung sowie im industriellen Bereich Anwendung finde.
+
+
+      Erst in der Symbiose von Theorie und Praxis ergeben sich dabei die fruchtbarsten Ansätze, die sich langfristig bewähren.
     image     : images/company/company-image.jpg
 
-  - id        : mission
-    title     : GERMAN Mission
-    heading   : GERMAN Our Mission
+  - id        : mission_item
+    title     : Expertise
+    heading   : Experte sein aber auch bleiben
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Wir bei k-33 glauben, dass es stetigen Einsatz bedarf einen einmal erarbeiteten Expertenstatus zu erhalten.
+      Die technische Themen für die wir brennen, entwickeln sich rasant. Beständig am Puls neuester Entwicklungen zu sein stellt eine ganz besondere Herausforderung für uns als Experten dar.
+
+
+      Aus diesem Grund gehört das kontinuierliche Erweitern, Erneuern und Verbessern der eigenen Methoden und des eigenen Wissens zu den Kernaktivitäten von k-33.
+      Insbesondere dem kritischen Hinterfragen der eigenen Sache wird bei k-33 großer Bedeutung beigemessen.
     image     : images/company/company-image-2.jpg
 
-  - id        : vision
-    title     : GERMAN Vision
-    heading   : GERMAN Our Vision
+  - id        : vision_item
+    title     : Wissensvermittlung
+    heading   : Vermittlung von Wissen
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Der wahre Wert von Wissen zeigt sich erst, wenn es verbreitet wird. Wir legen großen Wert darauf unseren Kunden das Wissen zu vermitteln, welches sie benötigen, um erfolgreich zu sein.
+      Im Umkehrschluss freuen wir uns auch darauf, auch von unseren Kunden etwas zu lernen.
+
+
+      Lernen und Lehren stehen im Mittelpunkt der Aktivitäten von k-33.
+      Langjährige Erfahrung in der universitären Lehre unterstreichen unser Engagement.
+
+
+      Tatsächlich sind wir der Meinung, dass ein echter Experten jederzeit in der Lage sein sollte, einen wertvollen Beitrag zu leisten, indem er Wissen und Erfahrung mit anderen teilt.
     image     : images/company/company-image-3.jpg
+
+  - id        : believe_item
+    title     : Weitblick
+    heading   : Über den Tellerrand hinaus
+    content   : >
+      Eine ausgeprägte Spezialisierung ist wichtig, birgt gleichzeitig aber die Gefahr des Tunnelblicks.
+      Tatsächlich existieren auch Graphen selten in Isolation.
+      Die Nutzung von Graphen in realistischen Anwendungen ist typischerweise mit anderen Systemen, wie herkömmlichen Datenbanken, Webservices oder Ähnlichem verbunden.
+
+
+      Aus diesem Grund muss ein Experte über sein Fachgebiet hinaus Fähigkeiten vorweisen können, welche die Anbindung von Graphen an den Rest der Welt erleichtern.
+      In diesem Zusammenhang ist k-33 besonders stolz seinen Kunden Kompetenzen im Bereich Data Science, Data Engineering und Software Engineering bieten zu können.
+    image     : images/company/company-image-2.jpg

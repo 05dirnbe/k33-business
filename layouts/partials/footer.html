@@ -31,9 +31,9 @@
                     <h3>{{ .Site.Params.footerSubscribeTitle }}</h3>
                     <form class="subscribe-form">
                         <div class="form-group">
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{{ .Site.Params.footerSubscribePlaceholderText }}">
                         </div>
-                        <button type="submit" class="btn btn-main-sm">Subscribe Now</button>
+                        <button type="submit" class="btn btn-main-sm">{{ .Site.Params.footerSubscribeBtnText }}</button>
                     </form>
                 </div>
             </div>
@@ -41,9 +41,9 @@
     </div>
     <div class="footer-bottom">
         <h5>Copyright 2018. All rights reserved.</h5>
-        <h6>This site was build with the <a href="https://gohugo.io">Hugo Static Site Generator</a>, <a href="https://themes.gohugo.io/navigator-hugo/">Navigator Theme</a> by <a href="https://themefisher.com/">themefisher</a>.
+        <h6>This site was build with the <a href="https://gohugo.io">Hugo Static Site Generator</a> using the <a href="https://themes.gohugo.io/navigator-hugo/">Navigator Theme</a> designed by <a href="https://themefisher.com/">themefisher</a>.
           <br>
-            Adapted by Michael Dirnberger.
+            Theme adapted by Michael Dirnberger.
         </h6>
     </div>
 </footer>

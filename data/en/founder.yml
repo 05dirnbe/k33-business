@@ -1,17 +1,37 @@
 enable    : true
-topTitle   : ENGLISH LITTLE MORE BRIEF
-title     : ENGLISH About Us.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle   : "Behind k-33 is:"
+title     : Michael Dirnberger
+subtitle  :
 
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : ENGLISH Creativity is in our blood
+    title :
     description : >
-      ENGLISH Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      My name is **Michael Dirnberger, PhD**.
+
+      I have studied [theoretical physics](https://physik.uni-graz.at/en/fachbereich-theoretische-physik/) at the [Karl-Franzens University](https://www.uni-graz.at/en/) in beautiful Graz, Austria.
+
+
+      After that I was privileged to go to Saarbrücken, Germany to complete a PhD in Computer Science at the [Max Planck Insititut for Informatics](https://www.mpi-inf.mpg.de/de/home/). My PhD Avisor was [Prof. Dr. mult. Kurt Mehlhorn](http://people.mpi-inf.mpg.de/~mehlhorn/), an internationally acclaimed expert on the topic of Algorithms and Graphs.
+
+
+      During my interdisciplinary PhD research I had ample oppurtunity to study the **theoretical and practical aspects of graphs** and was able to succesfully apply my knowledge in **both research and teaching**.
+
 
   - positionRight : true
     image : images/about/about-2.jpg
-    title : ENGLISH We think out of the Box
+    title :
     description : >
-      ENGLISH Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+
+            After the completion of my PhD i decided to transfer the knoweledge and experience gained from academia to an industrial setting.
+
+
+            I started out as a Senior Data Scientist working for [Data Science](https://en.wikipedia.org/wiki/Data_science) specialist [Kiana Systems](http://www.kiana-systems.com/).
+            A little later I found myself working in the [Advanced Analytics Division](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse/advanced-analytics.html) of [KPMG Lighthouse Germany](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse.html)
+
+
+            Soon I realized the **enourmous potential** of applying graphs and technologies based on graphs in an **industrial setting**. Unfortunately, due to a **general lack of expert knowledge** this potential is **hardly being explored, save realized**.
+
+
+            I frequently found myself thinking ...

@@ -1,32 +1,32 @@
 [home]
-other = "DE Home"
+other = "Home"
 [about]
-other = "DE Über uns"
+other = "Über uns"
 [service]
-other = "DE Service"
+other = "Leistungen"
 [applications]
-other = "DE Anwendungen"
+other = "Anwendungen"
 [blog]
-other = "DE Blog"
+other = "Blog"
 [academy]
-other = "DE Kurse"
+other = "Kurse"
 [contact]
-other = "DE Kontakt"
+other = "Kontakt"
 
 [checkup]
-other = "DE Checkup"
+other = "Erstgespräch"
 [keynote]
-other = "DE Keynote"
+other = "Vorträge"
 [consultation]
-other = "DE Consultation"
+other = "Konsultationen"
 [workshop]
-other = "DE Workshop"
+other = "Workshops"
 
 [contact2]
-other = "DE Kontakt"
+other = "Kontakt"
 [faqs]
-other = "DE FAQ's"
+other = "FAQs"
 [privacy]
-other = "DE Datenschutz"
+other = "Datenschutz"
 [legal]
-other = "DE Impressum"
+other = "Impressum"

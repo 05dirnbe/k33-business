@@ -34,11 +34,14 @@ DefaultContentLanguage = "de"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-    footerServiceTitle = "ENGLISH Service"
-    footerQuicklinkTitle = "ENGLISH Quicklinks"
-    footerAboutTitle = "ENGLISH About"
-    footerSubscribeTitle = "ENGLISH Subscribe"
+    footerDescription = "As experts on graphs and technologies based on graphs k-33 offers knowledge and experience through various services."
+    footerServiceTitle = "Service"
+    footerQuicklinkTitle = "Quicklinks"
+    footerAboutTitle = "About"
+    footerSubscribeTitle = "Newsletter"
+    footerSubscribeBtnText = "Subscribe now"
+    footerSubscribePlaceholderText = "Enter email"
+
 
     [Languages.en.cookies]
     dismiss = "I Agree."
@@ -100,8 +103,8 @@ DefaultContentLanguage = "de"
     [Languages.en.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "ENGLISH Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+        title   = "Let's Work Together"
+        subtitle= "Get to know us and learn more about our services in a free strategy session. We are looking forward to hear from you."
         btnText = "Contact Us"
 
     ############ 3 - Site in German
@@ -116,11 +119,13 @@ DefaultContentLanguage = "de"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "GERMAN Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-    footerServiceTitle = "GERMAN Services"
-    footerQuicklinkTitle = "GERMAN Quick links"
-    footerAboutTitle = "GERMAN About"
-    footerSubscribeTitle = "GERMAN Subscribe"
+    footerDescription = "Als Experte im Bereich Graphen und darauf basierenden Technologien bietet k-33 Wissen und Erfahrung in Form von Dienstleistungen an."
+    footerServiceTitle = "Leistungen"
+    footerQuicklinkTitle = "Quick links"
+    footerAboutTitle = "Über uns"
+    footerSubscribeTitle = "Newsletter"
+    footerSubscribeBtnText = "Jetzt anmelden"
+    footerSubscribePlaceholderText = "Email"
 
     [Languages.de.cookies]
     dismiss = "Ich stimme zu."
@@ -182,8 +187,8 @@ DefaultContentLanguage = "de"
     [Languages.de.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "GERMAN Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+        title   = "Lassen Sie uns zusammenarbeiten"
+        subtitle= "Lernen Sie uns kennen und erfahren Sie mehr über unsere Serviceleistungen im kostenlosen Erstgespräch. Wir freuen uns auf Sie."
         btnText = "Let's talk"
 
 

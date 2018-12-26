@@ -1,17 +1,37 @@
 enable    : true
-topTitle   : GERMAN LITTLE MORE BRIEF
-title     : GERMAN About Us.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle   : "Hinter k-33 steht:"
+title     : Michael Dirnberger
+subtitle  :
 
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : GERMAN Creativity is in our blood
+    title :
     description : >
-      GERMAN Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Mein Name ist **Dr. rer. nat. Michael Dirnberger**.
+
+
+      An der [Karl-Franzens Universität](https://www.uni-graz.at/de/) im schönen Graz habe ich das spannende Diplomstudium der [theoretischen Physik](https://physik.uni-graz.at/de/fachbereich-theoretische-physik/) abgeschlossen.
+
+
+      Danach hatte ich das besondere Privileg für die Promotion im Fachgebiet Informatik ins deutsche Saarbrücken zu gehen, um eine wissenschaftliche Ausbildung am [Max Planck Insititut für Informatik](https://www.mpi-inf.mpg.de/de/home/) betreut von [Prof. Dr. mult. Kurt Mehlhorn](http://people.mpi-inf.mpg.de/~mehlhorn/), einem international angesehenen Experten für Algorithmen, zu erhalten.
+
+
+      Im Zuge meiner interdisziplinären Promotion konnte ich mich intentsiv mit den **theoretischen und praktischen Aspekten von Graphen** beschäftigen und diese in **Forschung und Lehre gleichermaßen erfolgreich** zur Anwendung bringen.
+
 
   - positionRight : true
     image : images/about/about-2.jpg
-    title : GERMAN We think out of the Box
+    title :
     description : >
-      GERMAN Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+
+            Fünf Jahre später habe ich beschlossen mein Wissen und meine Fähigkeiten rund um das Thema Graphen kurzerhand von der akademischen in die industrielle Anwendung transferiert.
+
+
+            Zuerst war ich als Senior Data Scientist beim [Data Science](https://de.wikipedia.org/wiki/Data_Science) Spezialisten [Kiana Systems](http://www.kiana-systems.com/) und später in der [Advanced Analytics Abteilung](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse/advanced-analytics.html) vom [KPMG Lighthouse Deutschland](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse.html) erfolgreich tätig.
+
+
+            Rasch wurde mir klar, dass die Anwendung von Graphen und damit verbundenen Technologie ein **enormes Potential für praktische industrielle Nutzung** bergen, dieses jedoch leider aufgrund von **mangelder Expertise in den Fachabteilungen** nur selten genutzt werden kann.
+
+
+            Damals hab ich mir regelmäßig gedacht ...
