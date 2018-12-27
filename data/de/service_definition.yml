@@ -4,167 +4,198 @@ item  :
   - enable      : true
     name : checkup
     background: true
-    topTitle    : GERMAN This is one of our service packages
-    Title    : GERMAN ZERO
-    topSubtitle    : GERMAN Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : GERMAN We care about our work
+    topTitle    : Lernen wir uns kennen
+    Title    : Kostenlose Erstberatung
+    topSubtitle    : Wir klären im persönlichen Gespräch ob eine Zusammenarbeit erfolgsversprechend ist bzw. wie diese aussehen könnte.
+    title     : Was können wir für Sie tun?
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+
+      Im lockeren Gespräch stellen wir uns persönlich vor und beantworten Ihre Fragen. Ziel ist es Sie kennen zu lernen und einen ersten Eindruck Ihrer individuelle Situation zu erhalten.
+
+
+      Gemeinsam soll versucht werden festzustellen, wie eine Zusammenarbeit mit k-33 aussehen könnte bzw. welche unsere Services dafür in Frage kämen.
+      Falls eine Nutzung von Graphen wenig erfolgsversprechend erscheint, werden wir Ihnen selbstverständlich davon abraten, insbesondere dann, wenn bereits absehbar ist, dass Sie mit anderen Technologien besser beraten wären.
+
+
+      Nutzen Sie daher gerne die Möglichkeit mit uns unverbindlich ins Gespräch zu kommen. Wir freuen uns auf Sie!
+
+
+      Als Experten leben wir von Ihrem Vertrauen in unsere Expertise. Wir sind Ihnen und unseren eigenen Ansprüchen gegenüber verpflichtet, Sie vom ersten Tag an nach besten Wissen und Gewissen zu beraten.
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      # - item: Was sind Graphen überhaupt?
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : GERMAN Branding
+      - icon  : tf-ion-ios-search
+        title : Besonderheiten
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Kostenlose Erstberatung
+          - name : Unkomplizierter Umgang
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : GERMAN Branding
+      - icon  : tf-ion-ios-flame-outline
+        title : Vorteile
         list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
+          - name : Persönlicher Kontakt
+          - name : No-Nonsense Ansatz
+          - name : Vorstellung unserer Services
+          - name : Beantwortung von Fragen
 
-      - icon  : tf-ion-ios-book-outline
-        title : GERMAN IOS App Development
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Nutzen
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Profesionelle Bewertung Ihrer Situation
+          - name : Empfehlung für weiteres Vorgehen
+          - name : Überzeugen Sie sich von uns
+
 
   - enable      : true
     name : keynote
     background: false
-    topTitle    : GERMAN This is one of our service packages
-    Title    : GERMAN ZERO
-    topSubtitle    : GERMAN Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : GERMAN We care about our work
+    topTitle    : Für Einsteiger und Fortgeschrittene
+    Title    : Vorträge
+    topSubtitle    : Wir kommen zu Ihnen oder Ihrer Veranstaltung und tragen das spannende Thema Graphen an Ihre Mitarbeiter oder Gäster heran.
+    title     : Warum sind Graphen interessant?
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+      Graphen und Technologien basierend auf Graphen erlauben es strukturiert und effizient mit vernetzten Informationen jeglicher Art zu arbeiten. Aufgrund des hohen Abstraktionsgrades von Graphen können sie in den unterschiedlichsten Situationen auf verschiedenste Art und Weise zum Einsatz kommen. Diese Tatsache macht Graphen für alle interessant.
+
+
+      In unseren Vorträgen stellen wir das Konzept der Graphen vor und demonstrieren deren Nutzen anhand von verschiedensten praktischen Anwendungen.
+      Von unseren Höreren würden wir am Ende Folgendes gerne hören:
+
+
+      **"Ja, ich habe jetzt einen neuen Blickwinkel auf die Nutzung von vernetzter Information. Jetzt seh ich auch das Prinzip dahinter."**
+
+
+      Um dies zu erreichen beantworten wir eine Reihe von Kernfragen zum Thema Graphen. Diese könnten wie folgt aussehen:
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      - item: Was sind Graphen?
+      - item: Warum braucht man Graphen?
+      - item: Wo und wie nutzt man Graphen?
+
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : GERMAN Branding
+      - icon  : tf-ion-ios-search
+        title : Besonderheiten
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Einzigartige Expertise
+          - name : Effektive Kommunikation
+          - name : Interaktiver Stil
+          - name : Erfahrener Redner
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : GERMAN Branding
-        list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
 
-      - icon  : tf-ion-ios-book-outline
-        title : GERMAN IOS App Development
+      - icon  : tf-ion-ios-flame-outline
+        title : Vorteile
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Themen auf Publikum zugeschnitten
+          - name : Interessant für Laien und Fortgeschrittene
+          - name : Experten beantworten Fragen
+
+
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Nutzen
+        list  :
+          - name : Graph-Technologien kennen lernen
+          - name : Bedarf und Nutzung von Graphen verstehen
+          - name : Auswirkungen abschätzen
+
+
 
   - enable      : true
     name : consultation
     background: true
-    topTitle    : GERMAN This is one of our service packages
-    Title    : GERMAN ZERO
-    topSubtitle    : GERMAN Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : GERMAN We care about our work
+    topTitle    : Wir sind an Ihrer Seite
+    Title    : Konsultationen
+    topSubtitle    : Wir bringen Wissen und Erfahrung im Bereich der Graphen zur Lösung Ihrer Probleme bei Ihnen ein. Gemeinsam erreichen wir mehr.
+    title     : Graphen als Schlüsseltechnologie
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+      Sie würden gerne professionell und im Detail abklären, ob eine erfolgsversprechende Anwendung von Graphen in Ihrem Bereich möglich ist und welche Ressourcen dafür benötigt werden?
+      Sie haben ein Problem welches sich wahrscheinlich mit Graphen oder darauf basierenden Technologien lösen lässt und wollen von Anfang an Experten mit ins Boot holen?
+
+
+      Wenn Sie diese oder ähnliche Fragen mit Ja beantworten, dann sind Sie bei k-33 an der richtigen Stelle.
+      Mit unseren Konsultatione unterstützen wir Sie und ihr Team dabei Graphen und darauf basierende Technlogien korrekt, effizient und erfolgreich zu nutzen.
+      Selbstverständlich bringen wir auch unser komplementäres Wissen in den Bereichen Data Science, Data Engineering und Software Engineering ein, um Sie bei der Lösung Ihrer Probleme zu unterstützen.
+
+
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      # - item: 1GB Disk Space
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : GERMAN Branding
+      - icon  : tf-ion-ios-search
+        title : Besonderheiten
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Einzigartige Expertise im Bereich der Graphen
+          - name : Signifikante komplementäre Kenntnisse
+          - name : Effektive Kommunikation
+          - name : Team-orientierter Stil
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : GERMAN Branding
+      - icon  : tf-ion-ios-flame-outline
+        title : Vorteile
         list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
+          - name : Unabhängiger Blick auf die Situation
+          - name : Zugang zu Fachwissen
+          - name : Zugang zu Best-Practices
+          - name : Entwurf von Lösungsansätzen
+          - name : Schätzung der benötigten Ressourcen
+          - name : Aufzeigen von Wissenslücken
 
-      - icon  : tf-ion-ios-book-outline
-        title : GERMAN IOS App Development
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Nutzen
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Rasche Entwicklung von flexiblen Lösungskonzepten basierend auf Graphen
+          - name : Geringere Kosten bei der Implementierung von Lösungen mit Graphen
+          - name : Vermeidung von kostenintensiven Fehlern
 
   - enable      : true
     name : workshop
     background: false
-    topTitle    : GERMAN This is one of our service packages
-    Title    : GERMAN ZERO
-    topSubtitle    : GERMAN Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : GERMAN We care about our work
+    topTitle    : Graphen in der Praxis
+    Title    : Workshops
+    topSubtitle    : Graphen und drauf basierende Technologien sind Werkzeuge. Wir bringen Ihnen und Ihrem Team bei, wie man diese professionell nützt.
+    title     : Arbeiten mit Graphen
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+
+      Praktisches Arbeiten mit Graphen umfasst typischerweise die Verwendung einer oder mehrere Programmiersprachen. Mittels dezidierten Graph Bibliotheken oder Graph Datenbanken können Anwendungen realisiert werden, welche die Stärken von Graphen zur Geltung bringen.
+
+
+      Wir unterstützen Sie und Ihr Team dabei die nötigen Fähigkeiten auf bzw. auszubauen die ein effektives Arbeiten mit Graphen erlauben.
+
+
+      Kernthemen von Kursen und Workshops inkuldieren:
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      - item: Grundbegriffe und Konzepte
+      - item: Einführung in Graph Algorithmen
+      - item: Graphen in Python und C++
+      - item: Graph Datenbanken
+      - item: Komplementäre Themen
+      - item: Best Practices im Umgang mit Graphen
+      - item: Vermeidung von Fehlern
+
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : GERMAN Branding
+      - icon  : tf-ion-ios-search
+        title : Besonderheiten
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Erfahrener Lehrer und Programmierer
+          - name : Moderne interaktive Lehrmethoden
+          - name : Hands-on Lektionen
+          - name : Realistische Beispiele und Case-Studies
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : GERMAN Branding
+      - icon  : tf-ion-ios-flame-outline
+        title : Vorteile
         list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
+          - name : Kennenlernen von Best Practise
+          - name : Neuer Blickwinkel auf Daten
+          - name : Verschiedene Programiersprachen
+          - name : Fehler erkennen und vermeiden
 
-      - icon  : tf-ion-ios-book-outline
-        title : GERMAN IOS App Development
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Nutzen
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Schneller und effektiver Einstieg ins Arbeiten mit Graphen
+          - name : Ermöglicht selbstständiges Arbeiten mit Graphen
+          - name : Vermeidung von kostenintensiven Fehlern
+          - name : Verringerte Kosten durch Best Practice

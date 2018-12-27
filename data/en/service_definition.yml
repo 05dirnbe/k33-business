@@ -4,167 +4,203 @@ item  :
   - enable      : true
     name : checkup
     background: true
-    topTitle    : ENGLISH This is one of our service packages
-    Title    : ENGLISH ZERO
-    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : ENGLISH We care about our work
+    topTitle    : Let's get to know each other
+    Title    : Free Strategy Session
+    topSubtitle    : In a first call we determine if a collaboration is promising and what working together could look like.
+    title     : What can we do for you?
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+
+      In a casual call we introduce ourselves personally and answer your questions. The aim is to get to know each other and to get a first impression of your individal situation.
+
+
+      Together we try to determine what a collaboration with k-33 could look like and which of our services is best suited for that purpose.
+      Needless to say, if utilizing Graphs doesn't appear to be promising, we will advice against it. This is true in particular, if it is likely that a different technoloy is going to be a better choice for you.
+
+
+      Thus we recommend you use the possibility to talk to us to get your questions answered. We are looking forward to it.
+
+
+      As experts your trust is our livelyhood. From day one, we support you to the best of our knowledge and belief.
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      # - item: Was sind Graphen überhaupt?
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : ENGLISH Branding
+      - icon  : tf-ion-ios-search
+        title : Features
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Free strategy session
+          - name : Uncomplicated contact
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : ENGLISH Branding
+      - icon  : tf-ion-ios-flame-outline
+        title : Benefits
         list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
+          - name : Personal contact
+          - name : No-nonsense approach
+          - name : Introduction of our services
+          - name : Answers to your questions
 
-      - icon  : tf-ion-ios-book-outline
-        title : ENGLISH IOS App Development
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Advantages
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Professional assessment of your situation
+          - name : Recommendation for further steps
+          - name : Get to know us
+
 
   - enable      : true
     name : keynote
     background: false
-    topTitle    : ENGLISH This is one of our service packages
-    Title    : ENGLISH ZERO
-    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : ENGLISH We care about our work
+    topTitle    : For beginners and advanced people
+    Title    : Keynotes
+    topSubtitle    : We come to you or to your event and introduce the interesting topic of graphs to your team or your guests.
+    title     : Why are graphs interesting?
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+
+      Graphs and technologies based on graphs allow us to work with arbitrary connected information in a structured and effecient manner.
+      Due to their high level of abstraction, graphs can be used across a spectrum of different situations in a variety of different way.
+      As a result graphs can be useful to almost everyone.
+
+
+      In our keynotes we intorduce the concept of graphs and demonstrate their advantages using practical applications
+
+
+      After our talks we'd like to hear our audience say something along the lines of:
+
+
+      **"Yeah, I've got a new perspective regarding the use of connected information. I now see the guiding principle behind it."**
+
+
+      To achieve this, we answer a number of core questions regarding graphs. These could look as follows:
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      - item: What are Graphs?
+      - item: Why does one need graphs?
+      - item: Where and how are graphs used?
+
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : ENGLISH Branding
+      - icon  : tf-ion-ios-search
+        title : Features
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Unique expertise
+          - name : Effective communication
+          - name : Interactive style
+          - name : Experienced speaker
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : ENGLISH Branding
-        list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
 
-      - icon  : tf-ion-ios-book-outline
-        title : ENGLISH IOS App Development
+      - icon  : tf-ion-ios-flame-outline
+        title : Benefits
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Topics selected according to audience
+          - name : Relevant for beginners and advanced people
+          - name : Experts answering questions
+
+
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Advantages
+        list  :
+          - name : Get to know graph technologies
+          - name : Understand demand and usage of graphs
+          - name : Gauge implications
+
+
 
   - enable      : true
     name : consultation
     background: true
-    topTitle    : ENGLISH This is one of our service packages
-    Title    : ENGLISH ZERO
-    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : ENGLISH We care about our work
+    topTitle    : We have your back
+    Title    : Consultations
+    topSubtitle    : We contribute experience and knowledge regarding Graphs towards solving your problems. Together we can achieve more.
+    title     : Graphs are a key technology
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+
+      You intent to conduct a professional and detailed assessment of whether or not the usage of graphs in your domain is possible and profitable?
+      You have a problem you suspect to be solvable through the use of graphs and you would like to have an expert opinion available from the start?
+
+
+      If you anser these or similar questions with yes, then k-33 is the right partner for you.
+      With our consultations we support you and your team when it comes to the correct, effecient and effective use of graphs and graph based technologies.
+      Needless to say, we bring our complementary knowledge in data science, data engineering and software engineering to bear in order to help you get your problem solved.
+
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      # - item: 1GB Disk Space
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : ENGLISH Branding
+      - icon  : tf-ion-ios-search
+        title : Features
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Unique expertise in graphs
+          - name : Significant complementary skills and knowledge
+          - name : Effective communication
+          - name : Team-oriented style
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : ENGLISH Branding
+      - icon  : tf-ion-ios-flame-outline
+        title : Benefits
         list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
+          - name : Independet view on the situation
+          - name : Access to expert knowledge
+          - name : Access to best-practice
+          - name : Development of solution options
+          - name : Estimation of required ressources
+          - name : Determination of knowledge gaps
 
-      - icon  : tf-ion-ios-book-outline
-        title : ENGLISH IOS App Development
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Advantages
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Prompt development of flexible soluiton concepts based on graphs
+          - name : Reduced costs of implementing graph solutions
+          - name : Prevention of costly mistakes
 
   - enable      : true
     name : workshop
     background: false
-    topTitle    : ENGLISH This is one of our service packages
-    Title    : ENGLISH ZERO
-    topSubtitle    : ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-    title     : ENGLISH We care about our work
+    topTitle    : Using Graphs
+    Title    : Workshops
+    topSubtitle    : Graphs and graph based technologies are tools. We teach you and your team how to use them professionally.
+    title     : Working with graphs
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+
+      Practical working with graphs typically involves the use of one or more programming languages. Through dedicated graph libraries or graph databases applications can be build which showcase the strenghts of graphs.
+
+
+      We support you and your team in building the required skills allowing effecient and effective working with graphs.
+
+
+      Key topics for courses and workshops include:
+
     image       : images/about/about-1.jpg
     servicelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      - item: Basics and concepts
+      - item: Introduction to graph algorithms
+      - item: Graphs in python und C++
+      - item: Graph databases
+      - item: Complementary topics
+      - item: Best practice
+      - item: Error prevention
+
     item      :
-      - icon  : tf-ion-ios-copy-outline
-        title : ENGLISH Branding
+      - icon  : tf-ion-ios-search
+        title : Features
         list  :
-          - name : Brand Strategy
-          - name : Advertising / Campaigns
-          - name : Product Design
-          - name : Video / Photography
+          - name : Experienced lecturer and programmer
+          - name : Modern interactive teaching methods
+          - name : Hands-on lectures
+          - name : Realistic examples and case studies
 
-      - icon  : tf-ion-ios-alarm-outline
-        title : ENGLISH Branding
+      - icon  : tf-ion-ios-flame-outline
+        title : Benefits
         list  :
-          - name : Web Design
-          - name : E- Commerce Site Design
-          - name : App Development
-          - name : Mobile UI Design
+          - name : Get to know best practice
+          - name : Get a new view on data
+          - name : Use different programming languages
+          - name : Recognize and prevent mistakes
 
-      - icon  : tf-ion-ios-book-outline
-        title : ENGLISH IOS App Development
+      - icon  : tf-ion-ios-speedometer-outline
+        title : Advantages
         list  :
-          - name : Game Development
-          - name : Game Design
-          - name : Social Media Marketing
-          - name : Mobile UI Design
+          - name : Quick and effective start to working with graphs
+          - name : Promote independet working with graphs
+          - name : Prevent costly mistakes
+          - name : Reduced cost through best practice

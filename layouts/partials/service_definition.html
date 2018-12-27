@@ -28,9 +28,9 @@
                 </div>
                 <div class="col-md-6 align-self-center">
                     {{ with .title }}<h2>{{.}}</h2>{{ end }}
-                    {{ with .description }}<p>{{.}}</p>{{ end }}
+                    {{ with .description }}<p>{{. | markdownify }}</p>{{ end }}
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-10">
                             <ul class="color-gray client-service-list list-unstyled">
                                 {{ range .servicelist }}
                                 <li>
