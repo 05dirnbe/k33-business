@@ -1,44 +1,48 @@
 enable    : true
-topTitle  : A LIST OF SERVICES
-title     : GERMAN Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : Was wir für Sie tun
+title     : Unsere Leistungen.
+subtitle  : Wir bringen Wissen und Erfahrung im Bereich der Graphen zu Ihnen.
 item      :
-  - icon  : tf-ion-ios-copy-outline
-    title : GERMAN Branding
-    btnText     : Learn more
+  - icon  : tf-ion-ios-search
+    title : Erstberatung
+    btnText     : Mehr erfahren
     btnURL      : service/#checkup
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : Kostenlos
+      - name : Profesionelle Bewertung Ihrer Situation
+      - name : Empfehlung für weiteres Vorgehen
+      - name : Überzeugen Sie sich von uns
+      - name : ...
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : GERMAN Branding
-    btnText     : Learn more
+  - icon  : tf-ion-ios-mic-outline
+    title : Vorträge
+    btnText     : Mehr erfahren
     btnURL      : service/#keynote
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : Graph-Technologien kennen lernen
+      - name : Bedarf und Nutzung von Graphen verstehen
+      - name : Auswirkungen abschätzen
+      - name : ...
 
-  - icon  : tf-ion-ios-book-outline
-    title : GERMAN IOS App Development
-    btnText     : Learn more
+  - icon  : tf-circle-compass
+    title : Konsultationen
+    btnText     : Mehr erfahren
     btnURL      : service/#consultation
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Zugang zu Fachwissen
+      - name : Zugang zu Best-Practices
+      - name : Entwicklung von Lösungskonzepten basierend auf Graphen
+      - name : Schätzung von benötigten Ressourcen
+      - name : Vermeidung von kostenintensiven Fehlern
+      - name : ...
 
   - icon  : tf-ion-ios-book-outline
-    title : GERMAN IOS App Development
-    btnText     : Learn more
+    title : Workshops
+    btnText     : Mehr erfahren
     btnURL      : service/#workshop
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Effektiver Einstieg ins Arbeiten mit Graphen
+      - name : Realistische Case-Studies
+      - name : Selbstständiges Arbeiten mit Graphen ermöglichen
+      - name : Anwendung von Best Practise
+      - name : ...

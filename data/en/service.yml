@@ -1,44 +1,48 @@
 enable    : true
-topTitle  : A LIST OF SERVICES
-title     : ENGLISH Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : What we do for you
+title     : Our Services.
+subtitle  : We contribute knowledge and skills in the area of graphs to your cause.
 item      :
-  - icon  : tf-ion-ios-copy-outline
-    title : ENGLISH Branding
+  - icon  : tf-ion-ios-search
+    title : Strategy Session
     btnText     : Learn more
     btnURL      : service/#checkup
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : Free
+      - name : Professional assessment of your situation
+      - name : Recommendation for further steps
+      - name : Get to know us
+      - name : ...
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : ENGLISH Branding
+  - icon  : tf-ion-ios-mic-outline
+    title : Keynotes
     btnText     : Learn more
     btnURL      : service/#keynote
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : Get to know graph technologies
+      - name : Understand demand and usage of graphs
+      - name : Gauge implications of graph technologies
+      - name : ...
 
-  - icon  : tf-ion-ios-book-outline
-    title : ENGLISH IOS App Development
+  - icon  : tf-circle-compass
+    title : Consultations
     btnText     : Learn more
     btnURL      : service/#consultation
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Access to expert knowledge
+      - name : Access to best-practice
+      - name : Development of solution concepts based on graphs
+      - name : Estimation of required ressources
+      - name : Prevention of costly mistakes
+      - name : ...
 
   - icon  : tf-ion-ios-book-outline
-    title : ENGLISH IOS App Development
+    title : Workshops
     btnText     : Learn more
     btnURL      : service/#workshop
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Effective start into working with graphs
+      - name : Realistic case studies
+      - name : Promote independet working with graphs
+      - name : Application of best practice
+      - name : ...
