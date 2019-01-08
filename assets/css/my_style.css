@@ -24,36 +24,41 @@
     filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
   }
 
-  section.graph-area {
-    position: relative;
-    padding-top: : 10px;
-    background: #1f2532;
-    background-size: cover;
-    background-position: center center;
-    height: 100%;
-    width: 100%;
-  }
+#particles-js {
+  position: relative;
+  background: #1f2532;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height:90vh;
+}
 
-  .overlay {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    top: 70%;
-    right: 60%;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
+.overlay {
+  position: absolute;
+  top: 70%;
+  right: 60%;
+  padding-left: 80px 0;
+}
 
-  .overlay p {
-    color: #fff;
-    font-weight: 400;
-  }
+.overlay h4 {
+  color: #fff;
+}
 
-  .overlay h2 {
-    color: #fff;
-    font-weight: 600;
-    text-transform: uppercase;
-    /* max-width: 50%;
-    white-space: nowrap;
-    display: inline; */
+.overlay h2 {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.graph-area {
+  position: relative;
+  background: #1f2532;
+}
+
+@media (max-width: 480px) {
+  .graph-area {
+    padding: 80px 0;
   }
+}

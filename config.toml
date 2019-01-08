@@ -136,8 +136,8 @@ DefaultContentLanguage = "de"
     # Hero Area Section
     [Languages.de.params.hero]
         enable  = true
-        heading = "GERMAN We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        heading = "Your guide to graphs!"
+        description = "Willkommen bei k-33"
         button  = false
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"

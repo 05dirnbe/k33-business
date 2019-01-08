@@ -7,17 +7,20 @@
         <!-- particles.js container -->
         <div id="particles-js">
 
+          <div class = "overlay">
+            {{ with .Site.Params.hero.description }}
+                <h4>{{ . }}</h4>
+            {{ end }}
 
-                  <div class="overlay">
-                    {{ with .Site.Params.hero.description }}
-                        <p>{{ . }}</p>
-                    {{ end }}
+              {{ with .Site.Params.hero.heading }}
+                  <h2>{{ . }}</h2>
+              {{ end }}
+          </div>
 
-                      {{ with .Site.Params.hero.heading }}
-                          <h2>{{ . }}</h2>
-                      {{ end }}
-                  </div>
         </div>
+
+
+
 
 
 </section>
