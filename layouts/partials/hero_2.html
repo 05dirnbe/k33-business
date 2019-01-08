@@ -1,0 +1,24 @@
+{{ if .Site.Params.hero.enable }}
+{{ "<!-- Hero Area -->" | safeHTML }}
+<section class="graph-area">
+
+
+
+        <!-- particles.js container -->
+        <div id="particles-js">
+
+
+                  <div class="overlay">
+                    {{ with .Site.Params.hero.description }}
+                        <p>{{ . }}</p>
+                    {{ end }}
+
+                      {{ with .Site.Params.hero.heading }}
+                          <h2>{{ . }}</h2>
+                      {{ end }}
+                  </div>
+        </div>
+
+
+</section>
+{{ end }}

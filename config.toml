@@ -1,6 +1,6 @@
 baseURL = "http://k-33.at/"
 languageCode = "en-us"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "k-33 | IT services with a focus on graphs"
 theme = "navigator-hugo"
 
 # Build robots.txt file
@@ -27,8 +27,8 @@ DefaultContentLanguage = "de"
     languageName = "English"
     weight = 1
     languageCode = "en-uk"
-    title = "ENGLISH Example site multi-language"
-    dateFormat = "January 2, 2006"
+    title = "k-33 Experts"
+    dateFormat = "January 1, 2018"
 
     home = "EN Home"
     logo = "images/logo.png"
@@ -52,8 +52,8 @@ DefaultContentLanguage = "de"
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
-        heading = "ENGLISH We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        heading = "Your guide to graphs!"
+        description = "Welcome to k-33"
         button  = false
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
