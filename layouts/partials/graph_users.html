@@ -1,8 +1,8 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
-{{ with $data.graph_definition }}
+{{ with $data.graph_users }}
     {{ if .enable }}
     {{ "<!-- About Section Start -->" | safeHTML }}
-    <section class="about section-sm" id="graph_definition">
+    <section class="about section-sm" id="graph_users">
         <div class="container">
             {{ range .item }}
                 {{ if .positionRight }}
