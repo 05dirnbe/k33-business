@@ -1,56 +1,54 @@
 enable    : true
-topTitle   : Unsere Mission
-title     : k-33 ist Ihr guide to graphs
+topTitle   : "let us explain:"
+title     : What are Graphs?
 subtitle  : >
-  Wir verstehen uns als Experten, die ihren Kunden mit **Wissen und Gewissen** nach Kräften unterstützen. Unsere Werte sind durch **wissenschaftliche Arbeitsweise und Arbeitsethik** geprägt. Unsere Ansprüche ans unsere Arbeit machen den Unterschied, nicht nur für unsere Kunden, sondern auch für uns!
+  We are experts who support our customers **to the best of our knowledge and belief**.
+  Our values are characterized by a **scientific approach** to our work.
+
+  Our high demands with regards to ourselves make the difference, not only for our customers, but also for us.
+
 tabItem   :
-  - id        : philosophy_item
-    title     : Unser Ansatz
-    heading   : Theorie und Praxis
+  - id        : graph_item
+    title     : Graph/Network
+    heading   : Theory and Application
     content   : >
-      k-33 zeichnet sich durch langjährige Erfahrung in der Kombination von theoretischen und praktischen Aspekte der Nutzung von Graphen aus.
-      Dies umfasst Konzepte, Algorithmen und Modelle die sowohl in der Forschung sowie im industriellen Bereich Anwendung finde.
+
+      k-33 distinguishes itself through several years of experience in combining theoretical and practical aspects of using graphs.
+      This includes concepts, algorithms and models that are used both in research as well as in industrial settings.
 
 
-      Erst in der Symbiose von Theorie und Praxis ergeben sich dabei die fruchtbarsten Ansätze, die sich langfristig bewähren.
-    image     : images/company/company-image.jpg
+      The combination of theory and practical knowledge often yields the most promising solutions that work reliably in the long run.
 
-  - id        : mission_item
-    title     : Expertise
-    heading   : Experte sein aber auch bleiben
+    js     : graph_intro
+
+  - id        : vertices_item
+    title     : Vertices/Nodes
+    heading   : Staying on top
     content   : >
-      Wir bei k-33 glauben, dass es stetigen Einsatz bedarf einen einmal erarbeiteten Expertenstatus zu erhalten.
-      Die technische Themen für die wir brennen, entwickeln sich rasant. Beständig am Puls neuester Entwicklungen zu sein stellt eine ganz besondere Herausforderung für uns als Experten dar.
+
+      We believe that constant effort is required to truly maintain an expert status.
+      The technical topics that we love are ever-developing and in constant flux. Staying on top of new developments is vital for us as experts.
 
 
-      Aus diesem Grund gehört das kontinuierliche Erweitern, Erneuern und Verbessern der eigenen Methoden und des eigenen Wissens zu den Kernaktivitäten von k-33.
-      Insbesondere dem kritischen Hinterfragen der eigenen Sache wird bei k-33 großer Bedeutung beigemessen.
-    image     : images/company/company-image-2.jpg
+      For this reason frequent extension, renewal and improvement of our own knowledge and methods is a critical part of our business.
+      Challinging and pushing ourselves and our level of expertise constantly is very important to us.
 
-  - id        : vision_item
-    title     : Wissensvermittlung
-    heading   : Vermittlung von Wissen
+    js     : vertices_intro
+
+  - id        : edges_item
+    title     : Arcs/Edges
+    heading   : Transfer of knowledge
     content   : >
-      Der wahre Wert von Wissen zeigt sich erst, wenn es verbreitet wird. Wir legen großen Wert darauf unseren Kunden das Wissen zu vermitteln, welches sie benötigen, um erfolgreich zu sein.
-      Im Umkehrschluss freuen wir uns auch darauf, auch von unseren Kunden etwas zu lernen.
+
+      The true value of knowledge shows when it is shared. Providing our customers with the knowledge they need to succeed is vital to us.
+      Teaching goes both ways however, we are always looking to learn what our customers have to share.
 
 
-      Lernen und Lehren stehen im Mittelpunkt der Aktivitäten von k-33.
-      Langjährige Erfahrung in der universitären Lehre unterstreichen unser Engagement.
+      Learning and teaching are at the heart of k-33.
+      Many years of teaching engagements in university underlines our commitment to sharing what we know.
 
 
-      Tatsächlich sind wir der Meinung, dass ein echter Experten jederzeit in der Lage sein sollte, einen wertvollen Beitrag zu leisten, indem er Wissen und Erfahrung mit anderen teilt.
-    image     : images/company/company-image-3.jpg
-
-  - id        : believe_item
-    title     : Weitblick
-    heading   : Über den Tellerrand hinaus
-    content   : >
-      Eine ausgeprägte Spezialisierung ist wichtig, birgt gleichzeitig aber die Gefahr des Tunnelblicks.
-      Tatsächlich existieren auch Graphen selten in Isolation.
-      Die Nutzung von Graphen in realistischen Anwendungen ist typischerweise mit anderen Systemen, wie herkömmlichen Datenbanken, Webservices oder Ähnlichem verbunden.
+      In fact, we believe that a true expert should always be ready to contribute by sharing his or her knowlegde or experince in their field of expertise.
 
 
-      Aus diesem Grund muss ein Experte über sein Fachgebiet hinaus Fähigkeiten vorweisen können, welche die Anbindung von Graphen an den Rest der Welt erleichtern.
-      In diesem Zusammenhang ist k-33 besonders stolz seinen Kunden Kompetenzen im Bereich Data Science, Data Engineering und Software Engineering bieten zu können.
-    image     : images/company/company-image-2.jpg
+    js     : edges_intro

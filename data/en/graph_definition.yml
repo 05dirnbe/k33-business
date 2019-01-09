@@ -19,7 +19,6 @@ tabItem   :
 
       The combination of theory and practical knowledge often yields the most promising solutions that work reliably in the long run.
 
-    image     : images/company/company-image.jpg
     js     : graph_intro
 
   - id        : vertices_item
@@ -34,7 +33,6 @@ tabItem   :
       For this reason frequent extension, renewal and improvement of our own knowledge and methods is a critical part of our business.
       Challinging and pushing ourselves and our level of expertise constantly is very important to us.
 
-    image     : images/company/company-image-2.jpg
     js     : vertices_intro
 
   - id        : edges_item
@@ -53,5 +51,4 @@ tabItem   :
       In fact, we believe that a true expert should always be ready to contribute by sharing his or her knowlegde or experince in their field of expertise.
 
 
-    image     : images/company/company-image-3.jpg
     js     : edges_intro
