@@ -1,54 +1,87 @@
 enable    : true
-topTitle   : "let us explain:"
+topTitle   : "Not so fast!"
 title     : What are Graphs?
 subtitle  : >
-  We are experts who support our customers **to the best of our knowledge and belief**.
-  Our values are characterized by a **scientific approach** to our work.
+  A mathematical graph, or **graph** for short, is a **structure representing pairwise relationships between objects**.
+  A graph is made up of **vertices, nodes, or points** which are connected by **edges, arcs, or lines**.
+  In practical applications the term **network** is often used instead of graphs.
 
-  Our high demands with regards to ourselves make the difference, not only for our customers, but also for us.
+
+  Once an application or a problem is transformed to the graph model, **powerful concepts, algorithms and analysis techniques** from [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) and [Network Science](https://en.wikipedia.org/wiki/Network_science) immediately apply.
+  For this reason and their wide applicability, **graphs and technologies based on graphs have become key elements of many important applications** today.
+  See [Applications](applications) for a curated list of what we regard as some of the most important of them.
+
+
+  The following example shows how using a graph can help us **make better sense of structured data**.
+  In this case, we look at a simple **communication network**, i.e. people sending emails to each other.
+  However, it is important to emphasize that **virtually
+  everything can be seen as a graph**.
+
+
+  **Finding the correct way to model data as a graph and make maximum use of it in an application is an important and interesting problem.**
+
 
 tabItem   :
   - id        : graph_item
     title     : Graph/Network
-    heading   : Theory and Application
+    heading   : "Graphs are abstact structure"
     content   : >
 
-      k-33 distinguishes itself through several years of experience in combining theoretical and practical aspects of using graphs.
-      This includes concepts, algorithms and models that are used both in research as well as in industrial settings.
+      Data capturing the exchange of emails between people can be directly represented as the graph seen here in blue.
 
 
-      The combination of theory and practical knowledge often yields the most promising solutions that work reliably in the long run.
+      We have 10 unique persons forming the set of nodes.
+      For each pair of people that exchanged emails with each other an edge is drawn between their respective nodes.
+      The sum of these edges constitutes the set of edges. Nodes and edges together form a graph, in this case a communication network.
+
+
+      Due to the graph representation interesting information is directly available:
+      The best connected communicator in the graph is Alston with 5 neighbours.
+      Coley and Langdon stick to themselves while Algie has no contacts at all.
+
+
+      While this is a small and simple network, it is not difficult to see the similarity to large complex networks like Facebook or LinkedIn.
+      In both cases it is the graph model that enables the efficient extraction and use of information.
+
 
     js     : graph_intro
 
   - id        : vertices_item
-    title     : Vertices/Nodes
-    heading   : Staying on top
+    title     : Vertices/Nodes/Points
+    heading   : Nodes are abstract objects
     content   : >
 
-      We believe that constant effort is required to truly maintain an expert status.
-      The technical topics that we love are ever-developing and in constant flux. Staying on top of new developments is vital for us as experts.
+
+      The node set is highlighted in red. Additional information is embedded in this graph drawing:
+      The size of a node reflects the total number of mails exchanged with its direct neighbours.
+      If you hover over individual nodes the total number of mails is given.
 
 
-      For this reason frequent extension, renewal and improvement of our own knowledge and methods is a critical part of our business.
-      Challinging and pushing ourselves and our level of expertise constantly is very important to us.
+      In this example nodes represent people. However, nodes are abstract objects and can represent any entity.
+      Multiple classes of nodes are common in many graphs.
+
+
+      In prominent graphs nodes represent websites, devices, products, customers, messages, events, locations and the list goes on.
+
 
     js     : vertices_intro
 
   - id        : edges_item
-    title     : Arcs/Edges
-    heading   : Transfer of knowledge
+    title     : Edges/Arcs/Lines
+    heading   : Edges are abstract relations
     content   : >
 
-      The true value of knowledge shows when it is shared. Providing our customers with the knowledge they need to succeed is vital to us.
-      Teaching goes both ways however, we are always looking to learn what our customers have to share.
+      The edge set is highlighted in red. Additional information is embedded in this graph drawing:
+      The thickness of an edge reflects the number of mails exchanged between the two nodes it connects.
+      If you hover over individual edges the number of mails is given.
 
 
-      Learning and teaching are at the heart of k-33.
-      Many years of teaching engagements in university underlines our commitment to sharing what we know.
+      In this example edges represent email exchange. However, edges are abstract objects and can represent any relation.
+      Multiple classes of edges are common in many graphs.
+      Edges may also express a directed relation.
 
 
-      In fact, we believe that a true expert should always be ready to contribute by sharing his or her knowlegde or experince in their field of expertise.
+      In prominent graphs edges represent weblinks, connections, buying decisions, selling decisions, subscriptions, time-ordering, streets and the list goes on.
 
 
     js     : edges_intro

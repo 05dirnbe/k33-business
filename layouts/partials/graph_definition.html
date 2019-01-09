@@ -6,20 +6,24 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <div class="title">
+                    <div class="title" style="padding-bottom: 10px">
                         {{ with .topTitle }}<h4>{{ . }}</h4>{{ end }}
                         {{ with .title }}
                         <h2>{{ . }}</h2>
                         <span class="border"></span>
                         {{ end }}
-                        {{ with .subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
                     </div>
                 </div>
+            </div>
+            <div class="col-md-12">
+
+                {{ with .subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+
             </div>
             <div class="row">
                 <div class="col-md-12">
                     <div class="commonTab">
-                        <ul class="nav nav-tabs justify-content-center" id="myTab">
+                        <ul class="nav nav-tabs justify-content-center" id="myTab" style="padding-top: 50px">
                             {{ range $index, $element := .tabItem }}
                             <li class="nav-item">
                                 <a class="nav-link {{ if eq $index 0 }}active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{.id}}" >{{ .title }}</a>

@@ -50,6 +50,7 @@
 .overlay h2 {
   color: #fff;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 .graph-area {
