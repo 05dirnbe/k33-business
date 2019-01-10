@@ -54,11 +54,6 @@ DefaultContentLanguage = "de"
         enable  = true
         heading = "Your guide to graphs!"
         description = "Welcome to k-33"
-        button  = false
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
@@ -129,7 +124,7 @@ DefaultContentLanguage = "de"
 
     [Languages.de.cookies]
     dismiss = "Ich stimme zu."
-    message = "Wir verwenden Cookies um die Bereitstellung unsere Seite zu verbessern und um den Nutzerstrom zu beobachten. Durch die Verwendung dieser Website stimmen Sie der Verwendung von Cookies zu, siehe "
+    message = "Wir verwenden Cookies um die Bereitstellung unsere Seite zu verbessern und um die Reichweite zu messen. Durch die Verwendung dieser Website stimmen Sie der Verwendung von Cookies zu, siehe "
     href = "privacy"
     link = "Datenschutzerklärung."
 
@@ -138,11 +133,6 @@ DefaultContentLanguage = "de"
         enable  = true
         heading = "Your guide to graphs!"
         description = "Willkommen bei k-33"
-        button  = false
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
     # Blog Section On Homepage
     [Languages.de.params.blog]
