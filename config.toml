@@ -98,8 +98,8 @@ DefaultContentLanguage = "de"
     [Languages.en.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Together we can do more"
-        subtitle= "Get to know us and learn more about our services in a free strategy session. We are looking forward to hear from you."
+        title   = "Your Guide To Graphs"
+        subtitle= "Get to know us and find out what we can do for you in a free strategy session. We are looking forward to hear from you."
         btnText = "Contact Us"
 
     ############ 3 - Site in German
@@ -177,9 +177,9 @@ DefaultContentLanguage = "de"
     [Languages.de.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Gemeinsam schaffen wir mehr"
-        subtitle= "Lernen Sie uns kennen und erfahren Sie mehr über unsere Serviceleistungen im kostenlosen Erstgespräch. Wir freuen uns auf Sie."
-        btnText = "Let's talk"
+        title   = "Your Guide To Graphs"
+        subtitle= "Lernen Sie uns kennen und erfahren Sie was wir für Sie tun können im kostenlosen Erstgespräch. Wir freuen uns auf Sie."
+        btnText = "Kontakt"
 
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font

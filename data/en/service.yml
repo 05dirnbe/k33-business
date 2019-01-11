@@ -1,7 +1,7 @@
 enable    : true
-topTitle  : What we do for you
+topTitle  : "What we do for you:"
 title     : Our Services.
-subtitle  : We contribute knowledge and skills in the area of graphs to your cause.
+subtitle  : We add knowledge and skills in the area of graphs to your cause.
 item      :
   - icon  : tf-ion-ios-search
     title : Strategy Session

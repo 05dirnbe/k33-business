@@ -1,23 +1,24 @@
 enable  : true
-topTitle: EASY Get started immedeately
-title   : GERMAN Free Courses.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: Worauf warten Sie noch?
+title   : Unsere Kostenlosen Online-Kurse.
+subtitle : Unsere kompakten Online-Kurse machen Sie mit grundlegenden Konzepten, Anwendungen und Auswirkungen von Graphen vertraut.
+  Das Ziel ist Sie in die Lage zu versetzen selbständig zu beurteilen ob Graphen für Sie wichtig sind und ob Sie mehr in das Thema investieren sollten. Unsere Kurse sind in Englischer Sprache verfasst.
 
 item  :
-  - name        : Introduction to Graphs
-    price       : Free
-    description : Learn the basics of Graphs and why you should care
+  - name        : Basic Graph Concepts
+    price       : Kostenlos
+    description : Learn the basics of graphs and why you should care
     featurelist :
       - item: Introduction
       - item: Concepts
       - item: Applications
       - item: Impact
 
-    btnText     : Enroll
+    btnText     : Teilnehmen
     btnURL      : http://k-33-academy.thinkific.com/courses/introduction-to-graphs
 
   - name        : Graphs in Python
-    price       : Free
+    price       : Kostenlos
     description : Learn how to work with graphs in Python
     featurelist :
       - item: Setup
@@ -25,5 +26,5 @@ item  :
       - item: Algorithms
       - item: Applications
 
-    btnText     : Enroll
+    btnText     : Teilnehmen
     btnURL      : http://k-33-academy.thinkific.com/courses/graphs-in-python

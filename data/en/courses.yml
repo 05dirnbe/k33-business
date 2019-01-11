@@ -1,12 +1,13 @@
 enable  : true
-topTitle: EASY Get started immedeately
-title   : ENGLISH Free Courses.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: What are you waiting for?
+title   : Our Free Courses.
+subtitle : Our short beginner courses familiarize you with the basic concepts, applications and impact of graphs.
+  The goal is to enable you to judge for yourself whether graphs are important for you and whether you should invest more.
 
 item  :
-  - name        : Introduction to Graphs
+  - name        : Basic Graph Concepts
     price       : Free
-    description : Learn the basics of Graphs and why you should care
+    description : Learn the basics of graphs and why you should care
     featurelist :
       - item: Introduction
       - item: Concepts

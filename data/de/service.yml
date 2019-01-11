@@ -1,7 +1,7 @@
 enable    : true
-topTitle  : Was wir für Sie tun
+topTitle  : "Was wir für Sie tun:"
 title     : Unsere Leistungen.
-subtitle  : Wir bringen Wissen und Erfahrung im Bereich der Graphen zu Ihnen.
+subtitle  : Wir bringen unser Wissen und Erfahrung im Bereich der Graphen bei Ihnen ein.
 item      :
   - icon  : tf-ion-ios-search
     title : Erstberatung
