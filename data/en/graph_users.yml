@@ -1,19 +1,35 @@
+enable    : true
+topTitle   : Who should use graphs?
+title     : Consider using graphs if ...
+subtitle  :
 enable  : true
 item    :
-  - positionRight : false
-    image : images/about/about-1.jpg
-    title : ... you write code that revolves around structured data
+  - positionRight : true
+    image : images/graph_users/recommendation_graph.png
+    js: soccer_graph
+    title : ... you write code handling structured data of any kind!
     description : >
-      ENGLISH Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+
+      Simply model your use cases as graphs and exploit the power of graph libraries or graph databases to efficiently transform,
+      store and access your structured data.
+      The natural flexibility of the graph model makes it easy to adapt to changing application requirements.
+
+  - positionRight : false
+    image :
+    js: soccer_graph
+    title : ... you write code analyzing structured data of any kind!
+    description : >
+
+      Representing complex data as a graph opens up powerful analysis and visalization possibilities.
+      It simply is intuitive and fun to explore data that is given as a graph.
+
+      Try for yourself, zoom in and interact with the large graph next to this paragraph. What is this data about?
 
   - positionRight : true
-    image : images/about/about-2.jpg
-    title : ... you try to gain insight into structured data
+    image : images/graph_users/cotton-network-color.jpg
+    js: soccer_graph
+    title : ... you don't write code but structured data is still important to your success!
     description : >
-      ENGLISH Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
-
-  - positionRight : false
-    image : images/about/about-1.jpg
-    title : ... structured data is key to the business you manage
-    description : >
-      ENGLISH Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Your operation uses structured data aiming to get the maximum use out of it.
+      However, proper data management requires strategies to meet various challenges connected to the handling of data.
+      Thinking in terms of graphs and deploying graph concepts offer additional tools to properly deal with complexity.

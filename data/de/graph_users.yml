@@ -1,19 +1,36 @@
+enable    : true
+topTitle   : Wer sollte Graphen nutzen?
+title     : Denken Sie über Graphen nach wenn ...
+subtitle  :
 enable  : true
 item    :
-  - positionRight : false
-    image : images/about/about-1.jpg
-    title : GERMAN Creativity is in our blood
+  - positionRight : true
+    image : images/graph_users/recommendation_graph.png
+    js: soccer_graph
+    title : ... Sie Code schreiben der mit strukturierten Daten jeglicher Art arbeitet!
     description : >
-      GERMAN Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+
+      Modellieren Sie ihre Anwendungen als Graphen und nützen Sie Graph-Bibliotheken oder Graph-Datenbaken um Ihre strukturierten Daten
+      effizient zu transformieren, zu speichern und zu lesen.
+      Die natürliche Flexibilität des Graphen Modells macht es einfach auf veränderte Anforderungen zu reagieren.
+
+  - positionRight : false
+    image :
+    js: soccer_graph
+    title : ... Sie Code schreiben um strukturierten Daten jeglicher Art zu analysieren!
+    description : >
+
+      Komplexe Daten als Graphen darzustellen ermöffnet neue Analyse und Visualisierungs Möglichkeiten.
+      Das erkunden von Daten die als Graph vorliegen ist intuitiv und macht schlich Spaß.
+
+      Versuchen Sie es selbst und zoomen Sie in den Graphen der neben diesem Abschnitt abgebildet ist. Worum geht es in diesem Datensatz?
 
   - positionRight : true
-    image : images/about/about-2.jpg
-    title : GERMAN We think out of the Box
+    image : images/graph_users/cotton-network-color.jpg
+    js: soccer_graph
+    title : ... wenn Sie keinen Code schreiben, strukturierte Daten aber trotzdem für Ihren Erfolg wichtig sind!
     description : >
-      GERMAN Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
 
-  - positionRight : false
-    image : images/about/about-1.jpg
-    title : GERMAN This is why you should care
-    description : >
-      GERMAN Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Ihr Geschäft nützt stukturierte Daten und versucht das Maximum an Nutzen herauszuholen.
+      Verschiedene Herausforderungen im Umgang mit diesen Daten erfordern effektives Datenmanagement.
+      Das Denken in Graphen und die Nutzung verschiedener Graph Konzepte bieten in dieser HInsicht zusätzliche Werkzeuge um mit Komplexität richtig umzugehen.

@@ -1,16 +1,18 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : Discover the usefulness of graphs
+  - icon  : tf-ion-ios-flask-outline
+    title : Graphs are flexible data-tools
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Data is most useful if it has meanigful structure. Graphs are ideal to represent and exploit structured data.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Think in nodes and edges
-    description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Master the tools
+  - icon  :  tf-ion-ios-lightbulb-outline
+    title : Graphs are clean and intuitive
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Representig complex data as a graphs makes it easier to grasp. Often a drawing is worth a thousand words.
+
+
+  - icon  : tf-ion-ios-speedometer-outline
+    title : Graph technologies are ready
+    description : >
+      Whether you need a graph library or an entire distributed graph database to do the job. They are available and here to stay.

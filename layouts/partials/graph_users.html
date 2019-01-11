@@ -4,29 +4,51 @@
     {{ "<!-- Graph user Section Start -->" | safeHTML }}
     <section class="about section-sm" id="graph_users">
         <div class="container">
+
+            <div class="row">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with .topTitle }}<h4>{{.}}</h4>{{ end }}
+                        {{ with .title }}
+                        <h2>{{.}}</h2>
+                        <span class="border"></span>
+                        {{ end }}
+                        {{ with .subtitle }}<p>{{.}}</p>{{ end }}
+                    </div>
+                </div>
+            </div>
+
             {{ range .item }}
                 {{ if .positionRight }}
-                    <div class="row mt-50 justify-content-center">
-                        <div class="col-md-5 col-md-5 col-sm-12 offset-md-1">
+                    <div class="row mt-50 justify-content-center" >
+                        <div class="col-md-5 col-md-5 col-sm-12 offset-md-1 vertical-align">
                             <div class="content">
-                                <h2>{{ .title }}</h2>
+                                <h3>{{ .title }}</h3>
                                 <p>
                                     {{ .description }}
                                 </p>
                             </div>
                         </div>
-                        <div class="col-12 col-md-5 col-sm-12 text-center">
-                            <img src="{{ .image | absURL }}" class="img-fluid rounded shadow" alt="about-image">
+                        <div class="col-12 col-md-5 col-sm-12 text-center vertical-align">
+                            {{ if .image }}
+                              <img src="{{ .image | absURL }}" class="img-fluid rounded  " alt="about-image">
+                            {{ else }}
+                              <div class ="graph_soccer" id="{{ .js}}"></div>
+                            {{ end }}
                         </div>
                     </div>
                 {{ else }}
-                    <div class="row mb-50 justify-content-center">
-                        <div class="col-md-5 col-sm-12 text-center offset-md-1">
-                            <img src="{{ .image | absURL }}" class="img-fluid rounded shadow" alt="about-image">
+                    <div class="row mb-50 justify-content-center" >
+                        <div class="col-md-5 col-sm-12 text-center offset-md-1 vertical-align">
+                          {{ if .image }}
+                            <img src="{{ .image | absURL }}" class="img-fluid rounded  " alt="about-image">
+                          {{ else }}
+                            <div class ="graph_soccer" id="{{ .js}}"></div>
+                          {{ end }}
                         </div>
-                        <div class="col-md-5 col-sm-12">
+                        <div class="col-md-5 col-sm-12 vertical-align">
                             <div class="content">
-                                <h2>{{ .title }}</h2>
+                                <h3>{{ .title }}</h3>
                                 <p>
                                     {{ .description }}
                                 </p>

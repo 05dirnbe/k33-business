@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : GERMAN WordPress Theme
+  - icon  : tf-ion-ios-flask-outline
+    title : Graphen sind flexible Werkzeuge für Daten
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Daten sind am nützlichsten, wenn sie Struktur enthalten. Graphen sind ideal um diese zu nützen.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+  - icon  :  tf-ion-ios-lightbulb-outline
+    title : Graphen sind simpel und intuitiv
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Komplexe Daten als Graphen darzustellen macht es leichter diese zu verstehen. Ein Bild sagt oft mehr als tausend Worte.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-ios-speedometer-outline
+    title : Graph-Technologien sind bereit
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Ob eine einfache Graphenbibliothek oder eine ganze distribuierte Graphen-Datenbank benötigt wird, Graph-Technologien sind gekommen um zu bleiben.

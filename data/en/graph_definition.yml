@@ -24,7 +24,7 @@ subtitle  : >
 tabItem   :
   - id        : graph_item
     title     : Graph/Network
-    heading   : "Graphs are abstact structure"
+    heading   : "Graphs are abstract structure"
     content   : >
 
       Data capturing the exchange of emails between people can be directly represented as the graph seen here in blue.
