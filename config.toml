@@ -1,6 +1,6 @@
 baseURL = "http://k-33.at/"
 languageCode = "en-us"
-title = "k-33 | IT services with a focus on graphs"
+title = "k33 Experts | IT services with a focus on graphs"
 theme = "navigator-hugo"
 
 # Build robots.txt file
@@ -27,14 +27,14 @@ DefaultContentLanguage = "de"
     languageName = "English"
     weight = 1
     languageCode = "en-uk"
-    title = "k-33 Experts"
+    title = "k33 Experts - Your Guide To Graphs"
     dateFormat = "January 1, 2018"
 
     home = "EN Home"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "As experts on graphs and technologies based on graphs k-33 offers knowledge and experience through various services."
+    footerDescription = "As experts on graphs and technologies based on graphs k33 offers knowledge and experience through various services."
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
@@ -53,7 +53,7 @@ DefaultContentLanguage = "de"
     [Languages.en.params.hero]
         enable  = true
         heading = "Your guide to graphs!"
-        description = "Welcome to k-33"
+        description = "Welcome to k33"
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
@@ -68,7 +68,7 @@ DefaultContentLanguage = "de"
         topTitle= "DROP US A NOTE"
         title   = "ENGLISH Contact Us."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-        firma = "k-33 e.U."
+        firma = "k33 Experts e.U."
         name = "Michael Dirnberger"
         street = "Burgenlandstraße 9"
         town = "9800 Spittal an der Drau"
@@ -98,7 +98,7 @@ DefaultContentLanguage = "de"
     [Languages.en.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Your Guide To Graphs"
+        title   = "k33 Experts - Your Guide To Graphs"
         subtitle= "Get to know us and find out what we can do for you in a free strategy session. We are looking forward to hear from you."
         btnText = "Contact Us"
 
@@ -107,14 +107,14 @@ DefaultContentLanguage = "de"
     languageName = "Deutsch"
     weight = 2
     languageCode = "de-at"
-    title = "GERMAN Example site multi-language"
+    title = "k33 Experts - Your Guide To Graphs"
     dateFormat = "2 January 2006"
 
     home = "DE Home"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "Als Experte im Bereich Graphen und darauf basierenden Technologien bietet k-33 Wissen und Erfahrung in Form von Dienstleistungen an."
+    footerDescription = "Als Experte im Bereich Graphen und darauf basierenden Technologien bietet k33 Wissen und Erfahrung in Form von Dienstleistungen an."
     footerServiceTitle = "Leistungen"
     footerQuicklinkTitle = "Quick links"
     footerAboutTitle = "Über uns"
@@ -132,7 +132,7 @@ DefaultContentLanguage = "de"
     [Languages.de.params.hero]
         enable  = true
         heading = "Your guide to graphs!"
-        description = "Willkommen bei k-33"
+        description = "Willkommen bei k33"
 
     # Blog Section On Homepage
     [Languages.de.params.blog]
@@ -147,7 +147,7 @@ DefaultContentLanguage = "de"
         topTitle= "DROP US A NOTE"
         title   = "GERMAN Contact Us."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-        firma = "k-33 e.U."
+        firma = "k33 Experts e.U."
         name = "Michael Dirnberger"
         street = "Burgenlandstraße 9"
         town = "9800 Spittal an der Drau"
@@ -177,7 +177,7 @@ DefaultContentLanguage = "de"
     [Languages.de.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Your Guide To Graphs"
+        title   = "k33 Experts - Your Guide To Graphs"
         subtitle= "Lernen Sie uns kennen und erfahren Sie was wir für Sie tun können im kostenlosen Erstgespräch. Wir freuen uns auf Sie."
         btnText = "Kontakt"
 
