@@ -205,7 +205,7 @@ DefaultContentLanguage = "de"
         weight  = 4
     [[menu.nav]]
         name    = "blog"
-        url     = "blog"
+        url     = "http://localhost:1313/en/blog/"
         weight  = 5
     [[menu.nav]]
         name    = "academy"
