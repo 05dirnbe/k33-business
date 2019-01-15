@@ -8,13 +8,14 @@ window.addEventListener("load", function(){
 window.cookieconsent.initialise({
   "palette": {
     "popup": {
-      "background": "#1f2532",
+      "background": "#222222",
       "text": "#ffffff"
     },
     "button": {
       "background": "#f0326b"
     }
   },
+  "position": "bottom-right",
   "theme": "classic",
   "content": {
     "message": "{{ .Site.Params.cookies.message }}",
