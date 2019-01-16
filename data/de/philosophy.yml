@@ -13,10 +13,10 @@ tabItem   :
 
 
       Erst in der Symbiose von Theorie und Praxis ergeben sich dabei die fruchtbarsten Ansätze, die sich langfristig bewähren.
-    image     : images/company/company-image.jpg
+    image     : images/about/compass.jpg
 
   - id        : mission_item
-    title     : Expertise
+    title     : Lernen
     heading   : Experte sein aber auch bleiben
     content   : >
       Wir bei k-33 glauben, dass es stetigen Einsatz bedarf einen einmal erarbeiteten Expertenstatus zu erhalten.
@@ -25,10 +25,10 @@ tabItem   :
 
       Aus diesem Grund gehört das kontinuierliche Erweitern, Erneuern und Verbessern der eigenen Methoden und des eigenen Wissens zu den Kernaktivitäten von k-33.
       Insbesondere dem kritischen Hinterfragen der eigenen Sache wird bei k-33 großer Bedeutung beigemessen.
-    image     : images/company/company-image-2.jpg
+    image     : images/about/books.jpg
 
   - id        : vision_item
-    title     : Wissensvermittlung
+    title     : Lehren
     heading   : Vermittlung von Wissen
     content   : >
       Der wahre Wert von Wissen zeigt sich erst, wenn es verbreitet wird. Wir legen großen Wert darauf unseren Kunden das Wissen zu vermitteln, welches sie benötigen, um erfolgreich zu sein.
@@ -40,10 +40,10 @@ tabItem   :
 
 
       Tatsächlich sind wir der Meinung, dass ein echter Experten jederzeit in der Lage sein sollte, einen wertvollen Beitrag zu leisten, indem er Wissen und Erfahrung mit anderen teilt.
-    image     : images/company/company-image-3.jpg
+    image     : images/about/boy.jpg
 
   - id        : believe_item
-    title     : Weitblick
+    title     : Interdisziplinär
     heading   : Über den Tellerrand hinaus
     content   : >
       Eine ausgeprägte Spezialisierung ist wichtig, birgt gleichzeitig aber die Gefahr des Tunnelblicks.
@@ -53,4 +53,4 @@ tabItem   :
 
       Aus diesem Grund muss ein Experte über sein Fachgebiet hinaus Fähigkeiten vorweisen können, welche die Anbindung von Graphen an den Rest der Welt erleichtern.
       In diesem Zusammenhang ist k-33 besonders stolz seinen Kunden Kompetenzen im Bereich Data Science, Data Engineering und Software Engineering bieten zu können.
-    image     : images/company/company-image-2.jpg
+    image     : images/about/code.jpg

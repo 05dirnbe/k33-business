@@ -22,7 +22,7 @@ item  :
 
       Als Experten leben wir von Ihrem Vertrauen in unsere Expertise. Wir sind Ihnen und unseren eigenen Ansprüchen gegenüber verpflichtet, Sie vom ersten Tag an nach besten Wissen und Gewissen zu beraten.
 
-    image       : images/about/about-1.jpg
+    image       : images/service/strategy.jpg
     servicelist :
       # - item: Was sind Graphen überhaupt?
     item      :
@@ -68,7 +68,7 @@ item  :
 
       Um dies zu erreichen beantworten wir eine Reihe von Kernfragen zum Thema Graphen. Diese könnten wie folgt aussehen:
 
-    image       : images/about/about-1.jpg
+    image       : images/service/consultation.jpg
     servicelist :
       - item: Was sind Graphen?
       - item: Warum braucht man Graphen?
@@ -119,7 +119,7 @@ item  :
 
 
 
-    image       : images/about/about-1.jpg
+    image       : images/service/consultation.jpg
     servicelist :
       # - item: 1GB Disk Space
     item      :
@@ -165,7 +165,7 @@ item  :
 
       Kernthemen von Kursen und Workshops inkuldieren:
 
-    image       : images/about/about-1.jpg
+    image       : images/service/workshops.jpg
     servicelist :
       - item: Grundbegriffe und Konzepte
       - item: Einführung in Graph Algorithmen

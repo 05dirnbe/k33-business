@@ -36,21 +36,37 @@
   height:90vh;
 }
 
-.overlay {
+#particles-js .overlay {
   position: absolute;
-  top: 70%;
-  right: 60%;
-  padding-left: 80px 0;
-}
-
-.overlay h4 {
+  top : 70%;
+  right : 54.5%;
   color: #fff;
 }
 
-.overlay h2 {
-  color: #fff;
+#particles-js h2 {
+
   text-transform: uppercase;
   font-weight: 700;
+}
+
+@media (max-width: 480px) {
+
+  #particles-js .overlay {
+    position: absolute;
+    top : 50%;
+    right : 45%;
+    color: #fff;
+  }
+
+  #particles-js .h2 {
+    padding-left: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  #particles-js .overlay  {
+    padding-left: 20px;
+  }
 }
 
 .graph-area {
@@ -58,11 +74,6 @@
   background: #1f2532;
 }
 
-@media (max-width: 480px) {
-  .graph-area {
-    padding: 80px 0;
-  }
-}
 
 div.graph {
   width: 100%;

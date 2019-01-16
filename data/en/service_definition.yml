@@ -22,7 +22,7 @@ item  :
 
       As experts your trust is our livelyhood. From day one, we support you to the best of our knowledge and belief.
 
-    image       : images/about/about-1.jpg
+    image       : images/service/strategy.jpg
     servicelist :
       # - item: Was sind Graphen überhaupt?
     item      :
@@ -73,7 +73,7 @@ item  :
 
       To achieve this, we answer a number of core questions regarding graphs. These could look as follows:
 
-    image       : images/about/about-1.jpg
+    image       : images/service/keynote.jpg
     servicelist :
       - item: What are Graphs?
       - item: Why does one need graphs?
@@ -124,7 +124,7 @@ item  :
       Needless to say, we bring our complementary knowledge in data science, data engineering and software engineering to bear in order to help you get your problem solved.
 
 
-    image       : images/about/about-1.jpg
+    image       : images/service/consultation.jpg
     servicelist :
       # - item: 1GB Disk Space
     item      :
@@ -170,7 +170,7 @@ item  :
 
       Key topics for courses and workshops include:
 
-    image       : images/about/about-1.jpg
+    image       : images/service/workshops.jpg
     servicelist :
       - item: Basics and concepts
       - item: Introduction to graph algorithms
