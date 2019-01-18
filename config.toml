@@ -199,18 +199,18 @@ DefaultContentLanguage = "de"
         name    = "service"
         url     = "service"
         weight  = 3
-    [[menu.nav]]
-        name    = "applications"
-        url     = "applications"
-        weight  = 4
+    # [[menu.nav]]
+    #     name    = "applications"
+    #     url     = "applications"
+    #     weight  = 4
     [[menu.nav]]
         name    = "blog"
         url     = "http://localhost:1313/en/blog/"
-        weight  = 5
+        weight  = 6
     [[menu.nav]]
         name    = "academy"
         url     = "https://k-33-academy.thinkific.com/collections"
-        weight  = 6
+        weight  = 5
     [[menu.nav]]
         name    = "contact"
         url     = "contact"

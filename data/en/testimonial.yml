@@ -1,25 +1,7 @@
 enable : true
 item    :
   - quote       : >
-      ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : ENGLISH Matt Cutts
-    clientDesignation: CEO , Company Name
-
-  - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : ENGLISH Elon Mask
-    clientDesignation: CEO , Company Name
-
-  - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-3.jpg
-    clientName  : ENGLISH Matt Cutts
-    clientDesignation: CEO , Company Name
-
-  - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-4.jpg
-    clientName  : ENGLISH Elon Mask
-    clientDesignation: CEO , Company Name
+      Michael's attention to detail and understanding of the client objectives really helped the team steer towards productive cooperation.
+    clientThumb : images/client-logo/benflood.jpg
+    clientName  : "[Dr. Ben Flood](https://www.linkedin.com/in/drbenflood/)"
+    clientDesignation: Senior Manager , KPMG Germany

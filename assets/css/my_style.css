@@ -95,3 +95,22 @@ div.graph_soccer {
     display: flex;
     align-items: center;
 }
+
+.testimonial .item .client-meta span {
+  font-size: 14px;
+}
+
+.testimonial .item .client-thumb img {
+  display: inline-block;
+  border-radius: 100%;
+  width: 120px;
+  height: auto;
+}
+
+#testimonial a:hover {
+    color: #007bff;
+}
+
+#testimonial a {
+    color: #ffff;
+}

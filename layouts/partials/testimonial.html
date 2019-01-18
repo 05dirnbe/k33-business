@@ -13,15 +13,15 @@
                             <i class="tf-ion-quote"></i>
                             {{ "<!-- client quote -->" | safeHTML }}
                             <div class="client-details">
-                                <p>{{ .quote }}</p>
+                                <p>{{ .quote | markdownify }}</p>
                             </div>
                             {{ "<!-- client photo -->" | safeHTML }}
                             <div class="client-thumb">
                                 <img src="{{ .clientThumb | absURL }}" class="img-fluid" alt="client-image">
                             </div>
                             <div class="client-meta">
-                                <h4>{{ .clientName }}</h4>
-                                <span>{{ .clientDesignation }}</span>
+                                <h4>{{ .clientName | markdownify }}</h4>
+                                <span>{{ .clientDesignation | markdownify }}</span>
                             </div>
                         </div>
                         {{ end }}
