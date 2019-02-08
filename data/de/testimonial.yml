@@ -5,3 +5,13 @@ item    :
     clientThumb : images/client-logo/benflood.jpg
     clientName  : "[Dr. Ben Flood](https://www.linkedin.com/in/drbenflood/)"
     clientDesignation: Senior Manager, KPMG Deutschland
+  - quote       : >
+      We were working together on a research project that required an interdisciplinary approach from computer science, biology, electrical engineering, and physics. Michael was crucial for the success of this project: His skills combine creative out-of-the-box thinking and thoroughly thought through solutions with a self-organized and timely work schedule that I could completely rely on. I can only highly recommend him!
+    clientThumb : images/client-logo/mfuegger.jpg
+    clientName  : "[Dr. Matthias Függer](http://www.lsv.fr/~mfuegger/)"
+    clientDesignation: Senior Researcher , CNRS Paris
+  - quote       : >
+      Ich hatte das Vergnügen mit Michael zusammen über ein halbes Jahr an einem sehr arbeitsintensiven Projekt zu arbeiten. Dabei hat er uns hervorragend mit seiner technischen Expertise unterstützt und maßgeblich zum Erfolg des Projektes beigetragen. Ich kann Michael vorbehaltlos weiter empfehlen und würden mich freuen, noch viele weitere Projekte mit ihm zusammen zu bearbeiten.
+    clientThumb : images/client-logo/pschwingenschloegl.jpg
+    clientName  : "[Paul Schwingenschloegl, MSc.](https://www.linkedin.com/in/paul-schwingenschloegl/)"
+    clientDesignation: Senior Consultant, PwC GmbH WPG
