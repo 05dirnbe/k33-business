@@ -1,30 +1,31 @@
 enable  : true
 topTitle: Worauf warten Sie noch?
 title   : Unsere Kostenlosen Online-Kurse.
-subtitle : Unsere kompakten Online-Kurse machen Sie mit grundlegenden Konzepten, Anwendungen und Auswirkungen von Graphen vertraut.
-  Das Ziel ist Sie in die Lage zu versetzen selbständig zu beurteilen ob Graphen für Sie wichtig sind und ob Sie mehr in das Thema investieren sollten. Unsere Kurse sind in Englischer Sprache verfasst.
+subtitle : Unsere kompakten Online-Kurse in englischer Sprache machen Sie mit grundlegenden Konzepten und Nutzen von Graphen vertraut.
+  Sie demonstrieren wie man stukturierte Daten als Graphen betrachtet und führen einige nützliche Werkzeuge ein.
+  Am Ende werden Sie in der Lage sein zu beurteilen, ob Sie oder Ihre Organisation von der Nutzung von Graphen profitieren können.
 
 item  :
-  - name        : Basic Graph Concepts
-    price       : Kostenlos
+  - name        : Introduction to Graphs
+    price       : Free
     description : Learn the basics of graphs and why you should care
     featurelist :
-      - item: Introduction
       - item: Concepts
       - item: Applications
+      - item: Tools
       - item: Impact
 
-    btnText     : Teilnehmen
+    btnText     : Enroll
     btnURL      : http://k-33-academy.thinkific.com/courses/introduction-to-graphs
 
-  - name        : Graphs in Python
-    price       : Kostenlos
-    description : Learn how to work with graphs in Python
-    featurelist :
-      - item: Setup
-      - item: Concepts
-      - item: Algorithms
-      - item: Applications
-
-    btnText     : Teilnehmen
-    btnURL      : http://k-33-academy.thinkific.com/courses/graphs-in-python
+  # - name        : Graphs in Python
+  #   price       : Kostenlos
+  #   description : Learn how to work with graphs in Python
+  #   featurelist :
+  #     - item: Setup
+  #     - item: Concepts
+  #     - item: Algorithms
+  #     - item: Applications
+  #
+  #   btnText     : Teilnehmen
+  #   btnURL      : http://k-33-academy.thinkific.com/courses/graphs-in-python

@@ -1,6 +1,6 @@
 enable    : true
-topTitle   : Unsere Mission
-title     : k-33 ist Ihr guide to graphs
+topTitle   : "Unsere Mission:"
+title     : k33 ist Ihr guide to graphs
 subtitle  : >
   Wir verstehen uns als Experten, die ihren Kunden mit **Wissen und Gewissen** nach Kräften unterstützen. Unsere Werte sind durch **wissenschaftliche Arbeitsweise und Arbeitsethik** geprägt. Unsere Ansprüche ans unsere Arbeit machen den Unterschied, nicht nur für unsere Kunden, sondern auch für uns!
 tabItem   :
@@ -8,49 +8,49 @@ tabItem   :
     title     : Unser Ansatz
     heading   : Theorie und Praxis
     content   : >
-      k-33 zeichnet sich durch langjährige Erfahrung in der Kombination von theoretischen und praktischen Aspekte der Nutzung von Graphen aus.
+      k33 zeichnet sich durch langjährige Erfahrung in der **Kombination von theoretischen und praktischen Aspekte der Nutzung von Graphen** aus.
       Dies umfasst Konzepte, Algorithmen und Modelle die sowohl in der Forschung sowie im industriellen Bereich Anwendung finde.
 
 
-      Erst in der Symbiose von Theorie und Praxis ergeben sich dabei die fruchtbarsten Ansätze, die sich langfristig bewähren.
+      Wir sind überzeugt, dass erst in der **Symbiose von Theorie und Praxis** die fruchtbarsten Ansätze enstehen, die sich **langfristig bewähren**.
     image     : images/about/compass.jpg
 
   - id        : mission_item
     title     : Lernen
     heading   : Experte sein aber auch bleiben
     content   : >
-      Wir bei k-33 glauben, dass es stetigen Einsatz bedarf einen einmal erarbeiteten Expertenstatus zu erhalten.
-      Die technische Themen für die wir brennen, entwickeln sich rasant. Beständig am Puls neuester Entwicklungen zu sein stellt eine ganz besondere Herausforderung für uns als Experten dar.
+      Wir bei k33 glauben, dass es stetiger Weiterbildung bedarf einen einmal erarbeiteten Expertenstatus zu erhalten.
+      Die technische Themen für die wir brennen, entwickeln sich rasant. Immer am Puls neuester Entwicklungen zu sein stellt eine ganz besondere Herausforderung für uns als Experten dar.
 
 
-      Aus diesem Grund gehört das kontinuierliche Erweitern, Erneuern und Verbessern der eigenen Methoden und des eigenen Wissens zu den Kernaktivitäten von k-33.
-      Insbesondere dem kritischen Hinterfragen der eigenen Sache wird bei k-33 großer Bedeutung beigemessen.
+      Aus diesem Grund gehört das **kontinuierliche Erweitern, Erneuern und Verbessern der eigenen Methoden und des eigenen Wissens** zu den Kernaktivitäten von k33.
+      Insbesondere dem kritischen Hinterfragen der eigenen Sache wird bei k33 großer Bedeutung beigemessen.
     image     : images/about/books.jpg
 
   - id        : vision_item
     title     : Lehren
     heading   : Vermittlung von Wissen
     content   : >
-      Der wahre Wert von Wissen zeigt sich erst, wenn es verbreitet wird. Wir legen großen Wert darauf unseren Kunden das Wissen zu vermitteln, welches sie benötigen, um erfolgreich zu sein.
-      Im Umkehrschluss freuen wir uns auch darauf, auch von unseren Kunden etwas zu lernen.
+      Der wahre Wert von Wissen zeigt sich erst, wenn es Anwendung findet. Wir legen großen Wert darauf unseren **Kunden das Wissen zu vermitteln, welches sie benötigen, um erfolgreich zu sein**.
+      Im Umkehrschluss freuen wir uns auch darauf von unseren Kunden etwas zu lernen.
 
 
-      Lernen und Lehren stehen im Mittelpunkt der Aktivitäten von k-33.
-      Langjährige Erfahrung in der universitären Lehre unterstreichen unser Engagement.
+      Lernen und Lehren stehen im Mittelpunkt der Aktivitäten von k33.
+      Langjährige Erfahrung in der Lehre unterstreichen unser Engagement.
 
 
-      Tatsächlich sind wir der Meinung, dass ein echter Experten jederzeit in der Lage sein sollte, einen wertvollen Beitrag zu leisten, indem er Wissen und Erfahrung mit anderen teilt.
+      Tatsächlich sind wir der Meinung, dass ein echter Experten oder Expertin jederzeit in der Lage sein sollte, einen wertvollen Beitrag zu leisten, indem Wissen und Erfahrung mit anderen geteilt werden.
     image     : images/about/boy.jpg
 
   - id        : believe_item
-    title     : Interdisziplinär
+    title     : Komplementäres Wissen
     heading   : Über den Tellerrand hinaus
     content   : >
       Eine ausgeprägte Spezialisierung ist wichtig, birgt gleichzeitig aber die Gefahr des Tunnelblicks.
       Tatsächlich existieren auch Graphen selten in Isolation.
-      Die Nutzung von Graphen in realistischen Anwendungen ist typischerweise mit anderen Systemen, wie herkömmlichen Datenbanken, Webservices oder Ähnlichem verbunden.
+      **Die Nutzung von Graphen in realistischen Anwendungen ist typischerweise mit anderen Systemen, wie herkömmlichen Datenbanken, Webservices oder Ähnlichem verbunden.**
 
 
-      Aus diesem Grund muss ein Experte über sein Fachgebiet hinaus Fähigkeiten vorweisen können, welche die Anbindung von Graphen an den Rest der Welt erleichtern.
-      In diesem Zusammenhang ist k-33 besonders stolz seinen Kunden Kompetenzen im Bereich Data Science, Data Engineering und Software Engineering bieten zu können.
+      Aus diesem Grund glauben wir, dass ein Experte über sein Fachgebiet hinaus Fähigkeiten vorweisen können muss, welche die Anbindung von Graphen an den Rest der Welt erleichtern.
+      In diesem Zusammenhang ist k33 besonders stolz seinen Kunden signifikante Kompetenzen im Bereich **Data Science, Data Engineering und Software Engineering** bieten zu können.
     image     : images/about/code.jpg

@@ -1,7 +1,7 @@
 enable    : true
 topTitle  : "Was wir für Sie tun:"
 title     : Unsere Leistungen.
-subtitle  : Wir bringen unser Wissen und Erfahrung im Bereich der Graphen bei Ihnen ein.
+subtitle  : Über die Blickwinkel von Data Scientists, Data Engineers and Software Engineers bringen wir unser Wissen und Erfahrung im Bereich der Graphen bei Ihnen ein.
 item      :
   - icon  : tf-ion-ios-search
     title : Erstberatung

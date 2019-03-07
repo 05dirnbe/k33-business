@@ -1,6 +1,6 @@
 enable    : true
-topTitle   : "Hinter k-33 steht:"
-title     : Michael Dirnberger
+topTitle   : "k33 wurde gegründet von:"
+title     : Mag. Dr. Michael Dirnberger
 subtitle  :
 
 item    :
@@ -8,7 +8,12 @@ item    :
     image : images/about/about-1.jpg
     title :
     description : >
-      Mein Name ist **Dr. rer. nat. Michael Dirnberger**.
+
+      Mein Name ist **Michael Dirnberger**.
+
+
+      Viele Jahre habe ich mich aus Interesse und Enthusiasmus mit Graphen und ihren Anwendungen beschäftigt.
+      Heute teile ich mit Hilfe meines Unternehmens **k33 Experts** mein Wissen und Erfahung mit denjenigen, die Graphen für sich nutzen wollen.
 
 
       An der [Karl-Franzens Universität](https://www.uni-graz.at/de/) im schönen Graz habe ich das spannende Diplomstudium der [theoretischen Physik](https://physik.uni-graz.at/de/fachbereich-theoretische-physik/) abgeschlossen.
@@ -25,13 +30,11 @@ item    :
     title :
     description : >
 
-            Fünf Jahre später habe ich beschlossen mein Wissen und meine Fähigkeiten rund um das Thema Graphen kurzerhand von der akademischen in die industrielle Anwendung transferiert.
+            Fünf Jahre später habe ich mein Wissen und meine Fähigkeiten
+            rund um das Thema Graphen kurzerhand von der akademischen in die industrielle Anwendung transferiert.
 
 
             Zuerst war ich als Senior Data Scientist beim [Data Science](https://de.wikipedia.org/wiki/Data_Science) Spezialisten [Kiana Systems](http://www.kiana-systems.com/) und später in der [Advanced Analytics Abteilung](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse/advanced-analytics.html) vom [KPMG Lighthouse Deutschland](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse.html) erfolgreich tätig.
 
 
-            Rasch wurde mir klar, dass die Anwendung von Graphen und damit verbundenen Technologie ein **enormes Potential für praktische industrielle Nutzung** bergen, dieses jedoch leider aufgrund von **mangelder Expertise in den Fachabteilungen** nur selten genutzt werden kann.
-
-
-            Damals hab ich mir regelmäßig gedacht ...
+            Rasch wurde mir klar, dass die Anwendung von Graphen und damit verbundenen Technologie ein **enormes Potential für praktische industrielle Nutzung** bergen, dieses jedoch leider aufgrund von **mangelder Expertise in den Fachabteilungen** kaum genutzt werden kann.

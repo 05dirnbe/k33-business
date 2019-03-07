@@ -1,6 +1,6 @@
 enable    : true
-topTitle   : Our Mission
-title     : k-33 is your guide to graphs
+topTitle   : "Our Mission:"
+title     : k33 is your guide to graphs
 subtitle  : >
   We are experts who support our customers **to the best of our knowledge and belief**.
   Our values are characterized by a **scientific approach** to our work.
@@ -13,11 +13,11 @@ tabItem   :
     heading   : Theory and Application
     content   : >
 
-      k-33 distinguishes itself through several years of experience in combining theoretical and practical aspects of using graphs.
+      k33 distinguishes itself through several years of experience in **combining theoretical and practical aspects of using graphs**.
       This includes concepts, algorithms and models that are used both in research as well as in industrial settings.
 
 
-      The combination of theory and practical knowledge often yields the most promising solutions that work reliably in the long run.
+      We firmly belive that the **combination of theory and practical knowledge** often yields the most promising solutions that **work reliably in the long run**.
 
     image     : images/about/compass.jpg
 
@@ -26,12 +26,12 @@ tabItem   :
     heading   : Staying on top
     content   : >
 
-      We believe that constant effort is required to truly maintain an expert status.
+      We believe that constant learning is required to truly maintain an expert status.
       The technical topics that we love are ever-developing and in constant flux. Staying on top of new developments is vital for us as experts.
 
 
-      For this reason frequent extension, renewal and improvement of our own knowledge and methods is a critical part of our business.
-      Challinging and pushing ourselves and our level of expertise constantly is very important to us.
+      For this reason frequent extension, **renewal and improvement of our own knowledge and methods is a critical part of our business**.
+      Challenging and pushing ourselves and our level of expertise constantly is second nature for us.
 
     image     : images/about/books.jpg
 
@@ -40,21 +40,21 @@ tabItem   :
     heading   : Transfer of knowledge
     content   : >
 
-      The true value of knowledge shows when it is shared. Providing our customers with the knowledge they need to succeed is vital to us.
+      The true value of knowledge shows when it is applied. **Providing our customers with the knowledge they need to succeed is vital to us**.
       Teaching goes both ways however, we are always looking to learn what our customers have to share.
 
 
-      Learning and teaching are at the heart of k-33.
+      Learning and teaching are at the heart of k33.
       Many years of teaching engagements in university underlines our commitment to sharing what we know.
 
 
-      In fact, we believe that a true expert should always be ready to contribute by sharing his or her knowlegde or experince in their field of expertise.
+      In fact, we believe that a true expert should always be ready to contribute by sharing his or her knowlegde/experience in their field of expertise.
 
 
     image     : images/about/boy.jpg
 
   - id        : believe_item
-    title     : Interdisciplinary
+    title     : Complementary Knowledge
     heading   : Beyond graphs
     content   : >
 
@@ -62,9 +62,9 @@ tabItem   :
       Graphs for example, rarely exist or are used in isolation.
 
 
-      More often than not, the usage of graphs in realistic application is coupled to other systems, such as databases, webservice or similar.
+      **More often than not, the usage of graphs in realistic applications is coupled to other systems, such as databases, webservice or similar applications.**
 
 
-      Thus our experts must be knowledgabe beyond graphs, allowing for an efficient connection between graphs and the rest of the world.
-      In this context k-33 is extremely proud to offer its customers significant competence in the areas of Data Science, Data Engineering and Software Engineering.
+      Thus we believe that our experts must be knowledgabe beyond graphs, allowing for an efficient connection between graphs and the rest of the world.
+      In this context k33 is extremely proud to offer its customers significant competence in the areas of **Data Science, Data Engineering and Software Engineering**.
     image     : images/about/code.jpg

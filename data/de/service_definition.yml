@@ -4,16 +4,16 @@ item  :
   - enable      : true
     name : checkup
     background: true
-    topTitle    : Lernen wir uns kennen
+    topTitle    : Lernen wir uns kennen!
     Title    : Kostenlose Erstberatung
-    topSubtitle    : Wir klären im persönlichen Gespräch ob eine Zusammenarbeit erfolgsversprechend ist bzw. wie diese aussehen könnte.
+    topSubtitle    : Im persönlichen Gespräch gehen wir auf Ihre indivudelle Situation ein und klären ab wie wir Ihnen helfen können.
     title     : Was können wir für Sie tun?
     description: >
 
       Im lockeren Gespräch stellen wir uns persönlich vor und beantworten Ihre Fragen. Ziel ist es Sie kennen zu lernen und einen ersten Eindruck Ihrer individuelle Situation zu erhalten.
 
 
-      Gemeinsam soll versucht werden festzustellen, wie eine Zusammenarbeit mit k-33 aussehen könnte bzw. welche unsere Services dafür in Frage kämen.
+      Gemeinsam soll versucht werden festzustellen, wie eine Zusammenarbeit mit k33 aussehen könnte bzw. welche unsere Services dafür in Frage kämen.
       Falls eine Nutzung von Graphen wenig erfolgsversprechend erscheint, werden wir Ihnen selbstverständlich davon abraten, insbesondere dann, wenn bereits absehbar ist, dass Sie mit anderen Technologien besser beraten wären.
 
 
@@ -30,15 +30,15 @@ item  :
         title : Besonderheiten
         list  :
           - name : Kostenlose Erstberatung
-          - name : Unkomplizierter Umgang
+          - name : Freundlicher Umgang
 
       - icon  : tf-ion-ios-flame-outline
         title : Vorteile
         list  :
-          - name : Persönlicher Kontakt
+          - name : Persönliche Beratung
           - name : No-Nonsense Ansatz
           - name : Vorstellung unserer Services
-          - name : Beantwortung von Fragen
+          - name : Beantwortung Ihrer Fragen
 
       - icon  : tf-ion-ios-speedometer-outline
         title : Nutzen
@@ -51,10 +51,10 @@ item  :
   - enable      : true
     name : keynote
     background: false
-    topTitle    : Für Einsteiger und Fortgeschrittene
+    topTitle    : Lasst die doch reden!
     Title    : Vorträge
-    topSubtitle    : Wir kommen zu Ihnen oder Ihrer Veranstaltung und tragen das spannende Thema Graphen an Ihre Mitarbeiter oder Gäster heran.
-    title     : Warum sind Graphen interessant?
+    topSubtitle    : Wir kommen zu Ihnen oder Ihrer Veranstaltung und begeistern Ihre Mitarbeiter oder Gäster mit spannenden Auftritten.
+    title     : Was macht Graphen so interessant?
     description: >
       Graphen und Technologien basierend auf Graphen erlauben es strukturiert und effizient mit vernetzten Informationen jeglicher Art zu arbeiten. Aufgrund des hohen Abstraktionsgrades von Graphen können sie in den unterschiedlichsten Situationen auf verschiedenste Art und Weise zum Einsatz kommen. Diese Tatsache macht Graphen für alle interessant.
 
@@ -63,16 +63,18 @@ item  :
       Von unseren Höreren würden wir am Ende Folgendes gerne hören:
 
 
-      **"Ja, ich habe jetzt einen neuen Blickwinkel auf die Nutzung von vernetzter Information. Jetzt seh ich auch das Prinzip dahinter."**
+      **"Ja, ich habe jetzt einen neuen Blickwinkel auf die Nutzung von strukturierter Information. Jetzt seh ich auch was dahinter steckt!"**
 
 
-      Um dies zu erreichen beantworten wir eine Reihe von Kernfragen zum Thema Graphen. Diese könnten wie folgt aussehen:
+      Um dies zu erreichen behandeln wir eine Reihe von Kernfragen zum Thema Graphen. Diese könnten wie folgt aussehen:
 
-    image       : images/service/consultation.jpg
+    image       : images/service/keynote.jpg
     servicelist :
-      - item: Was sind Graphen?
-      - item: Warum braucht man Graphen?
-      - item: Wo und wie nutzt man Graphen?
+      - item: Was sind Graphen überhaupt?
+      - item: Wozu werden Graphen verwendet?
+      - item: Wie werden Graphen verwendet?
+      - item: Was sind Vor und Nachteile der Nutzung von Graphen?
+      - item: ...
 
     item      :
       - icon  : tf-ion-ios-search
@@ -104,7 +106,7 @@ item  :
   - enable      : true
     name : consultation
     background: true
-    topTitle    : Wir sind an Ihrer Seite
+    topTitle    : Experten an Ihrer Seite!
     Title    : Konsultationen
     topSubtitle    : Wir bringen Wissen und Erfahrung im Bereich der Graphen zur Lösung Ihrer Probleme bei Ihnen ein. Gemeinsam erreichen wir mehr.
     title     : Graphen als Schlüsseltechnologie
@@ -113,9 +115,9 @@ item  :
       Sie haben ein Problem welches sich wahrscheinlich mit Graphen oder darauf basierenden Technologien lösen lässt und wollen von Anfang an Experten mit ins Boot holen?
 
 
-      Wenn Sie diese oder ähnliche Fragen mit Ja beantworten, dann sind Sie bei k-33 an der richtigen Stelle.
-      Mit unseren Konsultatione unterstützen wir Sie und ihr Team dabei Graphen und darauf basierende Technlogien korrekt, effizient und erfolgreich zu nutzen.
-      Selbstverständlich bringen wir auch unser komplementäres Wissen in den Bereichen Data Science, Data Engineering und Software Engineering ein, um Sie bei der Lösung Ihrer Probleme zu unterstützen.
+      Wenn Sie diese oder ähnliche Fragen mit Ja beantworten, dann sind Sie bei k33 an der richtigen Stelle.
+      Mit unseren Konsultationen unterstützen wir Sie und ihr Team dabei Graphen und darauf basierende Technlogien korrekt, effizient und erfolgreich zu nutzen.
+      Selbstverständlich bringen wir auch unser komplementäres Wissen in den Bereichen Data Science, Data Engineering und Software Engineering mit ein, um Sie bei der Lösung Ihrer Probleme zu unterstützen.
 
 
 
@@ -145,15 +147,15 @@ item  :
         title : Nutzen
         list  :
           - name : Rasche Entwicklung von flexiblen Lösungskonzepten basierend auf Graphen
-          - name : Geringere Kosten bei der Implementierung von Lösungen mit Graphen
+          - name : Verringerte Kosten bei der Implementierung von Lösungen mit Graphen
           - name : Vermeidung von kostenintensiven Fehlern
 
   - enable      : true
     name : workshop
     background: false
-    topTitle    : Graphen in der Praxis
+    topTitle    : So wirds gemacht!
     Title    : Workshops
-    topSubtitle    : Graphen und drauf basierende Technologien sind Werkzeuge. Wir bringen Ihnen und Ihrem Team bei, wie man diese professionell nützt.
+    topSubtitle    : Graphen und drauf basierende Technologien sind Werkzeuge. Wir bringen Ihnen und Ihrem Team bei wie man diese professionell nützt.
     title     : Arbeiten mit Graphen
     description: >
 
@@ -174,6 +176,7 @@ item  :
       - item: Komplementäre Themen
       - item: Best Practices im Umgang mit Graphen
       - item: Vermeidung von Fehlern
+      - item: ...
 
     item      :
       - icon  : tf-ion-ios-search

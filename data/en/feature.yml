@@ -3,16 +3,16 @@ item  :
   - icon  : tf-ion-ios-flask-outline
     title : Graphs are flexible data-tools
     description : >
-      Data is most useful if it has meanigful structure. Graphs are ideal to represent and exploit structured data.
+      Data is most useful if it has meanigful structure. Graphs are ideal to represent and utilize complex structured data.
 
 
   - icon  :  tf-ion-ios-lightbulb-outline
     title : Graphs are clean and intuitive
     description : >
-      Representig complex data as a graphs makes it easier to grasp. Often a drawing is worth a thousand words.
+      Representig complex data as a graph makes data easier to understand. Often a drawing of a graph is worth a thousand words.
 
 
   - icon  : tf-ion-ios-speedometer-outline
-    title : Graph technologies are ready
+    title : Graph technologies have arrived
     description : >
-      Whether you need a graph library or an entire distributed graph database to do the job. They are available and here to stay.
+      Whether you need a graph library or an entire distributed graph database to get the job done. Graph tools are available and here to stay.

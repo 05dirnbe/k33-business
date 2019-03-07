@@ -4,46 +4,48 @@ title     : Was sind Graphen eigentlich?
 subtitle  : >
 
   Ein mathematischer Graph, kurz **Graph**, ist eine **Struktur die die paarweisen Beziehungen zwischen Objekten beschreibt**.
-  Ein Graph besteht aus **Vertices oder Knoten** die durch **Kanten** verbunden sind.
+  Ein Graph besteht aus **Vertices** (auch Knoten genannt) die durch **Kanten** verbunden sind.
   In der praktischen Anwendung findet sich statt Graph häufig der Begriff **Netzwerk**.
 
 
   Sobald eine Problem oder eine Anwendung in Form eines Graphen vorliegt, lassen sich **nützliche Konzepte, Algorithmen und Analysetechniken** aus den
   Gebieten der [Graphentheorie](https://de.wikipedia.org/wiki/Graphentheorie) und [Netzwerkforschung](https://de.wikipedia.org/wiki/Netzwerkforschung) anwenden.
   Aus diesem Grund und ihrer weiten Anwendbarkeit sind Graphen und Technologien die auf Graphen basieren heute **Schlüsselelemente von viele wichtigen praktischen Anwendunge**.
-  Siehe [Anwendungen](applications) für einen Überblick über einige wichtige Anwendungen von Graphen.
+  Bekannte Anwendungen sind Beispielsweise das Schalten von Werbung in Sozialen Netwerken, Transportnetze oder Data Managment Systeme.
 
 
   An einem Beispiel wollen wir verdeutlichen wie Graphen uns dabei Helfen **strukturierte Daten besser zu verstehen**.
+  Je besser unser Verständnis von komplexen Daten, desto leichte wird es Anwendungen zu realisiere, welche auf diesen Daten aufbauen.
   Wir konzentrieren uns auf ein einfaches **Kommunikationsnetz**, d.h. Personen die miteinander Emails austauschen.
   Es muss betont werden, dass **fast alles as Graph aufgefasst werden kann**.
 
 
-  **Die korrekte Art und Weise zu finden, Daten als Graph zu modelliern und den maximalen Nutzen in der Anwendung zu erzielen, ist ein wichtiges und interessantes Problem.**
+  **Die beste Art und Weise zu finden, Daten als Graph zu modelliern und den maximalen Nutzen in der Anwendung zu erzielen, ist ein forderndes aber sehr wichtiges Problem.**
 
 
 tabItem   :
   - id        : graph_item
     title     : Graph/Netzwerk
-    heading   : "Graphen sind abstrakte Struktur"
+    heading   : "Graphen sind nützliche Struktur"
     content   : >
 
-      Daten die den Austausch von Emails zwischen Personen beschreiben, können direkt als dieser blaue Graph aufgefasst werden.
+      Daten die den **Austausch von Emails zwischen Personen** beschreiben, können direkt als dieser blaue Graph aufgefasst werden.
 
 
-      Die Menge der Knoten besteht aus 10 einzigartige Personen.
+      Die **Menge der Knoten** besteht aus 10 einzigartige Personen.
       Für jedes Knotenpaar welches Emails austauscht gibt es eine Kanten zwischenen den beteiligten Knoten.
-      Die Summe dieser Kanten ergibt die Menger der Kanten.
-      Knoten und Kanten zusammen formen den Graphen, in diesem Fall ein Kommunikationsnetz.
+      Die Summe dieser Kanten ergibt die **Menger der Kanten**.
+      **Knoten und Kanten zusammen formen den Graphen**, in diesem Fall ein Kommunikationsnetz.
 
 
-      Durch die Graph-Representation sind interessante Informationen sofort verfügbar:
+      **Durch die Graph-Representation sind interessante Informationen sofort verfügbar**:
       Der am besten verbundene Kommunikator in dem Graph ist Alston mit 5 Nachbarn.
       Coley und Langdon bleiben für sich während Algie überhaupt keinen Kontakt hat.
 
 
-      Obwohl es sich hier um ein kleines und einfaches Netzwerk handelt, sind die Ähnlichkeiten zu großen und komplexen Netzwerken wie Facebook oder LinkedIn offensichtlich.
-      In beiden Fällen ist es die Modellierung als Graph die die effiziente Extraktion und Nutzun von Information ermöglicht.
+      Obwohl es sich hier um ein kleines und einfaches Netzwerk handelt, ist es leicht zu
+      sehen, dass sich diese Art in Graphen zu denken direkt auf große und komplexe Netzwerke wie Facebook oder LinkedIn übertragen lässt.
+      **Es ist die Modellierung als Graph die die effiziente Extraktion und Nutzun von Information ermöglicht.**
 
     js     : graph_intro
 
@@ -53,16 +55,16 @@ tabItem   :
     content   : >
 
 
-      The Knoten sind in rot dargestellt. Zusätzliche information ist in der Zeichnung des Graphen enthalten:
-      Die Größe der Knoten spiegelt die Summe der mit Nachbarn ausgetauschten Emails wieder.
+      Hier ist die **Menge der Knoten in rot dargestellt**. Zusätzliche information ist in der Zeichnung des Graphen enthalten:
+      Die **Größe der Knoten spiegelt die Summe der mit Nachbarn ausgetauschten Emails wieder**.
       Wenn Sie die Maus über die Knoten bewegen, wird die Anzahl angezeigt.
 
 
-      In diesem Beispiel stehen Knoten für Personen. Knoten sind jedoch abstrakt und können beliebige Objekte darstellen.
-      Verschiedene Klassen von Knoten kommen häufig in Graphen vor.
+      In diesem Beispiel stehen Knoten für Personen. Im Allgemeinen sind **Knoten jedoch abstrakt und können beliebige Objekte darstellen**.
+      Verschiedene Klassen von Knoten kommen häufig in ein und demselben Graphen vor.
 
 
-      In einigen bekannten Graphen stehen Knoten für Webseiten, Geräte, Produkte, Kunden, Nachrichten, Events, Orte und vieles mehr.
+      In einigen bekannten Graphen stehen Knoten für **Webseiten, Geräte, Produkte, Kunden, Nachrichten, Events, Orte und vieles mehr**.
 
 
     js     : vertices_intro
@@ -73,15 +75,20 @@ tabItem   :
     content   : >
 
 
-            The Kanten sind in rot dargestellt. Zusätzliche information ist in der Zeichnung des Graphen enthalten:
-            Die Dicke der Kanten spiegelt die Menge der zwischen den beteiligten Knoten ausgetauschten Emails wieder.
+            Hier ist **die Menge der Kanten in rot dargestellt**. Zusätzliche Information ist in der Zeichnung des Graphen enthalten:
+            Die **Dicke der Kanten spiegelt die Menge der zwischen den beteiligten Knoten ausgetauschten Emails wieder**.
             Wenn Sie die Maus über die Kanten bewegen, wird die Anzahl angezeigt.
 
 
-            In diesem Beispiel stehen Kanten für Kommunikation. Kanten sind jedoch abstrakt und können beliebige Beziehungen darstellen.
-            Verschiedene Klassen sowie gerichtete Kanten kommen häufig in Graphen vor.
+            In diesem Beispiel stehen Kanten für Kommunikation. **Im Allgemeine sind Kanten jedoch abstrakt und können beliebige Beziehungen darstellen**.
+            Verschiedene Klassen von Kanten kommen häufig in ein und demselben Graphen vor.
 
 
-            In einigen bekannten Graphen stehen Kanten für Weblinks, Verbindungen, Kaufentscheidungen, Verträge, Abos, Verkehrsverbingungen und vieles mehr.
+            **Gerichtete Kanten** können eine gerichtete Beziehung darstellen, z.B. Merlin sendet 3 Nachrichten an Alston.
+            In dem vorliegenden Beispiel beachten Sie bitte, dass die Richtung der Kanten ignoriert werden kann, da von gegenseitigem Austausch von Emails die Rede ist.
+            Daher genügt es **ungerichtete Kanten** zu zeichnen.
+
+
+            In einigen bekannten Graphen stehen Kanten für **Weblinks, Verbindungen, Kaufentscheidungen, Verträge, Abos, Verkehrsverbingungen und vieles mehr**.
 
     js     : edges_intro

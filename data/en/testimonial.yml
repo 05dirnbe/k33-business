@@ -11,7 +11,17 @@ item    :
     clientName  : "[Dr. Matthias Függer](http://www.lsv.fr/~mfuegger/)"
     clientDesignation: Senior Researcher , CNRS Paris
   - quote       : >
-      For more than half a year I had the pleasure to collaborate with Michal in the course of a very work-intensive project. He significantly contributed to the success of by supporting us with his technical expertise. I am happy to recommend Michal without reservation and would be happy to team up again for further future projects.
+      For more than half a year I had the pleasure to collaborate with Michael in the course of a very work-intensive project. He significantly contributed to the success of by supporting us with his technical expertise. I am happy to recommend Michael without reservation and would be happy to team up again for further future projects.
     clientThumb : images/client-logo/pschwingenschloegl.jpg
     clientName  : "[Paul Schwingenschloegl, MSc.](https://www.linkedin.com/in/paul-schwingenschloegl/)"
     clientDesignation: Senior Consultant, PwC GmbH WPG
+  - quote       : >
+      For almost a year I collaborated with Michael on several projects. I quickly learned to appreciate his opinion and expert statements. They were always clear, precise, well-founded and unbiased with regards to wishful thinking. Open development and expert discussions always yielded a better understanding of the problem at hand and frequently lead to actionable solution strategies. In addition to that, given the fact that Michael and I have different special knowledge, I was able to learn a lot from him. On top of central ideas he frequently showed me best-practice approaches.
+    clientThumb : images/client-logo/kschwarz.jpg
+    clientName  : "[Dr. rer. nat. Karsten Schwarz](https://www.linkedin.com/in/karsten-schwarz-b6869914a/)"
+    clientDesignation: Senior Data Scientist, Lighthouse KPMG Germany
+  - quote       : >
+      I collaborated with Michael in the course of a project focused on analyzing the flow of people in an urban region. Possible changes between different modes of transport (driving and walking) posed a central challenge to the project. Michael contributed crucially to the development of solution concepts based on Graph Theory. In addition to his technical expertise I quickly learned to appreciate his deliberate and carful way of working and his unreserved willingness to help.
+    clientThumb : images/client-logo/dschulz.jpg
+    clientName  : "[Daniel Schulz, M.A.](https://www.linkedin.com/in/daniel-schulz-452790163/)"
+    clientDesignation: Senior Associate Consultant, KPMG Deutschland

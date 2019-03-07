@@ -1,6 +1,6 @@
 enable    : true
-topTitle   : "Behind k-33 is:"
-title     : Michael Dirnberger
+topTitle   : "k33 was started by:"
+title     : Mag. Dr. Michael Dirnberger
 subtitle  :
 
 item    :
@@ -8,7 +8,13 @@ item    :
     image : images/about/about-1.jpg
     title :
     description : >
-      My name is **Michael Dirnberger, PhD**.
+
+      My name is **Michael Dirnberger**.
+
+
+      Interest and enthusiasm have kept me working with graphs and their applications for many years.
+      Today, via my company k33 Experts, I share my experience and knowledge with those seeking to utilize graphs themselves.
+
 
       I have studied [theoretical physics](https://physik.uni-graz.at/en/fachbereich-theoretische-physik/) at the [Karl-Franzens University](https://www.uni-graz.at/en/) in beautiful Graz, Austria.
 
@@ -32,6 +38,3 @@ item    :
 
 
             Soon I realized the **enourmous potential** of applying graphs and technologies based on graphs in an **industrial setting**. Unfortunately, due to a **general lack of expert knowledge** this potential is **hardly being explored, save realized**.
-
-
-            I frequently found myself thinking ...

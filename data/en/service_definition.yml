@@ -4,17 +4,17 @@ item  :
   - enable      : true
     name : checkup
     background: true
-    topTitle    : Let's get to know each other
+    topTitle    : Let's get to know each other!
     Title    : Free Strategy Session
-    topSubtitle    : In a first call we determine if a collaboration is promising and what working together could look like.
+    topSubtitle    : In a one-one-one session we focus on your individual situation and determine how we can help you.
     title     : What can we do for you?
     description: >
 
       In a casual call we introduce ourselves personally and answer your questions. The aim is to get to know each other and to get a first impression of your individal situation.
 
 
-      Together we try to determine what a collaboration with k-33 could look like and which of our services is best suited for that purpose.
-      Needless to say, if utilizing Graphs doesn't appear to be promising, we will advice against it. This is true in particular, if it is likely that a different technoloy is going to be a better choice for you.
+      Together we determine what a collaboration with k33 could look like and which of our services is best suited for your purpose.
+      Needless to say, if utilizing Graphs doesn't appear to be promising, we will advice against it. This is true in particular, if we feel that a different technoloy is going to be a better choice for you.
 
 
       Thus we recommend you use the possibility to talk to us to get your questions answered. We are looking forward to it.
@@ -35,7 +35,7 @@ item  :
       - icon  : tf-ion-ios-flame-outline
         title : Benefits
         list  :
-          - name : Personal contact
+          - name : Personal consultation
           - name : No-nonsense approach
           - name : Introduction of our services
           - name : Answers to your questions
@@ -51,9 +51,9 @@ item  :
   - enable      : true
     name : keynote
     background: false
-    topTitle    : For beginners and advanced people
+    topTitle    : Let them talk!
     Title    : Keynotes
-    topSubtitle    : We come to you or to your event and introduce the interesting topic of graphs to your team or your guests.
+    topSubtitle    : We come to you or to your event and inspire your team or your guests with exciting talks.
     title     : Why are graphs interesting?
     description: >
 
@@ -68,16 +68,18 @@ item  :
       After our talks we'd like to hear our audience say something along the lines of:
 
 
-      **"Yeah, I've got a new perspective regarding the use of connected information. I now see the guiding principle behind it."**
+      **"Yeah, I've got a new perspective regarding the use of structured data. I now see the guiding principle behind it."**
 
 
-      To achieve this, we answer a number of core questions regarding graphs. These could look as follows:
+      To achieve this, we introduce and answer a number of key questions regarding graphs. These could look as follows:
 
     image       : images/service/keynote.jpg
     servicelist :
-      - item: What are Graphs?
-      - item: Why does one need graphs?
-      - item: Where and how are graphs used?
+      - item: What are graphs?
+      - item: Where are graphs used?
+      - item: How are graphs used?
+      - item: What are pros and cons of using graphs?
+      - item: ...
 
     item      :
       - icon  : tf-ion-ios-search
@@ -109,18 +111,18 @@ item  :
   - enable      : true
     name : consultation
     background: true
-    topTitle    : We have your back
+    topTitle    : Experts have your back
     Title    : Consultations
     topSubtitle    : We contribute experience and knowledge regarding Graphs towards solving your problems. Together we can achieve more.
     title     : Graphs are a key technology
     description: >
 
       You intent to conduct a professional and detailed assessment of whether or not the usage of graphs in your domain is possible and profitable?
-      You have a problem you suspect to be solvable through the use of graphs and you would like to have an expert opinion available from the start?
+      You have a problem you suspect to be solvable through the use of graphs and you would like to have an expert's opinion available from the start?
 
 
-      If you anser these or similar questions with yes, then k-33 is the right partner for you.
-      With our consultations we support you and your team when it comes to the correct, effecient and effective use of graphs and graph based technologies.
+      If you anser these or similar questions with yes, then k33 is the right partner for you.
+      With our consultations we support you and your team when it comes to the correct, efficient and effective use of graphs and graph based technologies.
       Needless to say, we bring our complementary knowledge in data science, data engineering and software engineering to bear in order to help you get your problem solved.
 
 
@@ -156,7 +158,7 @@ item  :
   - enable      : true
     name : workshop
     background: false
-    topTitle    : Using Graphs
+    topTitle    : This is how it is done!
     Title    : Workshops
     topSubtitle    : Graphs and graph based technologies are tools. We teach you and your team how to use them professionally.
     title     : Working with graphs
@@ -179,6 +181,7 @@ item  :
       - item: Complementary topics
       - item: Best practice
       - item: Error prevention
+      - item: ...
 
     item      :
       - icon  : tf-ion-ios-search

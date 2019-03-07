@@ -23,7 +23,7 @@ item    :
       Representing complex data as a graph opens up powerful analysis and visalization possibilities.
       It simply is intuitive and fun to explore data that is given as a graph.
 
-      Try for yourself, zoom in and interact with the large graph next to this paragraph. What is this data about?
+      Try for yourself, zoom in and interact with the complicated-looking graph next to this text. What is this data about?
 
   - positionRight : true
     image : images/graph_users/cotton-network-color.jpg

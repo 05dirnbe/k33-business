@@ -1,30 +1,31 @@
 enable  : true
 topTitle: What are you waiting for?
 title   : Our Free Courses.
-subtitle : Our short beginner courses familiarize you with the basic concepts, applications and impact of graphs.
-  The goal is to enable you to judge for yourself whether graphs are important for you and whether you should invest more.
+subtitle : Our short beginner courses familiarize you with the basic concepts and purpose of graphs.
+  They teach you how to visualize structured data in terms of graphs and introduce you to useful graph tools.
+  In the end you will be in a position to judge for yourself whether you or your organization can benefit by using graphs.
 
 item  :
-  - name        : Basic Graph Concepts
+  - name        : Introduction to Graphs
     price       : Free
     description : Learn the basics of graphs and why you should care
     featurelist :
-      - item: Introduction
       - item: Concepts
       - item: Applications
+      - item: Tools
       - item: Impact
 
     btnText     : Enroll
     btnURL      : http://k-33-academy.thinkific.com/courses/introduction-to-graphs
 
-  - name        : Graphs in Python
-    price       : Free
-    description : Learn how to work with graphs in Python
-    featurelist :
-      - item: Setup
-      - item: Concepts
-      - item: Algorithms
-      - item: Applications
-
-    btnText     : Enroll
-    btnURL      : http://k-33-academy.thinkific.com/courses/graphs-in-python
+  # - name        : Graphs in Python
+  #   price       : Free
+  #   description : Learn how to work with graphs in Python
+  #   featurelist :
+  #     - item: Setup
+  #     - item: Concepts
+  #     - item: Algorithms
+  #     - item: Applications
+  #
+  #   btnText     : Enroll
+  #   btnURL      : http://k-33-academy.thinkific.com/courses/graphs-in-python

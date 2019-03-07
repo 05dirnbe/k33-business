@@ -1,47 +1,48 @@
 enable    : true
 topTitle   : "Not so fast!"
-title     : What are Graphs?
+title     : What are Graphs in the first place?
 subtitle  : >
   A mathematical graph, or **graph** for short, is a **structure representing pairwise relationships between objects**.
-  A graph is made up of **vertices, nodes, or points** which are connected by **edges, arcs, or lines**.
+  A graph is made up of **vertices** (sometimes called nodes, or points) which are connected by **edges** (sometimes called arcs, or lines).
   In practical applications the term **network** is often used instead of graphs.
 
 
   Once an application or a problem is transformed to the graph model, **powerful concepts, algorithms and analysis techniques** from [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) and [Network Science](https://en.wikipedia.org/wiki/Network_science) immediately apply.
   For this reason and their wide applicability, **graphs and technologies based on graphs have become key elements of many important applications** today.
-  See [Applications](applications) for a curated list of what we regard as some of the most important of them.
+  Some well known applications include advertising in social networks, transportation networks or data management applications.
 
 
-  The following example shows how using a graph can help us **make better sense of structured data**.
+  The following example shows how interpreting data as a graph can help us **make better sense of structured data**.
+  Clearly, the better we understand the complex data we work with the easier it will be to build applications on top of it.
   In this case, we look at a simple **communication network**, i.e. people sending emails to each other.
   However, it is important to emphasize that **virtually
   everything can be seen as a graph**.
 
 
-  **Finding the correct way to model data as a graph and make maximum use of it in an application is an important and interesting problem.**
+  **Finding the best way to model data as a graph and make maximum use of it in an application is a challenging yet important problem.**
 
 
 tabItem   :
   - id        : graph_item
     title     : Graph/Network
-    heading   : "Graphs are abstract structure"
+    heading   : "Graphs are useful structure"
     content   : >
 
-      Data capturing the exchange of emails between people can be directly represented as the graph seen here in blue.
+      Data capturing the **exchange of emails between people** can be directly represented as the graph seen here in blue.
 
 
-      We have 10 unique persons forming the set of nodes.
+      We have 10 unique persons forming the **set of nodes**.
       For each pair of people that exchanged emails with each other an edge is drawn between their respective nodes.
-      The sum of these edges constitutes the set of edges. Nodes and edges together form a graph, in this case a communication network.
+      The sum of these edges constitutes the **set of edges**. **Nodes and edges together form a graph**, in this case a communication network.
 
 
-      Due to the graph representation interesting information is directly available:
+      **Due to the graph representation interesting information is directly available:**
       The best connected communicator in the graph is Alston with 5 neighbours.
       Coley and Langdon stick to themselves while Algie has no contacts at all.
 
 
-      While this is a small and simple network, it is not difficult to see the similarity to large complex networks like Facebook or LinkedIn.
-      In both cases it is the graph model that enables the efficient extraction and use of information.
+      While this is a small and simple network, it is not difficult to see how this type of graph thinking applies to large complex networks like Facebook or LinkedIn.
+      **It is the graph model that enables the efficient extraction and use of information.**
 
 
     js     : graph_intro
@@ -52,16 +53,16 @@ tabItem   :
     content   : >
 
 
-      The node set is highlighted in red. Additional information is embedded in this graph drawing:
-      The size of a node reflects the total number of mails exchanged with its direct neighbours.
+      Here the **node set is highlighted in red**. Additional information is embedded in this graph drawing:
+      The **size of a node reflects the total number of mails exchanged** with its direct neighbours.
       If you hover over individual nodes the total number of mails is given.
 
 
-      In this example nodes represent people. However, nodes are abstract objects and can represent any entity.
-      Multiple classes of nodes are common in many graphs.
+      In this example nodes represent people. However, in general **nodes are abstract objects and can represent any entity**.
+      Multiple classes of nodes commonly appear in one graph.
 
 
-      In prominent graphs nodes represent websites, devices, products, customers, messages, events, locations and the list goes on.
+      In prominent graphs nodes represent **websites, devices, products, customers, messages, events, locations and the list goes on**.
 
 
     js     : vertices_intro
@@ -71,17 +72,20 @@ tabItem   :
     heading   : Edges are abstract relations
     content   : >
 
-      The edge set is highlighted in red. Additional information is embedded in this graph drawing:
-      The thickness of an edge reflects the number of mails exchanged between the two nodes it connects.
+      Here **the edge set is highlighted in red**. Additional information is embedded in this graph drawing:
+      The **thickness of an edge reflects the number of mails exchanged between the two nodes it connects**.
       If you hover over individual edges the number of mails is given.
 
 
-      In this example edges represent email exchange. However, edges are abstract objects and can represent any relation.
-      Multiple classes of edges are common in many graphs.
-      Edges may also express a directed relation.
+      In this example edges represent email exchange. However, **in general edges are abstract objects and can represent any type of relation**.
+      Multiple classes of edges are commonly present in one and the same graphs.
 
 
-      In prominent graphs edges represent weblinks, connections, buying decisions, selling decisions, subscriptions, time-ordering, streets and the list goes on.
+      Edges may also express a **directed relation**, e.g. Merlin sends 3 mails to Alston.
+      In this example, note that we only talk about mutally exchanged emails ignoring the direction, thus drawing **undirected edges** suffices.
+
+
+      In prominent graphs edges represent **weblinks, connections, buying decisions, selling decisions, subscriptions, time-ordering, streets and the list goes on**.
 
 
     js     : edges_intro
