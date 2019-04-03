@@ -25,3 +25,13 @@ item    :
     clientThumb : images/client-logo/dschulz.jpg
     clientName  : "[Daniel Schulz, M.A.](https://www.linkedin.com/in/daniel-schulz-452790163/)"
     clientDesignation: Senior Associate Consultant, KPMG Deutschland
+  - quote       : >
+      It is a good idea to have Michael on your team. And it is a better idea to have him on your team in the early stages of your project. The questions he asked did help me understand the problems I wanted to solve. In a sense, Michael brings some very valuable Anti-Scrum to projects. He wants to find the definition of a problem, and then a good solution. While working on a project involving Graphs, and an ETL-pipeline for GIS data, I have learned A LOT, both conceptual and technical. I still use the lessons learned today on other projects. My employer should definitely be happy about the added value that Michael planted in our company, and I am, too, because working with him has been motivating and fun.
+    clientThumb : images/client-logo/achrist.jpg
+    clientName  : "Dr. Andreas Christ"
+    clientDesignation: Senior Data Scientist, Lighthouse KPMG Deutschland
+  - quote       : >
+      I had the great pleasure of working with Michael on an innovative project in the insurance domain. We were looking into an opportunity to help life insurers accelerate modernization of their IT platforms using statistical algorithms in the data migration processes. Michael did a great job structuring the problem and nailing down the key success factors for our ideas to work. We are currently testing the solution with a couple of major players in Germany. To whomever this concerns – go and grab what Michaels has to offer: creativity, commitment and great teaming. My big recommendation!
+    clientThumb : images/client-logo/bmaciaga.jpg
+    clientName  : "Mag. Bartek Maciaga"
+    clientDesignation: Consulting Partner, KPMG Deutschland
