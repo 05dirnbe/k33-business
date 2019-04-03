@@ -252,3 +252,7 @@ DefaultContentLanguage = "de"
         name    = "legal"
         url     = "legal"
         weight  = 4
+    [[menu.quicklink]]
+        name    = "terms"
+        url = "terms"
+        weight  = 5

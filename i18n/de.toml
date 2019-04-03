@@ -30,3 +30,5 @@ other = "FAQs"
 other = "Datenschutz"
 [legal]
 other = "Impressum"
+[terms]
+other = "AGB"

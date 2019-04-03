@@ -1,0 +1,38 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+    {{ if $data.terms.enable }}
+    {{ "<!-- Start Privacy Section -->" | safeHTML }}
+    <section class="section" id="privacy">
+        <div class="container-fluid">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with $data.terms.topTitle }}
+                            <h4>{{ . }}</h4>
+                        {{ end }}
+                        {{ with $data.terms.title }}
+                            <h2>{{ . }}</h2>
+                            <span class="border"></span>
+                        {{ end }}
+                        {{ with $data.terms.subtitle }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-10">
+                  <div class="section-xs">
+                    Version 2019: <a href="/files/terms/en/agb.pdf">Download</a>
+                  </div>
+                </div>
+
+            </div>
+
+        </div>
+        <!-- end row -->
+    </section>
+    {{ "<!-- End section -->" | safeHTML }}
+
+{{ end }}
