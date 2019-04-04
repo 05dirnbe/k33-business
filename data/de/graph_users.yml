@@ -1,5 +1,5 @@
 enable    : true
-topTitle   : Wer sollte Graphen nutzen?
+topTitle   : Wem nützen Graphen?
 title     : Denken Sie über Graphen nach wenn ...
 subtitle  :
 enable  : true
@@ -17,13 +17,13 @@ item    :
   - positionRight : false
     image :
     js: soccer_graph
-    title : ... Sie Code schreiben um strukturierten Daten jeglicher Art zu analysieren!
+    title : ... Sie Code schreiben, um strukturierten Daten jeglicher Art zu analysieren!
     description : >
 
-      Komplexe Daten als Graphen darzustellen ermöffnet neue Analyse und Visualisierungs Möglichkeiten.
-      Das erkunden von Daten die als Graph vorliegen ist intuitiv und macht schlich Spaß.
+      Komplexe Daten als Graphen darzustellen eröffnet neue Analyse- und Visualisierungsmöglichkeiten.
+      Das Erkunden von Daten, die als Graph vorliegen, ist intuitiv und macht Spaß.
 
-      Versuchen Sie es selbst und zoomen Sie in den kompliziert wirkenden Graphen der neben diesem Abschnitt abgebildet ist. Worum geht es in diesem Datensatz?
+      Versuchen Sie es selbst und zoomen Sie in den anfänglich kompliziert wirkenden Graphen, der neben diesem Abschnitt abgebildet ist. Worum geht es in diesem Datensatz?
 
   - positionRight : true
     image : images/graph_users/cotton-network-color.jpg
@@ -31,6 +31,6 @@ item    :
     title : ... wenn Sie keinen Code schreiben, strukturierte Daten aber trotzdem für Ihren Erfolg wichtig sind!
     description : >
 
-      Ihr Geschäft nützt stukturierte Daten und versucht aus diesen das Maximum an Nutzen herauszuholen.
+      Ihr Geschäft nützt strukturierte Daten und versucht aus diesen das Maximum an Nutzen herauszuholen.
       Verschiedene Herausforderungen im Umgang mit komplexen Daten erfordern effektives Datenmanagement.
-      Das Denken in Graphen und die Nutzung verschiedener Graph Konzepte bieten in dieser Hinsicht zusätzliche Werkzeuge um mit Komplexität richtig umzugehen.
+      Das Denken in Graphen und die Nutzung verschiedener Graph Konzepte bieten in dieser Hinsicht zusätzliche Werkzeuge, um mit Komplexität richtig umzugehen.

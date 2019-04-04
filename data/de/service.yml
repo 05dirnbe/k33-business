@@ -1,7 +1,7 @@
 enable    : true
 topTitle  : "Was wir für Sie tun:"
 title     : Unsere Leistungen.
-subtitle  : Über die Blickwinkel von Data Scientists, Data Engineers and Software Engineers bringen wir unser Wissen und Erfahrung im Bereich der Graphen bei Ihnen ein.
+subtitle  : Über die Blickwinkel von Data Scientists, Data Engineers und Software Engineers bringen wir unser Wissen und Erfahrung im Bereich der Graphen bei Ihnen ein.
 item      :
   - icon  : tf-ion-ios-search
     title : Erstberatung
@@ -9,7 +9,7 @@ item      :
     btnURL      : service/#checkup
     list  :
       - name : Kostenlos
-      - name : Profesionelle Bewertung Ihrer Situation
+      - name : Professionelle Bewertung Ihrer Situation
       - name : Empfehlung für weiteres Vorgehen
       - name : Überzeugen Sie sich von uns
       - name : ...
@@ -19,7 +19,7 @@ item      :
     btnText     : Mehr erfahren
     btnURL      : service/#keynote
     list  :
-      - name : Graph-Technologien kennen lernen
+      - name : Graph-Technologien kennenlernen
       - name : Bedarf und Nutzung von Graphen verstehen
       - name : Auswirkungen abschätzen
       - name : ...
@@ -44,5 +44,5 @@ item      :
       - name : Effektiver Einstieg ins Arbeiten mit Graphen
       - name : Realistische Case-Studies
       - name : Selbstständiges Arbeiten mit Graphen ermöglichen
-      - name : Anwendung von Best Practise
+      - name : Anwendung von Best-Practise
       - name : ...

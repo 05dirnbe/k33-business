@@ -3,7 +3,7 @@ item  :
   - icon  : tf-ion-ios-flask-outline
     title : Graphen sind flexible Werkzeuge
     description : >
-      Daten sind am Nützlichsten, wenn sie Struktur enthalten. Graphen sind ideal um komplexe, strukutrierte Daten zu nützen.
+      Daten sind am nützlichsten, wenn sie Struktur enthalten. Graphen sind ideal um komplexe, strukturierte Daten zu nützen.
 
   - icon  :  tf-ion-ios-lightbulb-outline
     title : Graphen sind simpel und intuitiv
@@ -13,4 +13,4 @@ item  :
   - icon  : tf-ion-ios-speedometer-outline
     title : Graph-Technologien sind angekommen
     description : >
-      Ob eine einfache Graphen-Bibliothek oder eine ganze distribuierte Graphen-Datenbank benötigt wird, diese Werkzeuge sind gekommen um zu bleiben.
+      Ob eine einfache Graphen-Bibliothek oder eine ganze distribuierte Graphen-Datenbank benötigt wird, diese Werkzeuge sind gekommen, um zu bleiben.
