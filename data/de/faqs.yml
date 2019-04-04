@@ -1,13 +1,23 @@
 enable: true
-topTitle: Questions
-title: GERMAN Frequently Asked Questions
-subtitle: Here you will find all the answers to questions that our customers usually ask us.
+topTitle:
+title: Häufig gestellte Fragen
+subtitle: Fragen die uns regelmäßig gestellt werden. Falls Sie Ihre Frage hier nicht finden, kontaktieren Sie uns einfach.
 
 
 content :
 
   - categ:
-    - title: General
+    - title: Generell
       item:
-        - question: What is this all about?
-          answer: Trying to get something useful out there and make a living as a sidenote.
+        - question: Wo kann ich mich über Graphen informieren?
+          answer: >
+            Wir empfehlen **ausschließlich** unsere eigenen Onlinekurse zum Thema.
+
+
+            Nein, das ist natürlich Blödsinn.
+            Unsere Kurse sind zwar toll, aber sicher nicht die einzige Quelle für brauchbare Informationen zum Thema Graphen.
+            [Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms) beispielsweise bietet einen kompakten Überblick über die wichtigsten Begriffe. Vertiefende Informationen findet man typischerweise in englischer Sprache in diversen Vorlesungsskripten online.
+            Diese sind meistens Teil von Mathematik und/oder Informatik Curricula und daher für Laien erfahrungsgemäß etwas schwerer zu erschließen.
+        - question: Warum gibt es hier so wenige Fragen?
+          answer: >
+            Geben Sie uns etwas Zeit, wir arbeiten dran. Zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.

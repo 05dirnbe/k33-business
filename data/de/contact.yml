@@ -1,0 +1,11 @@
+
+name : Name
+email : Email
+subject : Betreff
+message : Nachricht
+submit : Senden
+success_msg: Danke für Ihre Nachricht. Die Post ist unterwegs :).
+error_msg: Ein Fehler ist aufgetreten. Versuchen Sie es bitte später nochmal :(.
+location : Unsere Location
+call : Rufen Sie uns doch an
+social : Wir sind vernetzt

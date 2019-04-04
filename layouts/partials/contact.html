@@ -1,4 +1,6 @@
 {{ if .Site.Params.contact.enable }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
 {{ "<!-- Start Contact Us -->" | safeHTML }}
 <section class="contact-us section bg-gray" id="contact">
     <div class="container">
@@ -22,43 +24,47 @@
                 </div>
             </div>
             {{ "<!-- Contact Form -->" | safeHTML }}
+
+            {{ with $data.contact}}
             <div class="contact-form col-12 col-md-6 ">
+
                 <form id="contact-form" method="post" action="sendmail.php" role="form">
                     <div class="form-group">
-                        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+                        <input type="text" placeholder="{{.name}} " class="form-control" name="name" id="name">
                     </div>
 
                     <div class="form-group">
-                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+                        <input type="email" placeholder="{{.email}}" class="form-control" name="email" id="email">
                     </div>
 
                     <div class="form-group">
-                        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
+                        <input type="text" placeholder="{{.subject}}" class="form-control" name="subject" id="subject">
                     </div>
 
                     <div class="form-group">
-                        <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
+                        <textarea rows="6" placeholder="{{.message}}" class="form-control" name="message" id="message"></textarea>
                     </div>
 
                     <div id="mail-success" class="success">
-                        Thank you. The Mailman is on His Way :)
+                        {{.success_msg}}
                     </div>
 
                     <div id="mail-fail" class="error">
-                        Sorry, don't know what happened. Try later :(
+                        {{.error_msg}}
                     </div>
 
                     <div id="cf-submit">
-                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="Submit">
+                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="{{.submit}}">
                     </div>
                 </form>
+                {{ end }}
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-4">
                 <div class="address-block contact-meta-block">
                     <i class="tf-ion-android-pin"></i>
-                    <h4>Our Location</h4>
+                    <h4>{{ with $data.contact}} {{.location}} {{ end }}</h4>
                     <p>
                       {{ with .Site.Params.contact.street }}{{ . | safeHTML }}{{ end }}<br>
                       {{ with .Site.Params.contact.town }}{{ . | safeHTML }}{{ end }}<br>
@@ -69,7 +75,7 @@
             <div class="col-12 col-md-4">
                 <div class="phone-block contact-meta-block">
                     <i class="tf-ion-ios-telephone"></i>
-                    <h4>Call Us</h4>
+                    <h4>  {{ with $data.contact}} {{.call}} {{ end }}  </h4>
                     <p>
                          {{ with .Site.Params.contact.phone }}Office: {{.}} {{ end }}
                         <br> {{ with .Site.Params.contact.fax }} Fax: {{ . }} {{ end }}
@@ -79,7 +85,7 @@
             <div class="col-12 col-md-4">
                 <div class="social-icons-block contact-meta-block">
                     <i class="tf-ion-ios-contact"></i>
-                    <h4>We are social</h4>
+                    <h4>{{ with $data.contact}} {{.social}} {{ end }}</h4>
                     <ul class="list-inline social-icon">
                         {{ with .Site.Params.contact.facebook }}
                         <li class="list-inline-item">
@@ -122,4 +128,5 @@
         </div>
     </div>
 </section>
+
 {{ end }}

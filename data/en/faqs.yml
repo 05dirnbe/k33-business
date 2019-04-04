@@ -1,7 +1,7 @@
 enable: true
-topTitle: Questions
-title: ENGLISH Frequently Asked Questions
-subtitle: Here you will find all the answers to questions that our customers usually ask us.
+topTitle:
+title: Frequently asked questions
+subtitle: Questions we face regularily. If you don't find the answers you seek here, simply contact us.
 
 
 content :
@@ -9,5 +9,16 @@ content :
   - categ:
     - title: General
       item:
-        - question: What is this all about?
-          answer: Trying to get something useful out there and make a living as a sidenote.
+        - question: Where can I learn about graphs?
+          answer: >
+            We **exclusively** recommend our own online courses on the topic.
+
+
+            No, just kidding, that'd be nonsense.
+            Our courses are great, however they are not the only source of proper information on the topic of graphs.
+            [Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms) for instance offers a compact overview of the most important facts.
+            Information that is more detailed can often be found in free lecture notes that are part of either Maths or Computer Science courses. From experience we know that these are more difficult to digest for laypersons.
+
+        - question: Why are here so few questions?
+          answer: >
+            Please give us some time, we are working it out. In the meantime do not hesitate to contact us with your questions.

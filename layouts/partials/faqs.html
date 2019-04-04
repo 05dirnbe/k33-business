@@ -35,8 +35,8 @@
                     <div class="col-12 col-md-7">
                         {{ range .item }}
                             <div class="block contact-section">
-                                {{ with .question }}<h3>{{.}}</h3>{{ end }}
-                                {{ with .answer }}<p>{{ . }}</p>{{ end }}
+                                {{ with .question }}<h3>{{. | markdownify}}</h3>{{ end }}
+                                {{ with .answer }}<p>{{ . | markdownify }}</p>{{ end }}
                             </div>
                         {{ end }}
                     </div>

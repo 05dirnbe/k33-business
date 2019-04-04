@@ -1,0 +1,11 @@
+
+name : Name
+email : Email
+subject : Subject
+message : Message
+submit : Submit
+success_msg: Thank you. The Mailman is on His Way :)
+error_msg: Sorry, don't know what happened. Try later :(
+location : Our Location
+call : Call Us
+social : Connect with us
