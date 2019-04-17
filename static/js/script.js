@@ -255,7 +255,7 @@ function initialize() {
         backgroundColor:"#000",
 
         // REMOVE ALL THE CONTROLS EXCEPT ZOOM
-        zoom:10,
+        zoom:13,
         panControl:false,
         zoomControl:true,
         mapTypeControl:false,
