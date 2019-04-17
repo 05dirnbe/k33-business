@@ -28,7 +28,7 @@
             {{ with $data.contact}}
             <div class="contact-form col-12 col-md-6 ">
 
-                <form id="contact-form" method="post" action="sendmail.php" role="form">
+                <form id="contact-form" method="post" action="sendmail.php" role="form" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
                     <div class="form-group">
                         <input type="text" placeholder="{{.name}} " class="form-control" name="name" id="name">
                     </div>
@@ -45,6 +45,8 @@
                         <textarea rows="6" placeholder="{{.message}}" class="form-control" name="message" id="message"></textarea>
                     </div>
 
+                    <div class="form-group" data-netlify-recaptcha="true"></div>
+
                     <div id="mail-success" class="success">
                         {{.success_msg}}
                     </div>
@@ -56,6 +58,10 @@
                     <div id="cf-submit">
                         <input type="submit" id="contact-submit" class="btn btn-transparent" value="{{.submit}}">
                     </div>
+
+                    <p class="hidden">
+                      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                    </p>
                 </form>
                 {{ end }}
             </div>
