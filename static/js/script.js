@@ -144,9 +144,7 @@
 		var email = $('#email').val();
 		var subject = $('#subject').val();
 		var message = $('#message').val();
-    var isCaptchaChecked = (grecaptcha && grecaptcha.getResponse().length !== 0);
-
-    alert("captcha " = isCaptchaChecked);
+  
 
 		/* in the next section we do the checking by using VARIABLE.length
 		where VARIABLE is the variable we are checking (like name, email),
@@ -183,11 +181,17 @@
 		} else {
 			$('#message').css("border-color", "#666");
 		}
-    if (isCaptchaChecked == true) {
-      $('#captcha').css("border-color", "#666");
-    } else {
-      var error = true;
-      $('#captcha').css("border-color", "#D8000C");
+    if(grecaptcha && grecaptcha.getResponse().length > 0)
+    {
+         //the recaptcha is checked
+         // Do what you want here
+         alert('Well, recaptcha is checked !');
+    }
+    else
+    {
+        //The recaptcha is not cheched
+        //You can display an error message here
+        alert('Oops, you have to check the recaptcha !');
     }
 
 		//now when the validation is done we check if the error variable is false (no errors)
