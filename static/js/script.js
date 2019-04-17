@@ -144,7 +144,7 @@
 		var email = $('#email').val();
 		var subject = $('#subject').val();
 		var message = $('#message').val();
-  
+
 
 		/* in the next section we do the checking by using VARIABLE.length
 		where VARIABLE is the variable we are checking (like name, email),
@@ -210,10 +210,10 @@
        var onError = function (data, status, headers, config) {
            alert('Error' + status);
        };
-
-       $.post("sendmail.php", $("#contact-form").serialize())
-                   .success(onSuccess)
-                   .error(onError);
+       //
+       // $.post("sendmail.php", $("#contact-form").serialize())
+       //             .success(onSuccess)
+       //             .error(onError);
 
 
 
