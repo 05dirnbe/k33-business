@@ -181,23 +181,18 @@
 		} else {
 			$('#message').css("border-color", "#666");
 		}
-    if(grecaptcha && grecaptcha.getResponse().length > 0)
-    {
-         // //the recaptcha is checked
-         // // Do what you want here
-         // alert('Well, recaptcha is checked !');
-
-         	$('#captcha').css("border-color", "#666");
-    }
-    else
-    {
-        // //The recaptcha is not cheched
-        // //You can display an error message here
-        // alert('Oops, you have to check the recaptcha !');
-
-        var error = true;
-  			$('#captcha').css("border-color", "#D8000C");
-    }
+    // if(grecaptcha && grecaptcha.getResponse().length > 0)
+    // {
+    //      // //the recaptcha is checked
+    //      // // Do what you want here
+    // }
+    // else
+    // {
+    //     // //The recaptcha is not cheched
+    //     // //You can display an error message here
+    //     alert('Oops, you have to check the recaptcha !');
+    //     var error = true;
+    // }
 
 		//now when the validation is done we check if the error variable is false (no errors)
 		if (error == false) {
@@ -210,15 +205,23 @@
 
       var onSuccess = function (data, status, headers, config) {
                    alert('Success' + status);
+                    // if the mail is sent remove the submit paragraph
+                 		$('#cf-submit').remove();
+                 		//and show the mail success div with fadeIn
+                 		$('#mail-success').fadeIn(500);
       };
 
        var onError = function (data, status, headers, config) {
            alert('Error' + status);
+           		//show the mail failed div
+           		$('#mail-fail').fadeIn(500);
+           		//re enable the submit button by removing attribute disabled and change the text back to Send The Message
+           		$('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
        };
        //
-       // $.post("sendmail.php", $("#contact-form").serialize())
-       //             .success(onSuccess)
-       //             .error(onError);
+       $.post("sendmail.php", $("#contact-form").serialize())
+                   .success(onSuccess)
+                   .error(onError);
 
 
 
