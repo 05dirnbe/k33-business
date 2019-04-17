@@ -181,7 +181,7 @@
 		} else {
 			$('#message').css("border-color", "#666");
 		}
-    if (isCaptchaChecked) {
+    if (isCaptchaChecked == true) {
       $('#captcha').css("border-color", "#666");
     } else {
       var error = true;
