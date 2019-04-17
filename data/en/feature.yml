@@ -3,13 +3,13 @@ item  :
   - icon  : tf-ion-ios-flask-outline
     title : Graphs are flexible data-tools
     description : >
-      Data is most useful if it has meanigful structure. Graphs are ideal to represent and utilize complex structured data.
+      Data is most useful if it has meaningful structure. Graphs are ideal to represent and utilize complex structured data.
 
 
   - icon  :  tf-ion-ios-lightbulb-outline
     title : Graphs are clean and intuitive
     description : >
-      Representig complex data as a graph makes data easier to understand. Often a drawing of a graph is worth a thousand words.
+      Representing complex data as a graph makes data easier to understand. Often a drawing of a graph is worth a thousand words.
 
 
   - icon  : tf-ion-ios-speedometer-outline

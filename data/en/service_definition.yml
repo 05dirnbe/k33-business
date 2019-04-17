@@ -10,17 +10,17 @@ item  :
     title     : What can we do for you?
     description: >
 
-      In a casual call we introduce ourselves personally and answer your questions. The aim is to get to know each other and to get a first impression of your individal situation.
+      In a casual call we introduce ourselves personally and answer your questions. The aim is to get to know each other and to get a first impression of your individual situation.
 
 
       Together we determine what a collaboration with k33 could look like and which of our services is best suited for your purpose.
-      Needless to say, if utilizing Graphs doesn't appear to be promising, we will advice against it. This is true in particular, if we feel that a different technoloy is going to be a better choice for you.
+      Needless to say, if utilizing Graphs doesn't appear to be promising, we will advise against it. This is true in particular, if we feel that a different technology is going to be a better choice for you.
 
 
-      Thus we recommend you use the possibility to talk to us to get your questions answered. We are looking forward to it.
+      Thus, we recommend you use the possibility to talk to us to get your questions answered. We are looking forward to it.
 
 
-      As experts your trust is our livelyhood. From day one, we support you to the best of our knowledge and belief.
+      As experts, your trust is our livelihood. From day one, we support you to the best of our knowledge and belief.
 
     image       : images/service/strategy.jpg
     servicelist :
@@ -57,12 +57,12 @@ item  :
     title     : Why are graphs interesting?
     description: >
 
-      Graphs and technologies based on graphs allow us to work with arbitrary connected information in a structured and effecient manner.
+      Graphs and technologies based on graphs allow us to work with arbitrary connected information in a structured and efficient manner.
       Due to their high level of abstraction, graphs can be used across a spectrum of different situations in a variety of different way.
-      As a result graphs can be useful to almost everyone.
+      As a result, graphs can be useful to almost everyone.
 
 
-      In our keynotes we intorduce the concept of graphs and demonstrate their advantages using practical applications
+      In our keynotes we introduce the concept of graphs and demonstrate their advantages using practical applications
 
 
       After our talks we'd like to hear our audience say something along the lines of:
@@ -117,11 +117,11 @@ item  :
     title     : Graphs are a key technology
     description: >
 
-      You intent to conduct a professional and detailed assessment of whether or not the usage of graphs in your domain is possible and profitable?
+      You intend to conduct a professional and detailed assessment of whether the usage of graphs in your domain is possible and profitable?
       You have a problem you suspect to be solvable through the use of graphs and you would like to have an expert's opinion available from the start?
 
 
-      If you anser these or similar questions with yes, then k33 is the right partner for you.
+      If you answer these or similar questions with yes, then k33 is the right partner for you.
       With our consultations we support you and your team when it comes to the correct, efficient and effective use of graphs and graph based technologies.
       Needless to say, we bring our complementary knowledge in data science, data engineering and software engineering to bear in order to help you get your problem solved.
 
@@ -141,17 +141,17 @@ item  :
       - icon  : tf-ion-ios-flame-outline
         title : Benefits
         list  :
-          - name : Independet view on the situation
+          - name : Independent view on the situation
           - name : Access to expert knowledge
           - name : Access to best-practice
           - name : Development of solution options
-          - name : Estimation of required ressources
+          - name : Estimation of required resources
           - name : Determination of knowledge gaps
 
       - icon  : tf-ion-ios-speedometer-outline
         title : Advantages
         list  :
-          - name : Prompt development of flexible soluiton concepts based on graphs
+          - name : Prompt development of flexible solution concepts based on graphs
           - name : Reduced costs of implementing graph solutions
           - name : Prevention of costly mistakes
 
@@ -164,10 +164,10 @@ item  :
     title     : Working with graphs
     description: >
 
-      Practical working with graphs typically involves the use of one or more programming languages. Through dedicated graph libraries or graph databases applications can be build which showcase the strenghts of graphs.
+      Practical working with graphs typically involves the use of one or more programming languages. Through dedicated graph libraries or graph databases applications can be build which showcase the strengths of graphs.
 
 
-      We support you and your team in building the required skills allowing effecient and effective working with graphs.
+      We support you and your team in building the required skills allowing efficient and effective working with graphs.
 
 
       Key topics for courses and workshops include:
@@ -176,7 +176,7 @@ item  :
     servicelist :
       - item: Basics and concepts
       - item: Introduction to graph algorithms
-      - item: Graphs in python und C++
+      - item: Graphs in python and C++
       - item: Graph databases
       - item: Complementary topics
       - item: Best practice
@@ -204,6 +204,6 @@ item  :
         title : Advantages
         list  :
           - name : Quick and effective start to working with graphs
-          - name : Promote independet working with graphs
+          - name : Promote independent working with graphs
           - name : Prevent costly mistakes
           - name : Reduced cost through best practice

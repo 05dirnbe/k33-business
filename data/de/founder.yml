@@ -5,7 +5,7 @@ subtitle  :
 
 item    :
   - positionRight : false
-    image : images/about/about-1.jpg
+    image : images/about/founder_1.jpg
     title :
     description : >
 
@@ -25,13 +25,14 @@ item    :
       Im Zuge meiner interdisziplinären Promotion konnte ich mich intensiv mit den **theoretischen und praktischen Aspekten von Graphen** beschäftigen und diese in **Forschung und Lehre gleichermaßen erfolgreich** zur Anwendung bringen.
 
 
+      Fünf Jahre später habe ich mein Wissen und meine Fähigkeiten
+      rund um das Thema Graphen kurzerhand von der akademischen in die industrielle Anwendung transferiert.
+
+
   - positionRight : true
-    image : images/about/about-2.jpg
+    image : images/about/graph.png
     title :
     description : >
-
-            Fünf Jahre später habe ich mein Wissen und meine Fähigkeiten
-            rund um das Thema Graphen kurzerhand von der akademischen in die industrielle Anwendung transferiert.
 
 
             Zuerst war ich als Senior Data Scientist beim [Data Science](https://de.wikipedia.org/wiki/Data_Science) Spezialisten [Kiana Systems](http://www.kiana-systems.com/) und später in der [Advanced Analytics Abteilung](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse/advanced-analytics.html) vom [KPMG Lighthouse Deutschland](https://home.kpmg.com/de/de/home/dienstleistungen/advisory/consulting/data-analytics-kpmg-lighthouse.html) erfolgreich tätig.

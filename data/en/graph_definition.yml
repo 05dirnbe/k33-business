@@ -9,7 +9,7 @@ subtitle  : >
 
   Once an application or a problem is transformed to the graph model, **powerful concepts, algorithms and analysis techniques** from [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) and [Network Science](https://en.wikipedia.org/wiki/Network_science) immediately apply.
   For this reason and their wide applicability, **graphs and technologies based on graphs have become key elements of many important applications** today.
-  Some well known applications include advertising in social networks, transportation networks or data management applications.
+  Some well-known applications include advertising in social networks, transportation networks or data management applications.
 
 
   The following example shows how interpreting data as a graph can help us **make better sense of structured data**.
@@ -37,7 +37,7 @@ tabItem   :
 
 
       **Due to the graph representation interesting information is directly available:**
-      The best connected communicator in the graph is Alston with 5 neighbours.
+      The best connected communicator in the graph is Alston with 5 neighbors.
       Coley and Langdon stick to themselves while Algie has no contacts at all.
 
 
@@ -54,8 +54,8 @@ tabItem   :
 
 
       Here the **node set is highlighted in red**. Additional information is embedded in this graph drawing:
-      The **size of a node reflects the total number of mails exchanged** with its direct neighbours.
-      If you hover over individual nodes the total number of mails is given.
+      The **size of a node reflects the total number of mails exchanged** with its direct neighbors.
+      If you hover over individual nodes, the total number of mails is given.
 
 
       In this example nodes represent people. However, in general **nodes are abstract objects and can represent any entity**.
@@ -74,15 +74,15 @@ tabItem   :
 
       Here **the edge set is highlighted in red**. Additional information is embedded in this graph drawing:
       The **thickness of an edge reflects the number of mails exchanged between the two nodes it connects**.
-      If you hover over individual edges the number of mails is given.
+      If you hover over individual edges, the number of mails is given.
 
 
       In this example edges represent email exchange. However, **in general edges are abstract objects and can represent any type of relation**.
-      Multiple classes of edges are commonly present in one and the same graphs.
+      Multiple classes of edges are commonly present in the same graphs.
 
 
       Edges may also express a **directed relation**, e.g. Merlin sends 3 mails to Alston.
-      In this example, note that we only talk about mutally exchanged emails ignoring the direction, thus drawing **undirected edges** suffices.
+      In this example, note that we only talk about mutually exchanged emails ignoring the direction, thus drawing **undirected edges** suffices.
 
 
       In prominent graphs edges represent **weblinks, connections, buying decisions, selling decisions, subscriptions, time-ordering, streets and the list goes on**.

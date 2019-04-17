@@ -33,8 +33,8 @@ DefaultContentLanguage = "de"
     home = "EN Home"
     logo = "images/logo.png"
     menufixed = false
-
-    footerDescription = "As experts on graphs and technologies based on graphs k33 offers knowledge and experience through various services."
+    
+    footerDescription = "k33 Experts offers its knowledge and experience on the topic of graphs as services."
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
@@ -90,8 +90,8 @@ DefaultContentLanguage = "de"
         linkedin= "https://www.linkedin.com/in/michael-dirnberger-0ba1b0171/"
         dribbble= ""
         instagram= ""
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
+        mapLatitude = "47.074281"
+        mapLongitude= "15.427680"
         mapMarker   = "images/marker.png"
 
     # Call to Action Section on About Page
@@ -99,7 +99,7 @@ DefaultContentLanguage = "de"
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "k33 Experts - Your Guide To Graphs"
-        subtitle= "Get to know us and find out what we can do for you in a free strategy session. We are looking forward to hear from you."
+        subtitle= "Get to know us and find out what we can do for you in a free strategy session. We are looking forward to hearing from you."
         btnText = "Contact Us"
 
     ############ 3 - Site in German
