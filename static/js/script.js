@@ -146,6 +146,8 @@
 		var message = $('#message').val();
     var isCaptchaChecked = (grecaptcha && grecaptcha.getResponse().length !== 0);
 
+    alert("captcha " = isCaptchaChecked);
+
 		/* in the next section we do the checking by using VARIABLE.length
 		where VARIABLE is the variable we are checking (like name, email),
 		length is a JavaScript function to get the number of characters.
