@@ -132,7 +132,6 @@
 	/*   Contact Form Validating
 	/* ========================================================================= */
 
-
 	$('#contact-submit').click(function (e) {
 
 		//stop the form from being submitted
@@ -145,6 +144,7 @@
 		var email = $('#email').val();
 		var subject = $('#subject').val();
 		var message = $('#message').val();
+    var isCaptchaChecked = (grecaptcha && grecaptcha.getResponse().length !== 0);
 
 		/* in the next section we do the checking by using VARIABLE.length
 		where VARIABLE is the variable we are checking (like name, email),
@@ -181,6 +181,12 @@
 		} else {
 			$('#message').css("border-color", "#666");
 		}
+    if (isCaptchaChecked) {
+      $('#captcha').css("border-color", "#666");
+    } else {
+      var error = true;
+      $('#captcha').css("border-color", "#D8000C");
+    }
 
 		//now when the validation is done we check if the error variable is false (no errors)
 		if (error == false) {
