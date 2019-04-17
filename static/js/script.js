@@ -181,18 +181,18 @@
 		} else {
 			$('#message').css("border-color", "#666");
 		}
-    // if(grecaptcha && grecaptcha.getResponse().length > 0)
-    // {
-    //      // //the recaptcha is checked
-    //      // // Do what you want here
-    // }
-    // else
-    // {
-    //     // //The recaptcha is not cheched
-    //     // //You can display an error message here
-    //     alert('Oops, you have to check the recaptcha !');
-    //     var error = true;
-    // }
+    if(grecaptcha && grecaptcha.getResponse().length > 0)
+    {
+         // //the recaptcha is checked
+         // // Do what you want here
+    }
+    else
+    {
+        // //The recaptcha is not cheched
+        // //You can display an error message here
+        alert('Oops, you have to check the recaptcha!');
+        var error = true;
+    }
 
 		//now when the validation is done we check if the error variable is false (no errors)
 		if (error == false) {
@@ -204,7 +204,7 @@
 			});
 
       var onSuccess = function (data, status, headers, config) {
-                   alert('Success' + status);
+                   // alert('Success' + status);
                     // if the mail is sent remove the submit paragraph
                  		$('#cf-submit').remove();
                  		//and show the mail success div with fadeIn
@@ -212,7 +212,7 @@
       };
 
        var onError = function (data, status, headers, config) {
-           alert('Error' + status);
+           // alert('Error' + status);
            		//show the mail failed div
            		$('#mail-fail').fadeIn(500);
            		//re enable the submit button by removing attribute disabled and change the text back to Send The Message
@@ -222,28 +222,6 @@
        $.post("sendmail.php", $("#contact-form").serialize())
                    .success(onSuccess)
                    .error(onError);
-
-
-
-
-  			// /* using the jquery's post(ajax) function and a lifesaver
-  			// function serialize() which gets all the data from the form
-  			// we submit it to send_email.php */
-  			// $.post("sendmail.php", $("#contact-form").serialize(), function (result) {
-  			// 	//and after the ajax request ends we check the text returned
-        //   // alert("result " + result);
-        //   if (result != 'FALSE') {
-  			// 		//if the mail is sent remove the submit paragraph
-  			// 		$('#cf-submit').remove();
-  			// 		//and show the mail success div with fadeIn
-  			// 		$('#mail-success').fadeIn(500);
-  			// 	} else {
-  			// 		//show the mail failed div
-  			// 		$('#mail-fail').fadeIn(500);
-  			// 		//re enable the submit button by removing attribute disabled and change the text back to Send The Message
-  			// 		$('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
-  			// 	}
-			  // });
 		}
 	});
 
@@ -277,7 +255,7 @@ function initialize() {
         backgroundColor:"#000",
 
         // REMOVE ALL THE CONTROLS EXCEPT ZOOM
-        zoom:17,
+        zoom:10,
         panControl:false,
         zoomControl:true,
         mapTypeControl:false,
