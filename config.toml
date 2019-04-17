@@ -1,4 +1,4 @@
-baseURL = "http://k-33.at/"
+baseURL = "https://k-33.at/"
 languageCode = "en-us"
 title = "k33 Experts | IT services with a focus on graphs"
 theme = "navigator-hugo"
@@ -33,7 +33,7 @@ DefaultContentLanguage = "de"
     home = "EN Home"
     logo = "images/logo.png"
     menufixed = false
-    
+
     footerDescription = "k33 Experts offers its knowledge and experience on the topic of graphs as services."
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
@@ -205,7 +205,7 @@ DefaultContentLanguage = "de"
     #     weight  = 4
     [[menu.nav]]
         name    = "blog"
-        url     = "http://localhost:1313/en/blog/"
+        url     = "https://localhost:1313/en/blog/"
         weight  = 6
     [[menu.nav]]
         name    = "academy"
