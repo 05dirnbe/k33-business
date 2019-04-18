@@ -38,9 +38,10 @@ DefaultContentLanguage = "de"
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
-    footerSubscribeTitle = "Newsletter"
+    footerSubscribeTitle = "Keep in touch"
     footerSubscribeBtnText = "Subscribe now"
     footerSubscribePlaceholderText = "Enter email"
+    footerSubscribeMailchimp = "http://eepurl.com/goqHb5"
 
 
     [Languages.en.cookies]
@@ -118,9 +119,10 @@ DefaultContentLanguage = "de"
     footerServiceTitle = "Leistungen"
     footerQuicklinkTitle = "Quick links"
     footerAboutTitle = "Über uns"
-    footerSubscribeTitle = "Newsletter"
+    footerSubscribeTitle = "Mailingliste"
     footerSubscribeBtnText = "Jetzt anmelden"
     footerSubscribePlaceholderText = "Email"
+    footerSubscribeMailchimp = "http://eepurl.com/goqHb5"
 
     [Languages.de.cookies]
     dismiss = "Ich stimme zu."

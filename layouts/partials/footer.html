@@ -29,10 +29,13 @@
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3">
                     <h3>{{ .Site.Params.footerSubscribeTitle }}</h3>
-                    <form class="subscribe-form">
+                    <!-- <form class="subscribe-form">
                         <div class="form-group">
                             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{{ .Site.Params.footerSubscribePlaceholderText }}">
                         </div>
+                        <button type="submit" class="btn btn-main-sm">{{ .Site.Params.footerSubscribeBtnText }}</button>
+                    </form> -->
+                    <form class="subscribe-form" action={{ .Site.Params.footerSubscribeMailchimp }}>
                         <button type="submit" class="btn btn-main-sm">{{ .Site.Params.footerSubscribeBtnText }}</button>
                     </form>
                 </div>
