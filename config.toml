@@ -94,6 +94,7 @@ DefaultContentLanguage = "de"
         mapLatitude = "47.074281"
         mapLongitude= "15.427680"
         mapMarker   = "images/marker.png"
+        mapImage  = "images/map.png"
 
     # Call to Action Section on About Page
     [Languages.en.params.cta]
@@ -174,6 +175,7 @@ DefaultContentLanguage = "de"
         mapLatitude = "47.074281"
         mapLongitude= "15.427680"
         mapMarker   = "images/marker.png"
+        mapImage  = "images/map.png"
 
     # Call to Action Section on About Page
     [Languages.de.params.cta]
