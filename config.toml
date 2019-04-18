@@ -41,7 +41,7 @@ DefaultContentLanguage = "de"
     footerSubscribeTitle = "Keep in touch"
     footerSubscribeBtnText = "Subscribe now"
     footerSubscribePlaceholderText = "Enter email"
-    footerSubscribeMailchimp = "http://eepurl.com/goqHb5"
+    footerSubscribeMailchimp = "https://eepurl.com/goqHb5"
 
 
     [Languages.en.cookies]
@@ -122,7 +122,7 @@ DefaultContentLanguage = "de"
     footerSubscribeTitle = "Mailingliste"
     footerSubscribeBtnText = "Jetzt anmelden"
     footerSubscribePlaceholderText = "Email"
-    footerSubscribeMailchimp = "http://eepurl.com/goqHb5"
+    footerSubscribeMailchimp = "https://eepurl.com/goqHb5"
 
     [Languages.de.cookies]
     dismiss = "Ich stimme zu."
