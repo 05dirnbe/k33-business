@@ -35,9 +35,8 @@
                         </div>
                         <button type="submit" class="btn btn-main-sm">{{ .Site.Params.footerSubscribeBtnText }}</button>
                     </form> -->
-                    <form class="subscribe-form" action={{ .Site.Params.footerSubscribeMailchimp }}>
-                        <button type="submit" class="btn btn-main-sm">{{ .Site.Params.footerSubscribeBtnText }}</button>
-                    </form>
+                  
+                    <button onclick="window.location.href = {{ .Site.Params.footerSubscribeMailchimp }};">{{ .Site.Params.footerSubscribeBtnText }}</button>
                 </div>
             </div>
         </div>
