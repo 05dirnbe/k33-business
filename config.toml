@@ -1,4 +1,4 @@
-baseURL = "https://k33experts.netlify.com/"
+baseURL = "https://k33experts.com/"
 languageCode = "en-us"
 title = "k33 Experts | IT services with a focus on graphs"
 theme = "navigator-hugo"
