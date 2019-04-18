@@ -209,7 +209,7 @@ DefaultContentLanguage = "de"
         weight  = 6
     [[menu.nav]]
         name    = "academy"
-        url     = "https://academy.k33experts.com"
+        url     = "https://k33-academy.thinkific.com/courses"
         weight  = 5
     [[menu.nav]]
         name    = "contact"
