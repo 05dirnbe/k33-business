@@ -205,11 +205,11 @@ DefaultContentLanguage = "de"
     #     weight  = 4
     [[menu.nav]]
         name    = "blog"
-        url     = "https://localhost:1313/en/blog/"
+        url     = "https://blog.k33experts.com"
         weight  = 6
     [[menu.nav]]
         name    = "academy"
-        url     = "https://k-33-academy.thinkific.com/collections"
+        url     = "https://academy.k33experts.com"
         weight  = 5
     [[menu.nav]]
         name    = "contact"
