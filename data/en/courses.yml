@@ -16,7 +16,7 @@ item  :
       - item: Impact
 
     btnText     : Enroll
-    btnURL      : http://k-33-academy.thinkific.com/courses/introduction-to-graphs
+    btnURL      : http://k33-academy.thinkific.com/courses/introduction-to-graphs
 
   # - name        : Graphs in Python
   #   price       : Free
