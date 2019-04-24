@@ -2,11 +2,11 @@
 {{ with $data.founder }}
     {{ if .enable }}
     {{ "<!-- Founder Section Start -->" | safeHTML }}
-    <section class="about section-sm" id = "founder">
+    <section class="about-mission-vision section" id = "founder">
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <div class="title text-center">
+                    <div class="title">
                         {{ with .topTitle }}<h4>{{ . }}</h4>{{ end }}
                         {{ with .title }}
                         <h2>{{ . }}</h2>
@@ -17,11 +17,11 @@
                 </div>
             </div>
 
-
+            <div class="row">
                 {{ range .item }}
                     {{ if .positionRight }}
                         <div class="row mt-50 justify-content-center">
-                            <div class="col-md-5 col-md-5 col-sm-12 offset-md-1 vertical-align">
+                            <div class="col-md-5 col-md-5 col-sm-12 offset-md-1">
                                 <div class="content">
                                     <h2>{{ .title }}</h2>
                                     <p>
@@ -29,16 +29,16 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="col-12 col-md-5 col-sm-12 text-center vertical-align">
+                            <div class="col-12 col-md-5 col-sm-12 text-center">
                                 <img src="{{ .image | absURL }}" class="img-fluid rounded" alt="about-image" >
                             </div>
                         </div>
                     {{ else }}
                         <div class="row mb-50 justify-content-center">
-                            <div class="col-md-5 col-sm-12 text-center offset-md-1 vertical-align">
+                            <div class="col-md-5 col-sm-12 text-center offset-md-1">
                                 <img src="{{ .image | absURL }}" class="img-fluid rounded shadow" alt="about-image">
                             </div>
-                            <div class="col-md-5 col-sm-12 vertical-align">
+                            <div class="col-md-5 col-sm-12">
                                 <div class="content">
                                     <h2>{{ .title }}</h2>
                                     <p>
@@ -50,7 +50,7 @@
                     {{ end }}
                 {{ end }}
             </div>
-
+          </div>
     </section>
     {{ "<!-- Section End -->" | safeHTML }}
     {{ end }}
