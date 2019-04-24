@@ -34,7 +34,7 @@ DefaultContentLanguage = "de"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "k33 Experts offers its knowledge and experience on the topic of graphs as services."
+    footerDescription = "k33 Experts provides knowledge services regarding data analytics and software engineering using graphs."
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
@@ -116,7 +116,7 @@ DefaultContentLanguage = "de"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "k33 Experts bietet Wissen und Erfahrung rund um das Thema Graphen in Form von Dienstleistungen an."
+    footerDescription = "k33 Experts liefert Wissensdienstleistungen im Bereich Data Science und Software Engineering mit Fokus auf Graphen."
     footerServiceTitle = "Leistungen"
     footerQuicklinkTitle = "Quick links"
     footerAboutTitle = "Über uns"
