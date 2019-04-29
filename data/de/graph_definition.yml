@@ -11,11 +11,11 @@ subtitle  : >
   Sobald ein Problem oder eine Anwendung in Form eines Graphen vorliegt, lassen sich **nützliche Konzepte, Algorithmen und Analysetechniken** aus den
   Gebieten der [Graphentheorie](https://de.wikipedia.org/wiki/Graphentheorie) und [Netzwerkforschung](https://de.wikipedia.org/wiki/Netzwerkforschung) anwenden.
   Aus diesem Grund und ihrer weiten Anwendbarkeit sind Graphen und Technologien die auf Graphen basieren heute **Schlüsselelemente von viele wichtigen praktischen Anwendungen**.
-  Bekannte Anwendungen sind Beispielsweise das Schalten von Werbung in sozialen Netzwerken, Transportnetze oder Data Management Systeme.
+  Bekannte Anwendungen sind beispielsweise das Schalten von Werbung in sozialen Netzwerken, Transportnetze oder Data Management Systeme.
 
 
-  An einem Beispiel wollen wir verdeutlichen wie Graphen uns dabei Helfen **strukturierte Daten besser zu verstehen**.
-  Je besser unser Verständnis von komplexen Daten, desto leichte wird es Anwendungen zu realisieren, welche auf diesen Daten aufbauen.
+  An einem Beispiel wollen wir verdeutlichen wie Graphen uns dabei helfen **strukturierte Daten besser zu verstehen**.
+  Je besser unser Verständnis von komplexen Daten, desto leichter wird es Anwendungen zu realisieren, welche auf diesen Daten aufbauen.
   Wir konzentrieren uns auf ein einfaches **Kommunikationsnetz**, d.h. Personen die miteinander Emails austauschen.
   Es soll jedoch betont werden, dass **fast jede Anwendung als Graph aufgefasst werden kann**.
 
@@ -32,7 +32,7 @@ tabItem   :
       Daten die den **Austausch von Emails zwischen Personen** beschreiben, können direkt in Form des abgebildeten Graphen rechts aufgefasst werden.
 
 
-      Die **Menge der Knoten** besteht aus 10 einzigartige Personen.
+      Die **Menge der Knoten** besteht aus 10 einzigartigen Personen.
       Für jedes Knotenpaar, welches Emails austauscht, gibt es eine Kante zwischen den beteiligten Knoten.
       Die Summe dieser Kanten ergibt die **Menge der Kanten**.
       **Knoten und Kanten zusammen formen den Graphen**, in diesem Fall ein Kommunikationsnetz.
