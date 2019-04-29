@@ -35,3 +35,8 @@ item    :
     clientThumb : images/client-logo/bmaciaga.jpg
     clientName  : "Mag. Bartek Maciaga"
     clientDesignation: Consulting Partner, KPMG Germany
+  - quote       : >
+      I met Dr. Michael Dirnberger in a project with focus on optimization. Practical methods were applied to the area of insurance applications, however, the selected methods have a wide range of useful applications in other domains as well. Michael's scientific expertise and personal strengths soon began to shine in various ways. Examples are the selection of mathematical solution-strategies, the planning of technical implementations as well as his interaction with other team members with whom Michael practices a critical, straight-forward, constructive and goal-oriented approach to the problem at hand. Without reservation, I thus recommend Michael's engagement in all mentioned areas and beyond!
+    clientThumb : images/client-logo/fwittemann.png
+    clientName  : "[Mag. Frank Wittemann](https://www.linkedin.com/in/frank-wittemann-4a41777b/)"
+    clientDesignation: Senior Manager, KPMG Germany
