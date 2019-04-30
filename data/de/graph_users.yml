@@ -14,6 +14,11 @@ item    :
       effizient zu transformieren, zu speichern und zu lesen.
       Die natürliche Flexibilität des Graphen Modells macht es einfach auf veränderte Anforderungen zu reagieren.
 
+      Dieser Flexibilität ist es auch zu schulden, dass Anwendungen von Graphen in der Praxis die verschiedenste Formen annehmen. Beispiele umfassen:
+      Die Bereitstellung personalisierter Information in sozialen Netzwerken wie LinkedIn oder Facebook,
+      die Umsetzung von komplexen Systemen basierend auf vernetzte Sensoren oder
+      einfach die Verwaltung von Daten, deren komplexe Struktur eine klassische tabellarische Speicherung ineffizient macht.
+
   - positionRight : false
     image :
     js: soccer_graph
@@ -25,6 +30,10 @@ item    :
 
       Versuchen Sie es selbst und zoomen Sie in den anfänglich kompliziert wirkenden Graphen, der neben diesem Abschnitt abgebildet ist. Worum geht es in diesem Datensatz?
 
+      Natürliche Anwendungen von Graphen im Bereich der Datenanalyse und Visualisierung finden sich immer dann, wenn die
+      Verbindungen zwischen Datenpunkten genauso wichtig oder sogar wichtiger werden, als die Datenpunkte selbst.
+      Beispiele hierfür finden sich in der Analyse von sozialen Netzwerken oder der Visualisierung komplexer Prozesse aller Art.
+
   - positionRight : true
     image : images/graph_users/cotton-network-color.jpg
     js: soccer_graph
@@ -33,4 +42,5 @@ item    :
 
       Ihr Geschäft nützt strukturierte Daten und versucht aus diesen das Maximum an Nutzen herauszuholen.
       Verschiedene Herausforderungen im Umgang mit komplexen Daten erfordern effektives Datenmanagement.
-      Das Denken in Graphen und die Nutzung verschiedener Graph Konzepte bieten in dieser Hinsicht zusätzliche Werkzeuge, um mit Komplexität richtig umzugehen.
+      Entscheider und Vordenker sind hier gefordert die Zusammenhänge des großen Ganzen im Auge zu behalten und zu verstehen.
+      Das Denken in Graphen und die Nutzung verschiedener Graph Konzepte bieten in dieser Hinsicht zusätzliche Werkzeuge, um mit der Komplexität dieser Herausvorderungen richtig umzugehen.

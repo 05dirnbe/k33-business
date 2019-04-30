@@ -14,6 +14,11 @@ item    :
       store and access your structured data.
       The natural flexibility of the graph model makes it easy to adapt to changing application requirements.
 
+      This flexibility is responsible for the many forms graph applications take in practice.
+      Examples include: The provisioning of personalized Information in social networks like LinkedIn or Facebook,
+      the implementation of complex systems consisting of interconnected sensors or simply the organization of data whose complex structure
+      makes using it in tabular form inefficient.
+
   - positionRight : false
     image :
     js: soccer_graph
@@ -25,6 +30,10 @@ item    :
 
       Try for yourself, zoom in and interact with the complicated-looking graph next to this text. What is this data about?
 
+      Applications of graphs in data science and visualization tasks appear organically when the connection between data points become as important
+      or even more important that the points themselves.
+      Examples for this include the analysis of social networks or the visualization of complex processes of various sorts.
+
   - positionRight : true
     image : images/graph_users/cotton-network-color.jpg
     js: soccer_graph
@@ -32,4 +41,5 @@ item    :
     description : >
       Your operation uses structured data aiming to get the maximum use out of it.
       However, proper data management requires strategies to meet various challenges connected to the handling of data.
-      Thinking in terms of graphs and deploying graph concepts offer additional tools to properly deal with complexity.
+      Decision makers and visionaries are challenged to understand and keep track of the bigger picture.
+      Thinking in terms of graphs and deploying graph concepts offer additional tools to keep up with the complexity of such challenges.

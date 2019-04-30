@@ -54,7 +54,7 @@ DefaultContentLanguage = "de"
     [Languages.en.params.hero]
         enable  = true
         heading = "Your guide to graphs!"
-        description = "Welcome to k33 Experts"
+        description = "Welcome to k33 Experts in Graz"
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
@@ -135,7 +135,7 @@ DefaultContentLanguage = "de"
     [Languages.de.params.hero]
         enable  = true
         heading = "Your guide to graphs!"
-        description = "Willkommen bei k33 Experts"
+        description = "Willkommen bei k33 Experts in Graz"
 
     # Blog Section On Homepage
     [Languages.de.params.blog]
