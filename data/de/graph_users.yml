@@ -10,7 +10,7 @@ item    :
     title : ... Sie Code schreiben der mit strukturierten Daten jeglicher Art arbeitet!
     description : >
 
-      Modellieren Sie ihre Anwendungen als Graphen und nützen Sie Graph-Bibliotheken oder Graph-Datenbaken um Ihre strukturierten Daten
+      Modellieren Sie ihre Anwendungen als Graphen und nützen Sie Graph-Bibliotheken oder Graph-Datenbanken um Ihre strukturierten Daten
       effizient zu transformieren, zu speichern und zu lesen.
       Die natürliche Flexibilität des Graphen Modells macht es einfach auf veränderte Anforderungen zu reagieren.
 

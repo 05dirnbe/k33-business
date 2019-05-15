@@ -10,7 +10,7 @@ subtitle  : >
 
   Sobald ein Problem oder eine Anwendung in Form eines Graphen vorliegt, lassen sich **nützliche Konzepte, Algorithmen und Analysetechniken** aus den
   Gebieten der [Graphentheorie](https://de.wikipedia.org/wiki/Graphentheorie) und [Netzwerkforschung](https://de.wikipedia.org/wiki/Netzwerkforschung) anwenden.
-  Aus diesem Grund und ihrer weiten Anwendbarkeit sind Graphen und Technologien die auf Graphen basieren heute **Schlüsselelemente von viele wichtigen praktischen Anwendungen**.
+  Aus diesem Grund und ihrer weiten Anwendbarkeit sind Graphen und Technologien die auf Graphen basieren heute **Schlüsselelemente von vielen wichtigen praktischen Anwendungen**.
   Bekannte Anwendungen sind beispielsweise das Schalten von Werbung in sozialen Netzwerken, Transportnetze oder Data Management Systeme.
 
 
@@ -79,7 +79,7 @@ tabItem   :
             Wenn Sie die Maus über die Kanten bewegen, wird die Anzahl angezeigt.
 
 
-            In diesem Beispiel stehen Kanten für Kommunikation. **Im Allgemeine sind Kanten jedoch abstrakt und können beliebige Beziehungen darstellen**.
+            In diesem Beispiel stehen Kanten für Kommunikation. **Im Allgemeinen sind Kanten jedoch abstrakt und können beliebige Beziehungen darstellen**.
             Verschiedene Klassen von Kanten kommen häufig in ein und demselben Graphen vor.
 
 

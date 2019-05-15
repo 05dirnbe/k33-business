@@ -34,7 +34,7 @@ DefaultContentLanguage = "de"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "k33 Experts provides knowledge services regarding data analytics and software engineering using graphs."
+    footerDescription = "k33 Experts provides knowledge services regarding data analytics and software engineering based on graphs."
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
