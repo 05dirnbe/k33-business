@@ -40,3 +40,8 @@ item    :
     clientThumb : images/client-logo/fwittemann.jpg
     clientName  : "[Mag. Frank Wittemann](https://www.linkedin.com/in/frank-wittemann-4a41777b/)"
     clientDesignation: Senior Manager, KPMG Germany
+  - quote       : >
+      As a young scientist Dr. Dirnberger made his mark in network analysis and the design of algorithms. He realized early that graphs not only make complex issues understandable but that technologies powerd by graphs can be used to increase the efficiency of various practical applications. With his innovative ideas he is going to unlock the potential of a range of businesses.
+    clientThumb : images/client-logo/mgrube.jpg
+    clientName  : "[Prof. Dr. Martin Grube](https://www.linkedin.com/in/martin-grube-60482049/)"
+    clientDesignation: Professor for Plant Sciences, Karl Franzens University of Graz
