@@ -1,9 +1,14 @@
 enable    : true
 topTitle   : "Not so fast!"
 title     : What are Graphs in the first place?
+image  :  images/graph_equation_en.png
 subtitle  : >
   A mathematical graph, or **graph** for short, is a **structure representing pairwise relationships between objects**.
-  A graph is made up of **vertices** (sometimes called nodes, or points) which are connected by **edges** (sometimes called arcs, or lines).
+  A graph is made up of **nodes** (sometimes called vertices, or points) which are connected by **edges** (sometimes called arcs, or lines).
+  For example, nodes can embody **people, maschines or individual steps in a process**. Edges can illustrate the **relations between nodes**. They can
+  can describe **blood relations between people, data exchange between machines** or give the **interdependence of various steps in a chain of processes**.
+  **The combination of nodes and the edges between them forms the graph.**
+
   In practical applications the term **network** is often used instead of graphs.
 
 
@@ -24,7 +29,7 @@ subtitle  : >
 
 tabItem   :
   - id        : graph_item
-    title     : Graph/Network
+    title     : Graph
     heading   : "Graphs are useful structure"
     content   : >
 
@@ -37,8 +42,8 @@ tabItem   :
 
 
       **Due to the graph representation interesting information is directly available:**
-      The best connected communicator in the graph is Alston with 5 neighbors.
-      Coley and Langdon stick to themselves while Algie has no contacts at all.
+      The best connected communicator in the graph is **Alston** with 5 neighbors.
+      **Coley** and **Langdon** stick to themselves while **Algie** has no contacts at all.
 
 
       While this is a small and simple network, it is not difficult to see how this type of graph thinking applies to large complex networks like Facebook or LinkedIn.

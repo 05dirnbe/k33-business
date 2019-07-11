@@ -16,10 +16,13 @@
                 </div>
             </div>
             <div class="col-md-12">
-
                 {{ with .subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
-
             </div>
+
+            <div class="img-center">
+                <img src="{{ .image | absURL }}" class="img-fluid rounded" alt="about-image" >
+            </div>
+
             <div class="row">
                 <div class="col-md-12">
                     <div class="commonTab">

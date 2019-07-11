@@ -4,6 +4,19 @@
     {{ "<!-- Feature Section Start -->" | safeHTML }}
     <section class="services section-xs" id="feature">
         <div class="container">
+
+          <div class="row">
+              <div class="col">
+                  <div class="title" style="padding-bottom: 10px">
+                      {{ with .topTitle }}<h4>{{ . }}</h4>{{ end }}
+                      {{ with .title }}
+                      <h2>{{ . }}</h2>
+                      <span class="border"></span>
+                      {{ end }}
+                  </div>
+              </div>
+          </div>
+
             <div class="row">
                 {{ range .item }}
                     {{ "<!-- Single Feature Item -->" | safeHTML }}

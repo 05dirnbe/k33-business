@@ -1,11 +1,15 @@
 enable    : true
 topTitle   : "Moment mal!"
 title     : Was sind Graphen eigentlich?
+image : images/graph_equation_de.png
 subtitle  : >
 
   Ein mathematischer Graph, kurz **Graph**, ist eine **Struktur die paarweise Beziehungen zwischen Objekten beschreibt**.
-  Ein Graph besteht aus **Vertices** (auch Knoten genannt) die durch **Kanten** verbunden sind.
-  In der praktischen Anwendung findet sich statt Graph häufig der Begriff **Netzwerk**.
+  Ein Graph besteht aus **Knoten** (auch Vertices genannt) die durch **Kanten** verbunden sind.
+  Knoten beispielsweise **Menschen, Maschinen oder Prozessschritte** verkörpern. Kanten beschreiben die **Zusammenhänge zwischen Knoten** und
+  können zum Beispiel für **Verwandschaftsbeziehungen zwischen Menschen** stehen, **Datenaustausch zwischen Maschinen** beschreiben oder die **gegenseitigen Abhängigkeiten von Prozessen** darstellen.
+  **Die Gesamtheit der Knoten und die zwischen ihnen bestehenden Kanten ergeben dann den Graphen.**
+  In der praktischen Anwendung findet sich statt Graph auch häufig der Begriff **Netzwerk**.
 
 
   Sobald ein Problem oder eine Anwendung in Form eines Graphen vorliegt, lassen sich **nützliche Konzepte, Algorithmen und Analysetechniken** aus den
@@ -25,7 +29,7 @@ subtitle  : >
 
 tabItem   :
   - id        : graph_item
-    title     : Graph/Netzwerk
+    title     : Graph
     heading   : "Graphen sind nützliche Struktur"
     content   : >
 
@@ -39,8 +43,8 @@ tabItem   :
 
 
       **Durch die Graph-Repräsentation sind interessante Informationen sofort verfügbar**:
-      Der am besten verbundene Kommunikator in dem Graph ist Alston mit 5 Nachbarn.
-      Coley und Langdon bleiben für sich, während Algie überhaupt keinen Kontakt hat.
+      Der am besten verbundene Kommunikator in dem Graph ist **Alston** mit 5 Nachbarn.
+      **Coley** und **Langdon** bleiben für sich, während **Algie** überhaupt keinen Kontakt hat.
 
 
       Obwohl es sich hier um ein kleines und einfaches Netzwerk handelt, wird klar, dass sich diese Art in Graphen zu denken direkt auf große und komplexe Netzwerke wie Facebook oder LinkedIn übertragen lässt.
@@ -49,7 +53,7 @@ tabItem   :
     js     : graph_intro
 
   - id        : vertices_item
-    title     : Vertices/Knoten
+    title     : Knoten
     heading   : Knoten sind abstrakte Objekte
     content   : >
 

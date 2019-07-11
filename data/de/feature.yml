@@ -1,4 +1,6 @@
 enable  : true
+topTitle   : "Alles klar!"
+title     : ... aber was macht Graphen so nützlich?
 item  :
   - icon  : tf-ion-ios-flask-outline
     title : Graphen sind flexible Werkzeuge
@@ -8,7 +10,7 @@ item  :
   - icon  :  tf-ion-ios-lightbulb-outline
     title : Graphen sind simpel und intuitiv
     description : >
-      Komplexe Daten als Graphen darzustellen macht es leichter diese zu verstehen. Ein Bild von einem Graphen sagt oft mehr als tausend Worte.
+      Komplexe vernetzte Daten als Graphen darzustellen macht es leichter diese zu verstehen. Eine gute Visualisierung von einem Graphen sagt oft mehr als tausend Worte.
 
   - icon  : tf-ion-ios-speedometer-outline
     title : Graph-Technologien sind angekommen
