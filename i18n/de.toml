@@ -4,8 +4,8 @@ other = "Home"
 other = "Über uns"
 [service]
 other = "Leistungen"
-[applications]
-other = "Anwendungen"
+[partners]
+other = "Partner Netzwerk"
 [blog]
 other = "Blog"
 [academy]

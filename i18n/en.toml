@@ -4,8 +4,8 @@ other = "Home"
 other = "About"
 [service]
 other = "Service"
-[applications]
-other = "Applications"
+[partners]
+other = "Partner Network"
 [blog]
 other = "Blog"
 [academy]

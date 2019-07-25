@@ -203,10 +203,10 @@ DefaultContentLanguage = "de"
         name    = "service"
         url     = "service"
         weight  = 3
-    # [[menu.nav]]
-    #     name    = "applications"
-    #     url     = "applications"
-    #     weight  = 4
+    [[menu.nav]]
+        name    = "partners"
+        url     = "partners"
+        weight  = 4
     [[menu.nav]]
         name    = "blog"
         url     = "https://blog.k33experts.com"
