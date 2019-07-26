@@ -1,9 +1,10 @@
 ---
-title: Recommendation Engines
+title: Vertikal Begrünung
 date: 2018-07-07T17:04:41+06:00
-image: images/portfolio/portfolio-2.jpg
+logo: images/partners/vertical_green_logo.jpg
+image: images/partners/vertical_green_logo.jpg
 author: Michael Dirnberger
-categories : [Architecture]
+categories : [architektur]
 draft : false
 ---
 

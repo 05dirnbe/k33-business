@@ -1,9 +1,10 @@
 ---
 title: Oana Mitrea
 date: 2018-07-07T17:04:41+06:00
+logo: images/partners/sac_logo.png
 image: images/partners/sac_logo.png
 author: Michael Dirnberger
-categories : [Clusters]
+categories : [clusters]
 draft: false
 ---
 

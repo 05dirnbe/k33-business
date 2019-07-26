@@ -1,9 +1,10 @@
 ---
 title: Green Tech Cluster
 date: 2018-07-07T17:04:41+06:00
+logo: images/partners/green_tech_logo.png
 image: images/partners/green_tech_logo.png
 author: Michael Dirnberger
-categories : [Clusters]
+categories : [clusters]
 draft: false
 ---
 

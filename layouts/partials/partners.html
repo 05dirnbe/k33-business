@@ -2,7 +2,7 @@
 
     {{ if $data.partners.enable }}
     {{ "<!-- Start Application Section -->" | safeHTML }}
-    <section class="portfolio section" id="applications">
+    <section class="portfolio section" id="partners">
         <div class="container-fluid">
             <div class="row">
                 <div class="col">
@@ -32,9 +32,9 @@
             </div>
             <div class="row portfolio-items-wrapper">
                 {{ range .Pages }}
-                    <div class="col-6 col-md-4 padding-0 mix {{ range .Params.tags }} {{ . }} {{ end }}">
+                    <div class="col-6 col-md-4 padding-10 mix {{ range .Params.categories }} {{ . }} {{ end }}">
                         <div class="portfolio-block">
-                            <img class="img-fluid" src="{{ .Params.image | absURL }}" alt="application-image">
+                            <img class="img-fluid" src="{{ .Params.logo | absURL }}" alt="{{ .Title }}">
                             <div class="caption">
                                 <h4>
                                     <a href="{{.Permalink}}">{{ .Title }}</a>
