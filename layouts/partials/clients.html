@@ -6,7 +6,7 @@
         <div class="container" id = "clients">
             <div class="row">
                 <div class="col-md-6 text-center">
-                    {{ with .image }}<img class="img-fluid shadow rounded" src="{{ . | absURL }}" alt="service-image"/>{{ end }}
+                    {{ with .image }}<img class="img-fluid rounded" src="{{ . | absURL }}" alt="service-image"/>{{ end }}
                 </div>
                 <div class="col-md-6 align-self-center">
                     {{ with .title }}<h2>{{.}}</h2>{{ end }}
@@ -28,7 +28,9 @@
                 <div class="col-md-12">
                     <div id="clients-slider" class="clients-logo-slider">
                         {{ range .clientLogo }}
-                        <img src="{{ .image | absURL }}" alt="client-logo">
+
+
+                        <img src="{{ .image | absURL }}" alt="client-logo" style="display: inline-block; vertical-align: middle; float:none; padding-left: 25px; padding-right: 25px; ">
                         {{ end }}
                     </div>
                 </div>

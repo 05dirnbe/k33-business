@@ -1,21 +1,11 @@
 enable    : true
-title     : ENGLISH We care about our work
+title     : A thank you to our clients and partners!
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
-image     : images/about/about-1.jpg
+  Wherever things become complex and connected thinking is required, challenges will be found.
+  Together we combine your domain knowledge with our expertise. In doing so we create new approaches or improve upon time-tested solutions.
+  We are grateful to our clients for their trust.
+image     : images/logos/k33.png
 servicelist:
-  - name    : Creative Designers
-  - name    : Genius Developers
-  - name    : Growth Hackers
-  - name    : Marketing Masterminds
 clientLogo:
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
+  - image   : images/client-logo/joanneum_research_digital.png
+  - image   : images/client-logo/sac_logo.png
