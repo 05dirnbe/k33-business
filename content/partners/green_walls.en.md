@@ -1,5 +1,7 @@
 ---
 title: Vertikalbegrünung
+company: Silicon Alps Cluster
+link: https://www.silicon-alps.at/
 date: 2018-07-07T17:04:41+06:00
 logo: images/partners/vertical_green_logo.jpg
 image: images/partners/vertical_green_logo.jpg

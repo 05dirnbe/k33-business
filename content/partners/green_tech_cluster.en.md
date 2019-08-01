@@ -1,5 +1,7 @@
 ---
 title: Green Tech Cluster
+company: Silicon Alps Cluster
+link: https://www.silicon-alps.at/
 date: 2018-07-07T17:04:41+06:00
 logo: images/partners/green_tech_logo.png
 image: images/partners/green_tech_logo.png

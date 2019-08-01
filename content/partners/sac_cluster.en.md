@@ -1,17 +1,48 @@
 ---
 title: Oana Mitrea
-date: 2018-07-07T17:04:41+06:00
+company: Silicon Alps Cluster
+link: https://www.silicon-alps.at/
+date: 2019-08-01T17:04:41+06:00
 logo: images/partners/sac_logo.png
-image: images/partners/sac_logo.png
+image: images/partners/omitrea.jpg
 author: Michael Dirnberger
 categories : [clusters]
 draft: false
 ---
 
-### Introduction
+##### Q: What is the name of your business and what is its mission?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+I am head of technology in the Silicon Alps Cluster ( Electronics-Based Systems Cluster). Silicon Alps
+aims to improve the competitiveness, the innovation output and the international visibility of its cooperation partners (Businesses and Research Facilities). My dream/goal: Supporting the generation of exciting, meaningful, socially-responsible technological systems and projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+##### Q: How did you end up where you are today?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+Motivated by a passion for science fiction and space I obtained my PhD as a technology sociologist from TU Darmstadt and the University of Bukarest. For a long time I worked on various Smart System Projects at the University of Klagenfurt. At the moment I still teach there on the topics of Smart Mobility System and the impact of technology.
+
+##### Q: What are the best parts of your day to day work?
+
+The morning.
+
+##### Q: What keeps you motivated?
+
+The enthusiasm, the endurance and the creativity of the people I interact with.
+
+##### Q: What are your personal principles and values?
+
+Fairness, endurance, an openness for new things and at the same time, an appreciation for time-tested things and wisdom.
+
+##### Q: What does success look like to you?
+
+Sunrise after a cloudy day.
+
+##### Q: What helps you grow personally?
+
+Friendship with others and every-day challenges.
+
+##### Q: How du you recharge your batteries?
+
+Vacation in Romania to refresh childhood memories.
+
+##### Q: What else do you want to accomplish in your career?
+
+To write a book on technological sociology.
