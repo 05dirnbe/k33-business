@@ -1074,9 +1074,11 @@ a:focus, a:hover {
 }
 
 .portfolio-block {
+  display: block;
   position: relative;
   transition: .3s all;
   overflow: hidden;
+  vertical-align: middle;
 }
 
 .portfolio-block:before {

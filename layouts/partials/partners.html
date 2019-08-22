@@ -30,11 +30,11 @@
                     </div>
                 </div>
             </div>
-            <div class="row portfolio-items-wrapper">
+            <div class="row portfolio-items-wrapper align-items-center">
                 {{ range .Pages }}
                     <div class="col-6 col-md-4 padding-10 mix {{ range .Params.categories }} {{ . }} {{ end }}">
                         <div class="portfolio-block">
-                            <img class="img-fluid" src="{{ .Params.logo | absURL }}" alt="{{ .Title }}">
+                            <img class=" img-fluid mx-auto d-block" src="{{ .Params.logo | absURL }}" alt="{{ .Title }}">
                             <div class="caption">
                                 <h4>
                                     <a href="{{.Permalink}}">{{ .Title }}</a>
