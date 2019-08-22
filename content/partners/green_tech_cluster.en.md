@@ -7,7 +7,7 @@ logo: images/partners/green_tech_logo.png
 image: images/partners/green_tech_logo.png
 author: Michael Dirnberger
 categories : [clusters]
-draft: false
+draft: true
 ---
 
 ### Introduction

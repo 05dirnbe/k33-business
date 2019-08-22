@@ -7,7 +7,7 @@ logo: images/partners/vertical_green_logo.jpg
 image: images/partners/vertical_green_logo.jpg
 author: Michael Dirnberger
 categories : [architektur]
-draft : false
+draft : true
 ---
 
 ### Introduction

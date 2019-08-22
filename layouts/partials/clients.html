@@ -24,13 +24,13 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div id="clients-slider" class="clients-logo-slider">
+            <div class="row ">
+                <div class="col ">
+                    <div id="clients-slider" class="clients-logo-slider mx-auto">
                         {{ range .clientLogo }}
 
+                        <img class = "img-responsive d-inline-block clients-logo-slides " src="{{ .image | absURL }}" alt="client-logo" style = "float: none;" >
 
-                        <img src="{{ .image | absURL }}" alt="client-logo" style="display: inline-block; vertical-align: middle; float:none; padding-left: 25px; padding-right: 25px; ">
                         {{ end }}
                     </div>
                 </div>

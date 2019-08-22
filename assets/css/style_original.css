@@ -116,7 +116,7 @@ a:focus, a:hover {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 @media (max-width: 480px) {
@@ -1280,8 +1280,13 @@ a:focus, a:hover {
 }
 
 .clients-logo-slider {
-  margin-top: 100px;
+  margin-top: 50px;
+  margin: 0 -27px;
   vertical-align: middle;
+}
+
+.clients-logo-slides {
+  margin: 0 27px;
 }
 
 /*=================================================================

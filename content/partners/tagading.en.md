@@ -1,13 +1,13 @@
 ---
 title: Thomas Winter
-company: Silicon Alps Cluster
+company: Screenguest
 link: https://www.silicon-alps.at/
 date: 2018-07-07T17:04:41+06:00
 logo: images/partners/tagading_logo.png
 image: images/partners/tagading_image.jpg
 author: Michael Dirnberger
 categories : [software]
-draft: false
+draft: true
 ---
 
 

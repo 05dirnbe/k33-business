@@ -7,7 +7,7 @@ logo: images/partners/tagading_logo.png
 image: images/partners/tagading_image.jpg
 author: Michael Dirnberger
 categories : [software]
-draft : false
+draft : true
 ---
 
 ##### Q: What is the name of your business and what is its mission?
