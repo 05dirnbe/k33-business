@@ -1280,7 +1280,8 @@ a:focus, a:hover {
 }
 
 .clients-logo-slider {
-  margin-top: 50px;
+  padding-top: 75px;
+  padding-bottom: 25px;
   margin: 0 -27px;
   vertical-align: middle;
 }
