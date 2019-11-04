@@ -3,7 +3,7 @@ title: Raphael Paschke & Ivan Cossu
 company: Lytica
 link: https://www.lytica.ch
 date: 2019-08-22T17:04:41+06:00
-logo: images/partners/lytica.jpg
+logo: images/partners/lytica_logo.png
 image: images/partners/lytica.jpg
 author: Michael Dirnberger
 categories : [consulting]
