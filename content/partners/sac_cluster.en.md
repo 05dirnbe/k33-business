@@ -12,7 +12,7 @@ draft: false
 
 ##### Q: What is the name of your business and what is its mission?
 
-I am head of technology in the Silicon Alps Cluster ( Electronics-Based Systems Cluster). Silicon Alps
+I am head of technology in the [Silicon Alps Cluster](https://www.silicon-alps.at/) ( Electronics-Based Systems Cluster). Silicon Alps
 aims to improve the competitiveness, the innovation output and the international visibility of its cooperation partners (Businesses and Research Facilities). My dream/goal: Supporting the generation of exciting, meaningful, socially-responsible technological systems and projects.
 
 ##### Q: How did you end up where you are today?

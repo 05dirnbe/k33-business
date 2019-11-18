@@ -12,7 +12,7 @@ draft: false
 
 ##### Q: Wie heißt Euer Unternehmen und was ist Eure Mission?
 
-**Ivan:** Unternehmen heißt Lytica und wir helfen Unternehmen dabei durch die Nutzung von Daten besser zu werden!
+**Ivan:** Unser Unternehmen heißt [Lytica](https://www.lytica.ch) und wir helfen Unternehmen dabei durch die Nutzung von Daten besser zu werden!
 
 **Raphael:** Daten mit Strategie - Strategie mit Daten!
 

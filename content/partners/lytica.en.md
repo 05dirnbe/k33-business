@@ -12,7 +12,7 @@ draft: false
 
 ##### Q: What is the name of your business and what is its mission?
 
-**Ivan:** Our company is named Lytica and we enable organizations to become better through data!
+**Ivan:** Our company is named [Lytica](https://www.lytica.ch) and we enable organizations to become better through data!
 
 **Raphael:** Our Mission: Data with strategy and strategy with data!
 

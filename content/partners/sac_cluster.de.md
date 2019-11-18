@@ -12,7 +12,7 @@ draft: false
 
 ##### Q: Wie heißt Dein Unternehmen und was ist Deine Mission?
 
-Ich bin Head of Technology im Silicon Alps Cluster ( Electronics-Based Systems Cluster). Silicon Alps zielt darauf ab, die Wettbewerbsfähigkeit, die Innovationsleistung und die internationale Sichtbarkeit der Kooperationspartner (Unternehmen und Forschungseinrichtungen) zu erhöhen. Mein Traum /Ziel: die Generierung von spannenden, sinnvollen, sozial-gerechten technischen Systemen und Projekten zu unterstützen.
+Ich bin Head of Technology im [Silicon Alps Cluster](https://www.silicon-alps.at/) ( Electronics-Based Systems Cluster). Silicon Alps zielt darauf ab, die Wettbewerbsfähigkeit, die Innovationsleistung und die internationale Sichtbarkeit der Kooperationspartner (Unternehmen und Forschungseinrichtungen) zu erhöhen. Mein Traum /Ziel: die Generierung von spannenden, sinnvollen, sozial-gerechten technischen Systemen und Projekten zu unterstützen.
 
 ##### Q: Wie bist Du dort hingekommen, wo Du heute bist?
 
