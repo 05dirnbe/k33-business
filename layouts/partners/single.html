@@ -8,18 +8,18 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-3" alt="">
+                <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-5" align="middle" alt="">
                 <h2><a href="{{ .Params.link }}">{{ .Params.company }}</a> - {{ .Title }}</h2>
                 <div class="post-meta mb-5">
                     <ul class="list-inline">
                         <li class="list-inline-item">
                             <span>By</span>
-                            {{ .Params.author }}
+                            {{ .Params.author }}, {{ .Date.UTC.Format .Site.Params.dateFormat }}
                         </li>
-                        <li class="list-inline-item">
-                            <span>on</span>
+                        <!-- <li class="list-inline-item">
+                            <span>, </span>
                             <span>{{ .Date.Format .Site.Params.dateFormat }}</span>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
                 {{ .Content }}
