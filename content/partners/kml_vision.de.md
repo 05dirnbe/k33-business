@@ -6,13 +6,13 @@ date: 2019-11-15
 logo: images/partners/kml_vision_logo.png
 image: images/partners/mmayrhofer.png
 author: Michael Dirnberger
-categories : [startup]
+categories : [startups]
 draft: false
 ---
 
 ##### Q: Wie heißt Dein Unternehmen und was ist Deine Mission?
 
-KML Vision GmbH - Image Data Management und Automated Image Analysis basierend auf Cloud Computing und Künstlicher Intelligenz. Wir bauen hochgenaue Systeme zur Entscheidungsfindung und unterstützen mittels neuerster Technologien Forschung und Entwicklung im Sektor Life Sciences und Gesundheit.
+[KML Vision GmbH](https://www.kmlvision.com) - Image Data Management und Automated Image Analysis basierend auf Cloud Computing und Künstlicher Intelligenz. Wir bauen hochgenaue Systeme zur Entscheidungsfindung und unterstützen mittels neuerster Technologien Forschung und Entwicklung im Sektor Life Sciences und Gesundheit.
 
 ##### Q: Wie bist Du dort hingekommen, wo Du heute bist?
 
