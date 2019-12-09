@@ -43,3 +43,5 @@ Reaching personal limits (e.g. in sports), personal setbacks.
 Sports, Nature, Friends.
 
 ##### Q: What else do you want to accomplish in your career?
+
+Creating tools that significantly accelerate the development of new drugs. To provide an innovative yet stable environment for our employees.
