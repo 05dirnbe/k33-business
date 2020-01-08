@@ -1,13 +1,13 @@
 enable    : true
 topTitle   : Wem nützen Graphen?
-title     : Denken Sie über Graphen nach wenn ...
+title     : Graphen lösen Probleme und erzeugen Nutzen wenn ...
 subtitle  :
 enable  : true
 item    :
   - positionRight : true
     image : images/graph_users/recommendation_graph.png
     js: soccer_graph
-    title : ... Sie Code schreiben der mit strukturierten Daten jeglicher Art arbeitet!
+    title : ... Sie strukturierten Daten jeglicher Art verwalten!
     description : >
 
       Modellieren Sie ihre **Anwendungen als Graphen** und nützen Sie Graph-Bibliotheken oder Graph-Datenbanken um Ihre **strukturierten Daten
@@ -22,7 +22,7 @@ item    :
   - positionRight : false
     image :
     js: soccer_graph
-    title : ... Sie Code schreiben, um strukturierten Daten jeglicher Art zu analysieren!
+    title : ... Sie strukturierten Daten jeglicher Art analysieren!
     description : >
 
       Komplexe Daten als Graphen darzustellen eröffnet **neue Analyse- und Visualisierungsmöglichkeiten**.
@@ -35,12 +35,12 @@ item    :
       Beispiele hierfür finden sich in der Analyse von sozialen Netzwerken oder der **Visualisierung komplexer Prozesse** aller Art.
 
   - positionRight : true
-    image : images/graph_users/cotton-network-color.jpg
+    image : images/graph_users/relations_graph.png
     js: soccer_graph
-    title : ... wenn Sie keinen Code schreiben, strukturierte Daten aber trotzdem für Ihren Erfolg wichtig sind!
+    title : ... das Verständis der Beziehungen zwischen den Dingen für Ihren Erfolg entscheidend sind!
     description : >
 
-      Ihr Geschäft nützt strukturierte Daten und versucht aus diesen das **Maximum an Nutzen** herauszuholen.
+      Ihr Geschäft nützt strukturierte Daten und Prozesse und versucht aus diesen das **Maximum an Nutzen** herauszuholen.
       Verschiedene Herausforderungen im Umgang mit komplexen Daten erfordern **effektives Datenmanagement**.
       **Entscheider und Vordenker sind hier gefordert** die Zusammenhänge des großen Ganzen im Auge zu behalten und zu verstehen.
-      Das **Denken in Graphen und die Nutzung verschiedener Graph Konzepte** bieten in dieser Hinsicht zusätzliche Werkzeuge, um mit der Komplexität dieser Herausvorderungen richtig umzugehen.
+      Das **Denken in Graphen und die Nutzung verschiedener Graph Konzepte** bieten in dieser Hinsicht zusätzliche Werkzeuge, um mit der Komplexität dieser Herausvorderungen richtig umzugehen und ermöglichen bessere Entscheidungen.

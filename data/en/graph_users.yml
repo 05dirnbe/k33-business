@@ -1,13 +1,13 @@
 enable    : true
 topTitle   : Who should use graphs?
-title     : Consider using graphs if ...
+title     : Graphs solve Problems and create value if ...
 subtitle  :
 enable  : true
 item    :
   - positionRight : true
     image : images/graph_users/recommendation_graph.png
     js: soccer_graph
-    title : ... you write code handling structured data of any kind!
+    title : ... you handle structured data of any kind!
     description : >
 
       Simply **model your use cases as graphs** and exploit the power of graph libraries or graph databases to **efficiently transform,
@@ -22,7 +22,7 @@ item    :
   - positionRight : false
     image :
     js: soccer_graph
-    title : ... you write code analyzing structured data of any kind!
+    title : ... you analyze structured data of any kind!
     description : >
 
       Representing complex data as a graph opens up **powerful analysis and visualizationalization possibilities**.
@@ -34,11 +34,11 @@ item    :
       Examples for this include the analysis of social networks or the **visualization of complex processes** of various sorts.
 
   - positionRight : true
-    image : images/graph_users/cotton-network-color.jpg
+    image : images/graph_users/relations_graph.png
     js: soccer_graph
-    title : ... you don't write code but structured data is still important to your success!
+    title : ... understanding the relations between entities are essential to your success!
     description : >
-      Your operation uses structured data aiming to get the **maximum use** out of it.
+      Your operation uses structured data and processes aiming to get the **maximum use** out of them.
       However, **proper data management requires strategies** to meet various challenges connected to the handling of data.
       Decision makers and visionaries are challenged to understand and keep track of the bigger picture.
-      **Thinking in terms of graphs and deploying graph concepts** offer additional tools to keep up with the complexity of such challenges.
+      **Thinking in terms of graphs and deploying graph concepts** offer additional tools to keep up with the complexity of such challenges and enable better decision-making.
