@@ -1,17 +1,18 @@
 enable    : true
-topTitle  : "Was wir für Sie tun:"
-title     : Unsere Leistungen.
-subtitle  : Über die Blickwinkel von Data Scientists, Data Engineers und Software Engineers bringen wir unser Wissen und Erfahrung im Bereich der Graphen bei Ihnen ein.
+topTitle  : "Unsere Leistungen"
+title     : "Ihr Nutzen:"
+subtitle  : Über die Blickwinkel von Data Scientists, Data Engineers und Software Engineers bringen wir unser Wissen und Erfahrung im Bereich der Graphen zu Ihrem Vorteil ein.
 item      :
   - icon  : tf-ion-ios-search
     title : Erstberatung
     btnText     : Mehr erfahren
     btnURL      : service/#checkup
     list  :
-      - name : Kostenlos
-      - name : Professionelle Bewertung Ihrer Situation
+      - name : Gegenseitiges Kennenlernen
+      - name : Bewertung Ihrer Herausforderungen
+      - name : Bewertung Ihrer Optionen
+      - name : Professionelles Q&A
       - name : Empfehlung für weiteres Vorgehen
-      - name : Überzeugen Sie sich von uns
       - name : ...
 
   - icon  : tf-ion-ios-mic-outline

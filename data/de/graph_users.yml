@@ -1,13 +1,13 @@
 enable    : true
-topTitle   : Wem nützen Graphen?
-title     : Graphen lösen Probleme und erzeugen Nutzen wenn ...
+topTitle   : Warum Graphen?
+title     : Weil Graphen zu Nutzen führen!
 subtitle  :
 enable  : true
 item    :
   - positionRight : true
     image : images/graph_users/recommendation_graph.png
     js: soccer_graph
-    title : ... Sie strukturierten Daten jeglicher Art verwalten!
+    title : Graphen erleichtern das Arbeiten mit strukturierten Daten jeglicher Art!
     description : >
 
       Modellieren Sie ihre **Anwendungen als Graphen** und nützen Sie Graph-Bibliotheken oder Graph-Datenbanken um Ihre **strukturierten Daten
@@ -22,7 +22,7 @@ item    :
   - positionRight : false
     image :
     js: soccer_graph
-    title : ... Sie strukturierten Daten jeglicher Art analysieren!
+    title : Graphen ermöglichen die Analyse von strukturierte Daten jeglicher Art!
     description : >
 
       Komplexe Daten als Graphen darzustellen eröffnet **neue Analyse- und Visualisierungsmöglichkeiten**.
@@ -37,7 +37,7 @@ item    :
   - positionRight : true
     image : images/graph_users/relations_graph.png
     js: soccer_graph
-    title : ... das Verständis der Beziehungen zwischen den Dingen für Ihren Erfolg entscheidend sind!
+    title : Graphen erfassen Beziehungen zwischen den entscheidenden Dingen!
     description : >
 
       Ihr Geschäft nützt strukturierte Daten und Prozesse und versucht aus diesen das **Maximum an Nutzen** herauszuholen.

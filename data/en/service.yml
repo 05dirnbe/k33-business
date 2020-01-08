@@ -1,6 +1,6 @@
 enable    : true
-topTitle  : "What we do for you:"
-title     : Our Services.
+topTitle  : "Our Services"
+title     : "Your Value:"
 subtitle  : Through the eyes of Data Scientists, Data Engineers and Software Engineers, we add knowledge and skills in the area of graphs to your cause.
 item      :
   - icon  : tf-ion-ios-search
@@ -8,10 +8,11 @@ item      :
     btnText     : Learn more
     btnURL      : service/#checkup
     list  :
-      - name : Free
-      - name : Professional assessment of your situation
+      - name : Make acquaintance
+      - name : Assessment of your challenges
+      - name : Assessment of your options
+      - name : Professional Q&A
       - name : Recommendation for further steps
-      - name : Get to know us
       - name : ...
 
   - icon  : tf-ion-ios-mic-outline

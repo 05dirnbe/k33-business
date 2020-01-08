@@ -1,20 +1,18 @@
 enable  : true
-topTitle   : "I get it!"
-title     : ... but what makes graphs so useful?
+topTitle   : "k33 presents:"
+title     : Our Three pillars of Graph usage
 item  :
   - icon  : tf-ion-ios-flask-outline
-    title : Graphs are flexible data-tools
+    title : Data Science and Graphs
     description : >
-      Data is most useful if it has meaningful structure. Graphs are ideal to represent and utilize complex connected data.
-
+      Improve the understanding of complex data and generate valuable insights using graph methods.
 
   - icon  :  tf-ion-ios-lightbulb-outline
-    title : Graphs are clean and intuitive
+    title : Data and Graphs
     description : >
-      Representing complex connected data as a graph makes it easier to understand. A good visualisation of a graph is worth more than a thousand words.
-
+      Manage complex data cleverly to enable simple and intuitive applications using graph data bases.
 
   - icon  : tf-ion-ios-speedometer-outline
-    title : Graph technologies have arrived
+    title : Algorithms and Graphs
     description : >
-      Whether you need a graph library or an entire distributed graph database to get the job done. Graph tools are available and here to stay.
+      Where structure can be properly described as a graph, many problems can be solved using graph algorithms.

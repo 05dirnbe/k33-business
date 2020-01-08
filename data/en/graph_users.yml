@@ -1,20 +1,20 @@
 enable    : true
-topTitle   : Who should use graphs?
-title     : Graphs solve Problems and create value if ...
+topTitle   : Why use graphs?
+title     : Because Graphs create value!
 subtitle  :
 enable  : true
 item    :
   - positionRight : true
     image : images/graph_users/recommendation_graph.png
     js: soccer_graph
-    title : ... you handle structured data of any kind!
+    title : Graphs simplify working with structured data of any kind!
     description : >
 
       Simply **model your use cases as graphs** and exploit the power of graph libraries or graph databases to **efficiently transform,
       store and access your structured data**.
       The natural flexibility of the graph model makes it easy to **adapt to changing application requirements**.
 
-      This flexibility is responsible for the many forms graph applications take in practice.
+      This flexibility is responsible for the many graph applications found in practice.
       Examples include: The **provisioning of connected Information** in social networks like LinkedIn or Facebook,
       the **implementation of complex systems** consisting of interconnected sensors or simply the **organization of connected data** whose complex structure
       makes using it in tabular form inefficient.
@@ -22,7 +22,7 @@ item    :
   - positionRight : false
     image :
     js: soccer_graph
-    title : ... you analyze structured data of any kind!
+    title : Graphs enable the analysis of structured data of any kind!
     description : >
 
       Representing complex data as a graph opens up **powerful analysis and visualizationalization possibilities**.
@@ -36,7 +36,7 @@ item    :
   - positionRight : true
     image : images/graph_users/relations_graph.png
     js: soccer_graph
-    title : ... understanding the relations between entities are essential to your success!
+    title : Graphs help see the relations between the entities that are essential to your success!
     description : >
       Your operation uses structured data and processes aiming to get the **maximum use** out of them.
       However, **proper data management requires strategies** to meet various challenges connected to the handling of data.

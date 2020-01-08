@@ -1,18 +1,18 @@
 enable  : true
-topTitle   : "Alles klar!"
-title     : ... aber was macht Graphen so nützlich?
+topTitle   : "k33 stellt vor:"
+title     : Unsere drei Säulen der Nutzung von Graphen
 item  :
   - icon  : tf-ion-ios-flask-outline
-    title : Graphen sind flexible Werkzeuge
+    title : Data Science und Graphen
     description : >
-      Daten sind am nützlichsten, wenn sie Struktur enthalten. Graphen sind ideal um komplexe, strukturierte Daten zu nützen.
+      Verbessern Sie das Verständis Ihrer komplexen Daten und generieren Sie wertvolle Informationen mittels Graph Methoden.
 
   - icon  :  tf-ion-ios-lightbulb-outline
-    title : Graphen sind simpel und intuitiv
+    title : Daten und Graphen
     description : >
-      Komplexe vernetzte Daten als Graphen darzustellen macht es leichter diese zu verstehen. Eine gute Visualisierung von einem Graphen sagt oft mehr als tausend Worte.
+      Verwalten Sie komplexe Daten schlau, um einfache und intutive Anwendungen basierend auf Graph Datenbanken zu entwickeln.
 
   - icon  : tf-ion-ios-speedometer-outline
-    title : Graph-Technologien sind angekommen
+    title : Algorithmen und Graphen
     description : >
-      Ob eine einfache Graphen-Bibliothek oder eine ganze distribuierte Graphen-Datenbank benötigt wird, diese Werkzeuge sind gekommen, um zu bleiben.
+      Wo Struktur durch Graphen beschrieben wird, lassen sich viele Probleme mittels Graph Algorithmen lösen.
