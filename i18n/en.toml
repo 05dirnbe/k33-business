@@ -1,7 +1,9 @@
 [home]
 other = "Home"
 [about]
-other = "About"
+other = "Us"
+[about_graphs]
+other = "Graphs"
 [service]
 other = "Service"
 [partners]

@@ -1,7 +1,9 @@
 [home]
 other = "Home"
 [about]
-other = "Über uns"
+other = "Wir"
+[about_graphs]
+other = "Graphen"
 [service]
 other = "Leistungen"
 [partners]

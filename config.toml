@@ -200,25 +200,29 @@ DefaultContentLanguage = "de"
         url     = "about"
         weight  = 2
     [[menu.nav]]
+        name    = "about_graphs"
+        url     = "about_graphs"
+        weight  = 3
+    [[menu.nav]]
         name    = "service"
         url     = "service"
-        weight  = 3
+        weight  = 4
     [[menu.nav]]
         name    = "partners"
         url     = "partners"
-        weight  = 4
+        weight  = 5
     [[menu.nav]]
         name    = "blog"
         url     = "https://blog.k33experts.com"
-        weight  = 6
+        weight  = 7
     [[menu.nav]]
         name    = "academy"
         url     = "https://k33-academy.thinkific.com/courses"
-        weight  = 5
+        weight  = 8
     [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 7
+        weight  = 9
 
     # Footer Service Menu
     [[menu.service]]
