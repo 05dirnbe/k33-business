@@ -1,30 +1,35 @@
 enable : true
 item    :
   - quote       : >
-      Michael's attention to detail and understanding of the client objectives really helped the team steer towards productive cooperation.
-    clientThumb : images/client-logo/benflood.jpg
-    clientName  : "[Dr. Ben Flood](https://www.linkedin.com/in/drbenflood/)"
-    clientDesignation: Senior Manager, KPMG Deutschland
-  - quote       : >
-      We were working together on a research project that required an interdisciplinary approach from computer science, biology, electrical engineering, and physics. Michael was crucial for the success of this project: His skills combine creative out-of-the-box thinking and thoroughly thought through solutions with a self-organized and timely work schedule that I could completely rely on. I can only highly recommend him!
-    clientThumb : images/client-logo/mfuegger.jpg
-    clientName  : "[Dr. Matthias Függer](http://www.lsv.fr/~mfuegger/)"
-    clientDesignation: Senior Researcher , CNRS Paris
-  - quote       : >
-      Ich hatte das Vergnügen mit Michael zusammen über ein halbes Jahr an einem sehr arbeitsintensiven Projekt zu arbeiten. Dabei hat er uns hervorragend mit seiner technischen Expertise unterstützt und maßgeblich zum Erfolg des Projektes beigetragen. Ich kann Michael vorbehaltlos weiter empfehlen und würden mich freuen, noch viele weitere Projekte mit ihm zusammen zu bearbeiten.
-    clientThumb : images/client-logo/pschwingenschloegl.jpg
-    clientName  : "[Paul Schwingenschloegl, MSc.](https://www.linkedin.com/in/paul-schwingenschloegl/)"
-    clientDesignation: Senior Consultant, PwC GmbH WPG
-  - quote       : >
-      Für fast ein Jahr habe ich mit Michael in verschiedenen Projekten zusammengearbeitet. Dabei lernte ich seine Meinungen und fachlichen Aussagen sehr schnell schätzen. Sie waren ausnahmslos klar, präzise, gut begründet und unbeeinflusst von vielleicht projektseitig gerne gesehenen Einschätzungen. Insbesondere die ergebnisoffene Entwicklung in fachlichen Diskussionen an Tafel und White-Board lieferte immer ein einheitliches Problemverständnis und häufig auch eine direkte Lösungsstrategie. Darüber hinaus konnte ich, bedingt durch unsere unterschiedlichen Fachgebiete, sehr viel von Michaels Fachwissen lernen. Neben zentralen Ideen hat er dabei meist auch noch "Best-Practice" vermittelt.
-    clientThumb : images/client-logo/kschwarz.jpg
-    clientName  : "[Dr. rer. nat. Karsten Schwarz](https://www.linkedin.com/in/karsten-schwarz-b6869914a/)"
-    clientDesignation: Senior Data Scientist, Lighthouse KPMG Deutschland
-  - quote       : >
-      Ich habe mit Michael im Rahmen eines Projektes zur Passantenstromanalyse zusammengearbeitet. Der Wechsel des Fortbewegungsmittel (Pkw und Fußweg) war eine zentrale Herausforderung, für die Michael entscheidend zur Entwicklung effizienter graphentheoretischer Lösungskonzepte beigetragen hat. Neben seiner fachlichen Kompetenz habe ich insbesonder seine überlegte und sorgfältige Arbeitsweise sowie seine uneingeschränkte Hilfsbereitschaft kennen und schätzen gelernt.
-    clientThumb : images/client-logo/dschulz.jpg
-    clientName  : "[Daniel Schulz, M.A.](https://www.linkedin.com/in/daniel-schulz-452790163/)"
-    clientDesignation: Senior Associate Consultant, KPMG Deutschland
+      Michael Dirnberger hat uns im Rahmen einer Sitzung des Industrieforum F&E sehr gut präsentiert, wie Graphen es ermöglichen abstrakte Struktur systematisch zu nützen und durch vernetztes Denken konkrete Probleme gelöst werden können.
+    clientThumb : images/client-logo/krink.jpg
+    clientName  : "[Karlheinz Rink](https://www.linkedin.com/in/karlheinz-rink-b920b028/)"
+    clientDesignation: Industriellenvereinigung Steiermark
+  # - quote       : >
+  #     Michael's attention to detail and understanding of the client objectives really helped the team steer towards productive cooperation.
+  #   clientThumb : images/client-logo/benflood.jpg
+  #   clientName  : "[Dr. Ben Flood](https://www.linkedin.com/in/drbenflood/)"
+  #   clientDesignation: Senior Manager, KPMG Deutschland
+  # - quote       : >
+  #     We were working together on a research project that required an interdisciplinary approach from computer science, biology, electrical engineering, and physics. Michael was crucial for the success of this project: His skills combine creative out-of-the-box thinking and thoroughly thought through solutions with a self-organized and timely work schedule that I could completely rely on. I can only highly recommend him!
+  #   clientThumb : images/client-logo/mfuegger.jpg
+  #   clientName  : "[Dr. Matthias Függer](http://www.lsv.fr/~mfuegger/)"
+  #   clientDesignation: Senior Researcher , CNRS Paris
+  # - quote       : >
+  #     Ich hatte das Vergnügen mit Michael zusammen über ein halbes Jahr an einem sehr arbeitsintensiven Projekt zu arbeiten. Dabei hat er uns hervorragend mit seiner technischen Expertise unterstützt und maßgeblich zum Erfolg des Projektes beigetragen. Ich kann Michael vorbehaltlos weiter empfehlen und würden mich freuen, noch viele weitere Projekte mit ihm zusammen zu bearbeiten.
+  #   clientThumb : images/client-logo/pschwingenschloegl.jpg
+  #   clientName  : "[Paul Schwingenschloegl, MSc.](https://www.linkedin.com/in/paul-schwingenschloegl/)"
+  #   clientDesignation: Senior Consultant, PwC GmbH WPG
+  # - quote       : >
+  #     Für fast ein Jahr habe ich mit Michael in verschiedenen Projekten zusammengearbeitet. Dabei lernte ich seine Meinungen und fachlichen Aussagen sehr schnell schätzen. Sie waren ausnahmslos klar, präzise, gut begründet und unbeeinflusst von vielleicht projektseitig gerne gesehenen Einschätzungen. Insbesondere die ergebnisoffene Entwicklung in fachlichen Diskussionen an Tafel und White-Board lieferte immer ein einheitliches Problemverständnis und häufig auch eine direkte Lösungsstrategie. Darüber hinaus konnte ich, bedingt durch unsere unterschiedlichen Fachgebiete, sehr viel von Michaels Fachwissen lernen. Neben zentralen Ideen hat er dabei meist auch noch "Best-Practice" vermittelt.
+  #   clientThumb : images/client-logo/kschwarz.jpg
+  #   clientName  : "[Dr. rer. nat. Karsten Schwarz](https://www.linkedin.com/in/karsten-schwarz-b6869914a/)"
+  #   clientDesignation: Senior Data Scientist, Lighthouse KPMG Deutschland
+  # - quote       : >
+  #     Ich habe mit Michael im Rahmen eines Projektes zur Passantenstromanalyse zusammengearbeitet. Der Wechsel des Fortbewegungsmittel (Pkw und Fußweg) war eine zentrale Herausforderung, für die Michael entscheidend zur Entwicklung effizienter graphentheoretischer Lösungskonzepte beigetragen hat. Neben seiner fachlichen Kompetenz habe ich insbesonder seine überlegte und sorgfältige Arbeitsweise sowie seine uneingeschränkte Hilfsbereitschaft kennen und schätzen gelernt.
+  #   clientThumb : images/client-logo/dschulz.jpg
+  #   clientName  : "[Daniel Schulz, M.A.](https://www.linkedin.com/in/daniel-schulz-452790163/)"
+  #   clientDesignation: Senior Associate Consultant, KPMG Deutschland
   - quote       : >
       It is a good idea to have Michael on your team. And it is a better idea to have him on your team in the early stages of your project. The questions he asked did help me understand the problems I wanted to solve. In a sense, Michael brings some very valuable Anti-Scrum to projects. He wants to find the definition of a problem, and then a good solution. While working on a project involving Graphs, and an ETL-pipeline for GIS data, I have learned A LOT, both conceptual and technical. I still use the lessons learned today on other projects. My employer should definitely be happy about the added value that Michael planted in our company, and I am, too, because working with him has been motivating and fun.
     clientThumb : images/client-logo/achrist.jpg
@@ -35,13 +40,13 @@ item    :
     clientThumb : images/client-logo/bmaciaga.jpg
     clientName  : "Mag. Bartek Maciaga"
     clientDesignation: Consulting Partner, KPMG Deutschland
-  - quote       : >
-      Ich lernte Dr. Michael Dirnberger im Rahmen eines Projekts über Optimierungsverfahren kennen, die anwendungsbezogene Probleme aus der Versicherungswirtschaft lösen, aber dennoch auch vielfältiger einsetzbar sind. Michael’s fachlichen wie auch persönlichen Stärken kamen hierbei schnell in vielfältiger Weise zum Vorschein, z.B. in Bereichen von mathematischen Lösungsstrategien und technischen Implementierungsideen als auch im Umgang mit den anderen Teammitglieder, mit denen Michael kritisch, ehrlich, konstruktiv und zielorientiert zusammenarbeite. Ich kann Michaels Engagement in all den genannten Bereichen bedingungslos weiterempfehlen.
-    clientThumb : images/client-logo/fwittemann.jpg
-    clientName  : "[Mag. Frank Wittemann](https://www.linkedin.com/in/frank-wittemann-4a41777b/)"
-    clientDesignation: Senior Manager, KPMG Deutschland
-  - quote       : >
-      Als Wissenschaftler hatte sich Herr Dr. Dirnberger erfolgreich in der Netzwerkanalyse​ und der Algorithmenentwicklung profiliert. ​Er erkannte früh, dass komplexe Gefüge dieser Welt durch Graphen nicht nur verständlich gemacht werden können, sondern dass entsprechende Technologien auch in praktischen Anwendungen zur Effizienzsteigerung und in der strategischen Planung einsetzen lassen. Herr Dr. Dirnberger wird mit seinen innovativen Ansätzen bisher nicht ausgeschöpftes Potential von Unternehmen aktivieren.
-    clientThumb : images/client-logo/mgrube.jpg
-    clientName  : "[Prof. Dr. Martin Grube](https://www.linkedin.com/in/martin-grube-60482049/)"
-    clientDesignation: Professor für Pflanzenwissenschaften, Karl Franzens Universität Graz
+  # - quote       : >
+  #     Ich lernte Dr. Michael Dirnberger im Rahmen eines Projekts über Optimierungsverfahren kennen, die anwendungsbezogene Probleme aus der Versicherungswirtschaft lösen, aber dennoch auch vielfältiger einsetzbar sind. Michael’s fachlichen wie auch persönlichen Stärken kamen hierbei schnell in vielfältiger Weise zum Vorschein, z.B. in Bereichen von mathematischen Lösungsstrategien und technischen Implementierungsideen als auch im Umgang mit den anderen Teammitglieder, mit denen Michael kritisch, ehrlich, konstruktiv und zielorientiert zusammenarbeitet. Ich kann Michaels Engagement in all den genannten Bereichen bedingungslos weiterempfehlen.
+  #   clientThumb : images/client-logo/fwittemann.jpg
+  #   clientName  : "[Mag. Frank Wittemann](https://www.linkedin.com/in/frank-wittemann-4a41777b/)"
+  #   clientDesignation: Senior Manager, KPMG Deutschland
+  # - quote       : >
+  #     Als Wissenschaftler hatte sich Herr Dr. Dirnberger erfolgreich in der Netzwerkanalyse​ und der Algorithmenentwicklung profiliert. ​Er erkannte früh, dass komplexe Gefüge dieser Welt durch Graphen nicht nur verständlich gemacht werden können, sondern dass entsprechende Technologien auch in praktischen Anwendungen zur Effizienzsteigerung und in der strategischen Planung einsetzen lassen. Herr Dr. Dirnberger wird mit seinen innovativen Ansätzen bisher nicht ausgeschöpftes Potential von Unternehmen aktivieren.
+  #   clientThumb : images/client-logo/mgrube.jpg
+  #   clientName  : "[Prof. Dr. Martin Grube](https://www.linkedin.com/in/martin-grube-60482049/)"
+  #   clientDesignation: Professor für Pflanzenwissenschaften, Karl Franzens Universität Graz
