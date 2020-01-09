@@ -1,10 +1,16 @@
 
-$(function(){
+document.addEventListener('DOMContentLoaded',function(){
   draw_graph_intro();
 });
 
 $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
   var target = $(e.target).attr("href") // activated tab
+
+  if (document.getElementById('graph_intro') == null){
+    // I do not know how to handle errors that follow if graph_intro is not visible when this script executes.
+    // Thus I abort execution ahead of time.
+    return;
+  };
 
   switch(target) {
   case "#graph_item":
@@ -98,6 +104,7 @@ function draw_graph_intro() {
       max:150
     }
   };
+
   network = new vis.Network(container, data, options);
 
 };

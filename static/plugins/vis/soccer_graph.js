@@ -1,5 +1,6 @@
 
-$(function(){
+document.addEventListener('DOMContentLoaded',function(){
+
 
   var network;
   var allNodes;
