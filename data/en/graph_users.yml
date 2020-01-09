@@ -7,7 +7,7 @@ item    :
   - positionRight : true
     image : images/graph_users/recommendation_graph.png
     js: soccer_graph
-    title : Graphs simplify working with structured data of any kind!
+    title : Graphs simplify managing structured data of any kind!
     description : >
 
       Simply **model your use cases as graphs** and exploit the power of graph libraries or graph databases to **efficiently transform,
@@ -34,9 +34,9 @@ item    :
       Examples for this include the analysis of social networks or the **visualization of complex processes** of various sorts.
 
   - positionRight : true
-    image : images/graph_users/relations_graph.png
+    image : images/about/graph.png
     js: soccer_graph
-    title : Graphs help see the relations between the entities that are essential to your success!
+    title : Graphs uncover the essential relations between the entities that drive your success!
     description : >
       Your operation uses structured data and processes aiming to get the **maximum use** out of them.
       However, **proper data management requires strategies** to meet various challenges connected to the handling of data.

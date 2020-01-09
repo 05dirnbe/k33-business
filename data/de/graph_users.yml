@@ -35,9 +35,9 @@ item    :
       Beispiele hierfür finden sich in der Analyse von sozialen Netzwerken oder der **Visualisierung komplexer Prozesse** aller Art.
 
   - positionRight : true
-    image : images/graph_users/relations_graph.png
+    image : images/about/graph.png
     js: soccer_graph
-    title : Graphen erfassen Beziehungen zwischen den entscheidenden Dingen!
+    title : Graphen machen die Beziehungen zwischen den entscheidenden Dingen explizit!
     description : >
 
       Ihr Geschäft nützt strukturierte Daten und Prozesse und versucht aus diesen das **Maximum an Nutzen** herauszuholen.
