@@ -18,7 +18,11 @@
                         </li>
                         <!-- <li class="list-inline-item">
                             <span>, </span>
-                            <span>{{ .Date.Format .Site.Params.dateFormat }}</span>
+                            <span> final {{ dateFormat .Site.Params.dateFormat "2020-07-10"}} final</span>
+                            <span> alpha {{ .Date.UTC.Format .Site.Params.dateFormat }} alpha</span>
+                            <span>{{ .Params.date }}</span>
+                            <span>test {{ dateFormat "01.02.2006" "2020-07-10" }}</span>
+                            <span>test {{ dateFormat "2006-01-02" "2020-07-10" }}</span>
                         </li> -->
                     </ul>
                 </div>

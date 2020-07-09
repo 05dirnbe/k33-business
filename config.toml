@@ -110,7 +110,7 @@ DefaultContentLanguage = "de"
     weight = 2
     languageCode = "de-at"
     title = "k33 Experts - Your Guide To Graphs"
-    dateFormat = "2.1.2006"
+    dateFormat = "02.01.2006"
 
     home = "DE Home"
     logo = "images/logo.png"
