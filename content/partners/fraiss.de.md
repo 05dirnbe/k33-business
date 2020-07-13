@@ -6,7 +6,7 @@ date: 2020-07-07
 logo: images/partners/fraiss_logo.png
 image: images/partners/mfraiss.jpg
 author: Michael Dirnberger
-categories : [startups]
+categories : [it, consulting]
 draft: false
 ---
 
