@@ -1,0 +1,107 @@
+for the target audience who has this problem, your company provides this solution.
+Different from the market Landscape, you have this Advantage by providing this reason to believe.
+
+Target audience
+
+Who can I help?
+
+Software Engineers
+Data Scientists
+Decisionmaker
+
+Software Engineer:
+
+  problem: Needs to implement effective solutions for data problems.
+  Graphs and graph dbs can be building blocks for such solutions but need to be mastered
+
+  pain points: Inefficient implementations of solutions cost more money and time.
+
+  solutions: Use best-practice implementations centered around graph dbs and reduce costs.
+  k-33 offers: Workshops
+
+Data Scientist:
+
+  problem: Needs to systematically organize and investigate data.
+  Graphs provide a proper platform for data science tasks but need to be
+  understood and mastered.
+
+  pain points: Getting connected data into a form that allows existing tools to operate on it
+  is a very time consuming and thus costly process.
+
+  solutions: Represent data as graphs and apply methods from network science.
+  Graph thinking unlocks powerful analysis methods.
+
+  k-33 offers: Consultations, Workshops
+
+Decisionmaker
+
+  problem: Needs to identify technologies relevant to realize business cases.
+  Graphs provide such technologies but need to be known and understood.
+
+  pain points: Staying up to date and well informed is necessary but very difficult.
+  Since it takes a lot of time it can be very costly to do.
+
+  solutions: Getting expert opinions and up-to date information to rely on.
+
+  k-33 offers: keynotes, consultations
+
+
+Verkäufer muss in der Lage sein zu verdeutlichen, welche Wertschöpfung bzw. Nutzen sich ein Kunde mit seinem Budget und seiner Investitionsentscheidung erschließen kann.
+
+
+verkäufer muss werte haben und nach diesen handeln
+
+
+mit der richtigen Struktur die richtigen dinge richtig umsetzen.
+
+
+Fragen an Kunden:
+
+1) Was wünschen die sich von dem was sie zu bieten haben am meisten
+2) Wo drückt der Schuh die Kunden, an die sie in zukunkft verkaufen wollen am stärksten?
+3) Welches sind die größten Sehnsüchte, die Sie stillen können?
+
+Wer ist morgen mein Kunde?
+Was hat er vor?
+Was braucht er?
+Wie stellt er sich auf?
+
+Verkaufen Sie keine Produkte verkaufen Sie Lösungen!
+
+Verkausprozess:
+
+* Nach dem Termin kurz rückmelden, dass es ein produktives Treffen war.
+
+* Bei Presiverhandlungen nicht beim Preis sondern bei den Details Entgegenkommen zeigen. Ohne Preis kein Fleiß.
+
+* Nach Abschluss anrufen und erkundigen, ob der Kunde noch etwas braucht oder noch andere Wünsche hat.
+
+
+Markenchecklist:
+
+Meine Ziele: Wofür möchte ich bekannt sein?
+Die Wünsche meiner Kunden: Welche Versprechen locken Sie am meisten an?
+Meine Persönlichkeit: Welche persönlichen Eigenschaften möchte ich am meisten hervorheben?
+
+Kurz: Meine Marke lässt sich wie folgt beschreiben: ???
+
+Danksagung:
+
+bedanken für dinge die mich voranbringen: Vertrauen des Kunden, Reklamation, Verbesserungsvorschläge, Empfehlungen ...
+nicht bedanken für dinge die beide voranbringen: Termin oder Auftrag
+
+Furhther Research in solution selling and challenger selling!
+
+You can't download a handshake!
+
+Kunde kauft einen Nutzen und nicht ein Produkt/Dienstleistung. Siehe 14.5
+
+
+Was ist die Lage?
+Was ist das Ziel?
+Welche Lösung empfehle ich?
+Call to action
+Beifall auslösender Schlusssatz
+
+
+Angebotslegung S 559

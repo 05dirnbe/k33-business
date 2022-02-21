@@ -211,10 +211,10 @@ DefaultContentLanguage = "de"
         name    = "partners"
         url     = "partners"
         weight  = 5
-    [[menu.nav]]
-        name    = "blog"
-        url     = "https://blog.k33experts.com"
-        weight  = 7
+    # [[menu.nav]]
+    #     name    = "blog"
+    #     url     = "https://blog.k33experts.com"
+    #     weight  = 7
     [[menu.nav]]
         name    = "academy"
         url     = "https://k33-academy.thinkific.com/courses"
